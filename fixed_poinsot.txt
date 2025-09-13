@@ -1522,7 +1522,6 @@ cdes - {S} = ri'iw：清漆；生漆
 cdet：分娩陣痛；燒燙
 cdet - macdet：被開水燙傷自己
 cdet - micdet：燒熱；用開水燙；升火
-[這是空白]marang
 cdet - pacdet：用烙鐵給水牛印記
 cdi' = 'icel：力量；能力；重力 - ci cdi' ko sowal nira：他熱情的講話 (或) 他的話據有法律效力
 cdo' - micdo' = midfog：浸入水 - “Miocor ci Lazaloan a taini a cdo'en i nanom ko
@@ -2008,7 +2007,6 @@ ciwsia - {J} = cosiya：打針
 ciyak - {N}：西瓜：cak, lidaw, kacawas, sinar；南瓜(S)
 ciyak - {S} = tamorak：南瓜；筍瓜
 ciyas - micias：瀑布的聲音
-[這是空白]marang
 ciyo'：水滴的聲音；蛙；雨蛙
 ciyog：極壞的天氣；風暴；壞運
 ciyokin - miciyokin：把錢存在銀行
