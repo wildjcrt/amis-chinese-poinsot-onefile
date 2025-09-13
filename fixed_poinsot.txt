@@ -17497,7 +17497,7 @@ tpa - {N} mitpa = kra = tama, pakatpa：去找；找到
 t’paan - nisat’paan = nisataloan：樹枝做的屋
 tpad - masatpad {NZ} = gapad = tono’：懸崖；陡峭 - tpatpadan ko lalan：陡峭的路
 tpar - {N} = copa：走近，靠近；靠近地，貼近地 - i tpar：在近旁；依靠，信任
-tpeg = latag = sato：米的測量 - ccay tpeg：一斗(≒十升 = 10,355 公升)
+tpeg = latag = sato：米的測量 - ccay tpeg：一斗(= 十升 = 10,355 公升)
 tpeg - matpeg = mana’ag, patpeg：把穀物放進倉庫 - “Tastasen ako ko ’ariri, a patireg to tata’agay, ta matpeg itira ko polog a kakaenen ato dafog”(路 12,18)“我要把原有的倉庫拆了，改建一座更大的，來存放五穀和別的貨物”
 tpeg - mitpeg：量面積
 tpek：因挖掘發生崩塌
