@@ -2687,7 +2687,7 @@ dakidakit：毛海棗 (和棕櫚樹同科)，果可食用
 dalamisan：辣的口味
 dama：幫忙，扶助，支持
 dama - midama：支撐；援助；支持
-dama -  padama：把臂撐別人的肩上
+dama - padama：把臂撐別人的肩上
 dama - padamaay：助手；輔彌撒者
 dama - sadama：倚靠
 dama - sadamaan = dalamisan：辣的口味
@@ -3207,7 +3207,7 @@ etir = 'tir：精液；放蕩
 'etol = 'tol：激起性感，慾火上昇；淫蕩
 etot - maetot = 'tot：發聲的屁
 ewag = 'wag：徒然地叫罵
-f a - ('fa)：馬
+fa - ('fa)：馬
 'fa - mifafa i 'fa：騎馬
 'fa - pa'faan：馬房
 'fa - paka'fa：騎馬
@@ -14674,7 +14674,7 @@ rtecan - nirtecan：燒焦肉油的味道，壓榨的汗
 rtep = takop：抓住；使停止，阻止；到達這裡；靠近 - martep ako ko tatiihay a
 sowal nira：我阻止了他，他要說不好的致詞 - martep kako ko dmak nira：我中止了他的工作
 rtes：滲液的；從傷口滲出的血清
-S 和 H 的音很近似的，如 sofoc = hofoc；salama = halama；skal = hkal…(按各地方的出聱習慣性）
+S：S 和 H 的音很近似的，如 sofoc = hofoc；salama = halama；skal = hkal…(按各地方的出聱習慣性）
 sa - <1>：sa 加動詞的詞根造工具的名字，例 miforat：打開 ／ saforat：鑰匙
 sa - <2>：sa 和虛擬式，有時候 sa 和 aw 的後詞，有結束的意思，如：sa no sowalen iso a milahci i takowanan：願你的話成就在我身上
 sa - <3>：後果從句或比較級： sa 造副詰或副詞的形容詞和與 an - sato 後綴合作 - sa romi’ad kako a mafoti’：我整天睡覺
