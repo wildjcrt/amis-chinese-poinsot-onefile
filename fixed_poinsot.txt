@@ -947,8 +947,7 @@ awakay ＝ akaway：竹節；葉柄
 'awaled - {S} ＝ 'awa：腿彎
 'awaray - {F} ＝ waray：扎吵架的兩個對方人物拉開；分開
 'awas：跨步，跨過
-"'awas - mi'awas：跨過；過在遠處 - ""ano mama'deg a mi'awas cigranan tona"
-toki”(谷：14,35)“若是可以，不使他經歷這個痛苦” - 'awasen：請跨過去
+'awas - mi'awas：跨過；過在遠處 - “ano mama'deg a mi'awas cigranan tona toki”(谷：14,35)“若是可以，不使他經歷這個痛苦” - 'awasen：請跨過去
 'awas - pi'awasan a lisin：復活節
 'aw'aw - mi'aw'aw：吠；狗叫
 'aw'aw - pa'aw'aw：請巫術 ( 要是一個孩子失蹤了)；向一個巫師給錢
@@ -1451,7 +1450,7 @@ canem - cicanem：不純的：儀式不純； - cicanemay ko loma'：因犯禁�
 cani'iw：內部的；裏面；角落 - mimaan kiso a maro' i cani'iw no loma'：你坐在
 家裡面 趕什麼？；看不見的地方 - “Mafoti' ci Yiso i cani'iw no tamina”：耶穌在
 船內睡覺” - aka cani'iwen ko faloco'：不要埋藏心事
-"caniker = ciker : 鎖；關閉裝置 - ""Canikeren no misawawaan ko sasa'def no kasa'o-"
+caniker = ciker : 鎖；關閉裝置 - “Canikeren no misawawaan ko sasa'def no kasa'o-
 poan a loma'”(若：20,19)“他們聚在一起，門緊緊地關者...” - “Macaniker ko sasa'
 def, taini ci Yiso i sifo' nagra”(若：20,26)“門開者，可是耶穌忽然顯現，站在他們當
 中...”
@@ -3443,7 +3442,7 @@ fadadiaw ＝ facacido'：蜻蜓
 fadadico' ＝ fadadayaw：潛水蟲，青蚨
 fadadiol - {F} ＝ finaniol：蝌蚪
 fadadoki：蝙輻
-"fadafad = koreg：桶；測量：差不多 23 公升 - ""Ccay no'li' a fadafad ko simal"
+fadafad = koreg：桶；測量：差不多 23 公升 - “Ccay no'li' a fadafad ko simal
 (路：16,5)“一百桶橄欖油”
 fadagah：胸廓
 fadagal - (fadagalan)：手臂，肘部肩膀之間
@@ -13299,7 +13298,7 @@ pagkiway a tamdaw：頭腦較簡單的；精神的障礙
 pago’o - pago’o to goyos：口對口人工呼吸
 pago’o - pago’o to tagila：交頭接耳，附耳說話 - oyaan a nipago’oan i tagila a
 sowal：你附耳的話
-"pagpag - pagpagan：屋頂的突出部分；走廊，屋簷下 - ""Ccay ko faloco’ no"
+pagpag - pagpagan：屋頂的突出部分；走廊，屋簷下 - “Ccay ko faloco’ no
 salikaka a masa’opo i pagpagan ni Salomon”(徒：5,12)“所有的信徒都同心合意地
 在撒羅門廊下聚集”
 pagpag：重瓣黃梔
