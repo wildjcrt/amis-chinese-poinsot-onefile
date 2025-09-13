@@ -9748,7 +9748,7 @@ lohak - malohak：鬆弛的(綿)；放鬆的；精神飽滿的；減輕的
 lohak - milohak：放鬆的
 lohaloh - milohaloh = lalok：躍躍欲試
 Loham：台東縣長濱鄉八仙洞
-lohem — malohem : 熟了 - “Yo ma’deg to ko lohem no hci ’i, papiritriten no
+lohem - malohem : 熟了 - “Yo ma’deg to ko lohem no hci ’i, papiritriten no
 tamdaw”(可：4,29)“晨作物成熟，他立刻用鐮刀收割，因爲收成的時候到了
 lohfaw：臉水腫 - malohfaw ko laway nira：他的臉有浮腫
 lohfaw - {N} = ofaw：香芹：Petroselinum sativum
@@ -11007,7 +11007,7 @@ mnad：可食的植物，昭和菜
 mnad - {F} = colal：很久不在後重新出現
 mnafaw - {N} = nawnaw：淹沒
 mnah - {N} = hmot：肛門
-mnaw - mamnaw {N}：角膜翳；—葉障目；一些帳目
+mnaw - mamnaw {N}：角膜翳；-葉障目；一些帳目
 mno - mamno {Z}：瞎的 - mimno：閉眼
 mo：前綴，用代替 ma，常變成 om 例：komaen, toma’i 有時候 ‘o’是取消的和在前面的輔音：ta’i = toma’i = ma’i ／ rakat = romakat = rakat
 ’mo - <1>：年糕
