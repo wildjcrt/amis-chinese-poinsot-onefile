@@ -2235,7 +2235,7 @@ cnon - micnon, pacnon：遣責再懲罰；阻止；停止；中斷；懲罰為�
 了”；入侵
 'co - mi'co：奪取，佔領(政權，土地)；蔓及；入侵；窒息
 'co - {J}：象
-co'a'ag ＝ co'a'ar ＝ coaar：逆風；及抗 - maco'aag ko hikoki niam ko fali - naco' - a'ag no tamina koya fali：風逆了我們的飛機，船
+co'a'ag ＝ co'a'ar ＝ coaar：逆風；及抗 - maco'aag ko hikoki niam ko fali - naco'a'ag no tamina koya fali：風逆了我們的飛機，船
 co'a'ag - mico'a'ag：逆風而上 - maco'a'ag no fali ko hikoki niam：我們的飛機
 逆風而上
 coaco' no riyar：惡浪的聲音
@@ -2880,7 +2880,7 @@ Dadap：花蓮縣豐濱鄕斜台地(長虹橋東南)
 dapic：外國人；被障礙各別的鄰居
 dapic - madapic ＝ malofic：密擠 - madapic ko hci nona kilag：這棵樹的果子很多
 dapiyac：建築用的石板；熔岩石
-dapo - midapo, padapo ＝ dapog：包裝；打包；蒙住；秘密；戴面罩：mida - -poay：戴面罩的
+dapo - midapo, padapo ＝ dapog：包裝；打包；蒙住；秘密；戴面罩：midapoay：戴面罩的
 dapo - sadapo：面罩
 daponohay - madaponohay ＝ maponegay：寡居的；寡婦
 daponokay ＝ maadapaway：火花
@@ -6021,7 +6021,7 @@ icdosay - maicdosay ＝ ma'des：不公正的，不公平；惡的，凶惡的
 'icel：能力，力量；力，力氣，頭力 - o 'icel no pitoor nira konini：是他信仰的
 力量
 'icel - ci 'icel ＝ ci cdi'：健壯的，有力的；有力量的 - ci 'icel ko faloco'：勇敢的
-'icel - pa'icel：變有力量；使健壯；鼓勵 - pa'icelen a sowal：鼓勵的話 - pa - 'icelen cigra to saka ca'aw ka tolo' nira：鼓勵他，因而他不會跌倒
+'icel - pa'icel：變有力量；使健壯；鼓勵 - pa'icelen a sowal：鼓勵的話 - pa'icelen cigra to saka ca'aw ka tolo' nira：鼓勵他，因而他不會跌倒
 'icel - sa'icel：用力，努力 - sa'icelen sa kako：我自我努力 - sa'icelen, ga'
 mafana'：堅地下去，你的努力不會白費的，你會谷易地練習
 'icep ＝ fogid ＝ fohid：檳榔樹，檳榔
@@ -9438,7 +9438,7 @@ laspat - mipalaspat：分成四份
 lata'：落下(斧)；切屑{F}
 lata - milata：驅逐壤神(巫)
 lata'aag ＝ lita'ag：光榮；驕傲 - malata'ag kako to wawa ako：以我的孩子為榮；
-驕傲，自尊 - kalata'agen ako ko wawa ako：我為自己的孩子感到自豪 - salata - 'ag sa：自得意滿
+驕傲，自尊 - kalata'agen ako ko wawa ako：我為自己的孩子感到自豪 - salata'ag sa：自得意滿
 latag ＝ tpeg：量器，計量單位 ＝ sato (升斗)
 latag - nilatagan：斤量 - “O adihayay a nilatagan a losa' ko nipaflian iso i tamiyanan to mala nananomen niam”(詩：79,5)“你給我們喝一大杯眼淚”；思賜 - “Nilalagan ni Kristo”(腓：4,7)“基督的思賜”
 latag - salatag ＝ sapilatag ＝ talatagan：測量；一斗容量
@@ -10644,7 +10644,7 @@ lotem - malotem {Z}：燒焦的
 lotih - malotih a maroray：患跛皮炎的；腳酸，指不起來
 lotiil - malotiil：枯萎的；未老先衰
 io’timay：褐色，棕色；一塊青；青腫
-lotlot：損傷很嚴重 - lotlot han no palidig ko tireg nira a mistol；損壞嚴重 mas - tol nira ko amoto a hcek o lotlot no palidig nira：他的車子撞到石柱而折壞了
+lotlot：損傷很嚴重 - lotlot han no palidig ko tireg nira a mistol；損壞嚴重 mastol nira ko amoto a hcek o lotlot no palidig nira：他的車子撞到石柱而折壞了
 lotlot - malotlot：皺折，揉縐 - malotlot ko wawa ko tatiplok：紙張被小孩弄皺
 皽；損壞的；弄壞的：malotlot no palidig ko nipalomaan niyam a tfos：我們的
 甘蔗被車子壓扁了
@@ -12679,7 +12679,7 @@ ori’ - maori’ ＝ mori’：吐，嘔吐
 ’orip - ma’orip：活著，生活，生存
 ’orip - ma’oripay：活的，活著的，活著的人
 ’orip - mipa’orip：救命
-’orip - pa’orip：使有生氣，使具有火力；生下一個孩子；救某人的生命 - pa - ’oripen nira kako：他救我的命
+’orip - pa’orip：使有生氣，使具有火力；生下一個孩子；救某人的生命 - pa’oripen nira kako：他救我的命
 ’orip - pina’orip：飼養的動物或種植的植物
 ’orip - sapa’orip：為給生命；安全的儲備；聖化恩寵(？)
 ’oripay - Pa’oripay：救主：祂給生命 - 祂釋放；選的詞為指天主(上主)，有
@@ -12723,7 +12723,7 @@ osay - {J}：縫線
 osed - maosed：失去的，安喪失的；未使用的，未被利用的 - “Sa’opoen ko
 ’osaw, a mikimit to saka’ca kalaosed”(若：6,16)“把剩下的零破都收合起來，不可
 糟蹋”；亂化錢
-’osget - ma’osget ＝ gotfol：倨傲的；不高興地，臉臭臭的；拉長著臉 - “Mipa - ’araw to ma’osgetay a laway, papinegneg i taowanan to nipisaliway nagra”(太：6,16)
+’osget - ma’osget ＝ gotfol：倨傲的；不高興地，臉臭臭的；拉長著臉 - “Mipa’araw to ma’osgetay a laway, papinegneg i taowanan to nipisaliway nagra”(太：6,16)
 “他們裝出一副苦相，好讓別人看出他們正在禁食” - sa’osget san cigra a ocoren
 a pakatayal：叫他工作他很不樂意
 osi - <1>：看(書，等)；唸；計質 - misa’osi {S}：擬訂計劃；唸，朗讀，讀書
@@ -12742,7 +12742,7 @@ ota’ - sakaota’an：想吐，惡心；使…厭惡
 ’oteg：魚網的鉛片
 ’oteg - <1> ma’oteg：降級的；毀壤；腐爛的
 ’oteg - <2> ma’oteg：囝惑時，留下在家理
-’oteg - <2> ma’otegay：麻痺患者 - “Ma’adah ko ’alomanay a ma’otegay ato mapi - ’iway”(徒：8,7)“許多癱瘓的，瘸子都獲得醫治”；瘸腿的 - “A matiya o malonem
+’oteg - <2> ma’otegay：麻痺患者 - “Ma’adah ko ’alomanay a ma’otegay ato mapi’iway”(徒：8,7)“許多癱瘓的，瘸子都獲得醫治”；瘸腿的 - “A matiya o malonem
 no cikay no ma’otegay”(賽：35,6)“那時，瘸子必要跳躍如鹿”
 ’oteg - <3> ma’oteg：被捕獸器捕捉的
 ’oteg - sa’oteg：捕獸器
@@ -15097,7 +15097,7 @@ rapid - parapid：緊靠 - parapid a patireg to loma’ i rarigid：原屋旁多
 rapi’piay：小灌木(葉子像金合歡屬植物)
 rapiyac ＝ dapiyac：熔岩；石板
 rapot ＝ ramot：被牽連，涉及
-rapot ＝ rapic：提交法官仲裁的；可以隨意進入 - “Caay ka rapot cagra a mapa - ’orip iso”(詩 68,28)“使他們得不到你的拯救” - “caay karapot kiso a makari’ag”
+rapot ＝ rapic：提交法官仲裁的；可以隨意進入 - “Caay ka rapot cagra a mapa’orip iso”(詩 68,28)“使他們得不到你的拯救” - “caay karapot kiso a makari’ag”
 （詩 90,7）“禍患不至於臨到你”
 rara：不認真；慢慢的 - rara saan cigra a romakat：他慢慢的走 - pararaen cigra：
 讓他先開始因他很慢 - sarara sa cigra a matayal：他工作不認真
@@ -17802,7 +17802,7 @@ tademan - tatademan ＝ pitademan：墓地，公墓
 tadgal - {S} ＝ ta’gad：光，光線；明光
 tadi’di’dip - matadi’di’dip：在幾個層；層層疊起來
 tadi’ec：依靠；連接的；信賴，相信；躲避，避難 - caay ko tatadi’ecen cigra：
-我們不能信賴他 - cima ko pitadi’ecan iso anini：現在你能信任誰？ - o mitadi’ - ecay i Tapag：我靠上主的人 - matadi’ec no loma’nira ko loma’ niam：他的房子
+我們不能信賴他 - cima ko pitadi’ecan iso anini：現在你能信任誰？ - o mitadi’ecay i Tapag：我靠上主的人 - matadi’ec no loma’nira ko loma’ niam：他的房子
 是連接我們的
 tadifas - matadifas, mitadifas：太過份；超過價格 - tadifas a komaen to ’pah：他
 喝酒得太過分
