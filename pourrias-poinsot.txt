@@ -67,7 +67,7 @@ acofel = 'acfel：煙；蒸氣
 acoho - {S} = rmes：血液
 acohod：灰塵
 ada： 實在的.
-'ada；敵人；仇人；仇敵 - a ka pisa'ada to tamdaw：不要跟別人為仇
+'ada：敵人；仇人；仇敵 - a ka pisa'ada to tamdaw：不要跟別人為仇
 ada'=da'ada=ada'da：(感嘆) ada', tayra：妤巴！你去巴
 'ada - mili'ada, mali'ada, pali'ada：作戰
 'ada - misa'adaay：反對，對抗 - misa'adaay ci Kristoan：偽基督
@@ -5448,8 +5448,7 @@ htecan - pihtecan：壓榨機
 htik - {F} = tfad：跌倒 - mahtik ko dadigoan nira：他的眼鏡掉下來了
 htof mahtof {S} = lofic：因好多果實樹枝壓得彎下來 - htofen ko caag nora liwkag a miala to hci：把龍眼樹的枝拉彎，好拿它的果實
 i：扭過去；(副詞：和另外的字成為形容詞，要加後詞"ay" - 助詞，冠詞)：在
-'i：虛詞，無法翻譯；在句子後面預兆在下個句子理，一個描述或一個解釋；
-'i 也可以放在有條件的分句，如：ano ... 'i = 要是；也可以用為經營一個字 - inian a tamdaw 'i, ...：關於那個人...
+'i：虛詞，無法翻譯；在句子後面預兆在下個句子理，一個描述或一個解釋；'i 也可以放在有條件的分句，如：ano ... 'i = 要是；也可以用為經營一個字 - inian a tamdaw 'i, ...：關於那個人...
 i a'ayaw：前面，在前方；有...在場時
 i 'ayaw：過去，以前；從前，古時候；先，預先
 i capi - {Z}：在...附近，旁邊，靠近
@@ -8847,7 +8846,7 @@ ligesa'：鰓孔；魚鰓
 ligih：水罐碎片
 ligit - tanoligit = tano diget：流鼻涕的(小孩子)
 ligka - {J} (renga)：紅磗
-ligkay {中文} - miligkay to safitay {S}：為從軍子弟的送迎晚會
+ligkay {Ch} - miligkay to safitay {S}：為從軍子弟的送迎晚會
 ligkiw - {S}：辣椒
 ligkig = kigkig：龍眼
 ligko - {J}：蘋果
@@ -10166,7 +10165,7 @@ masatono'ay a lalan：在懸崖的路
 masatoritorisay：有線條的 - masatoritorisay a tiplok：橫線紙；浪花型
 masatosol：依次的
 masatpad：陡峭的；山峰
-masatrocay；尖凸的 - masatrocay a acofel：煙柱
+masatrocay：尖凸的 - masatrocay a acofel：煙柱
 masay：一種蔓藤
 masaya = 'oriyat：伸懶腰
 masayaya：餘怯，心有餘季 - masayaya ho ko faloco' toya mapapacokay i dadaya：因昨晚的兇殺案，我心還有餘懼
@@ -13681,7 +13680,7 @@ rocek - parocek：委託，詫付；交給；給一份 - Wamaaw, paroceken kami 
 rocek - raroceken：遺產的一份；該得的部分
 rocek - {FT} mirocek：不斷地，不停地
 rocek - {N} marocek：打中的（獵物）
-rocod(見 sarocod)：忠心的，忠實的；專注
+rocod：忠心的，忠實的；專注(見 sarocod)
 rocok：遺產，遺傳
 rocok - kararocorocok：一代一代的
 rocok - marocok = marocek：代替；繼承 - mirocok to ako ko omah no mama ako：我繼承我父親的田地
@@ -17404,7 +17403,7 @@ torod - patatorod {F}：腳手架
 torodan - tatorotorodan a lkakawa：傳統，風俗
 torohiyac - {F} = tahoriyac：滑而跌倒
 torok：光葉饅頭粿：Glochidion lancenlatum
-toron (見 tolon) - {N} patoron (見 tolon)：下命令
+toron - {N} patoron (見 tolon)：下命令
 toron：糯米糕 - misatoron：製作糯米糕
 toronan - tatoronan：蒸飯陶甗
 toronos：特別的工作；不停地做 {N}
