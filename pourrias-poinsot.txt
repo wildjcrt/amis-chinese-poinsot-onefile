@@ -61,7 +61,6 @@ aciya = aciyah = iciyah ： 觀呼聲 -aciya, makapahay kiso： 妳真好美麗
 ackay = acek：不潔的
 aclah - {S}：辣的
 'a'co - 急促的
-adawas
 'acocol = riger：陀螺
 'acocol -ma'acocol = mariger：使轉
 acofel = 'acfel：煙；蒸氣
@@ -3659,7 +3658,6 @@ fawfaw - mifawfaw：投擲，發射；漂浮；撒 - mifawfaw to 'asisiw 撒草(
 'fay：感嘆句，鬆了一口氣
 'fay - ma'fay：寬鬆的；鬆開的；鬆弛的；沒有繃緊的線
 'fay - {N} = fray = tray = taray：鬆弛的
-fava'
 faya’ - misafaya’ {N}： 不利於 ： 特別喜歡.
 faya' - misifaya' {TW}：台灣的戲劇
 faya' - pisafaya' = pisawili'：不等的，不平均的；不公正的；不一視同仁
@@ -5481,7 +5479,7 @@ icifa - {J}：市場，菜市場
 icila：昨天，前天，前幾天，近幾天前
 icilaay ho：最近
 iclag - {Z}：有勇氣的
-ico：'feld des bosen traumes'
+ico：feld des bosen traumes.
 icofel - {N} = cofel：鞘，套
 icowa：在那裡？，何處？
 icowa - icowaay：那一個
@@ -5868,8 +5866,7 @@ iwi - misoiwi：細心聽取；回眸，回頭看：iwi saan misikol
 'iw'iw：餓極了
 iyo = yo：瞧！，驚嘆語
 Ka：前置詞 (常常用在動名詞)；虛擬式的"ma"...動詞："ma"變"ka"有否定詞，命令詞，禁止詞；"ka"表示命令式：katayni：來這兒；"ka"地方的前綴：指示一個行動的時間或位置；ka...an 為"ma"的動詞 例：kalahokan：中午 - katimoran：往南部 - kaacekan：髒 - kaadihayan：很多；被動式的重詞( 沒有主動"mi"的形式) 例：katalawan：可伯的 - kaolahan：可愛的
-ka - ci ka：外號：隨著"ka"的名字和"ci"在"ka"前面是用為外號：ci Kaogto, ci
-Katiyad, ci Kafotol, ci Kapaga, ci Kapoti', ci Kaapa
+ka - ci ka：外號：隨著"ka"的名字和"ci"在"ka"前面是用為外號：ci Kaogto, ci Katiyad, ci Kafotol, ci Kapaga, ci Kapoti', ci Kaapa
 ka - ka'ca {F}：禁止：“你不能作這事”
 ka - maka：感知的實在性，被"ma"指示的
 Ka：花蓮縣壽豐鄉橄仔樹腳
@@ -6399,8 +6396,7 @@ kaliki = kalikin = lakikiay：神經性的，神經質
 kaliki - {S} = kalamkam：快地；迅速地 - kaliki cigra a mipahrek to tayal：他很快地把工作完成了
 kali'ki'ay：很強壯的，強大的
 kali'kid = kalidkid：快地，迅速地；指水流急促
-kalikolikol - {S}：
-kalikyokay = kalokyokay：臨時小教堂
+kalikolikol - {S}：kalikyokay = kalokyokay：臨時小教堂
 kalileg = karireg = fiher：車輪，輪子；投螺
 kalilig = 'iros：湯匙，勺子(以前的樣子)
 kalili = kaliki：快地，迅速地
@@ -7696,9 +7692,7 @@ ko'mi - <2> = ko'mih = ka'mi：柔軟的；甜的；溫柔的；十分敏感的�
 komikili = ligses：噁心；令人毛悚然，感覺不舒服
 komimit - mikomimit：手指擰；捏
 komin：一種菜的名字
-komi'ot = komiyot：佛手瓜，香木緣瓜：Chayote chirstophine；(飯不熟時叫
-'komi'ot')：
-komkom - mikomkom： = sa'opo：整合，集合，招集；逐一檢查；過路；帶領；領導 - “Nani cowacowa komkomen ako ko siri ako”(結：34,11)“我要自找回我的羊群”
+komi'ot = komiyot：佛手瓜，香木緣瓜：Chayote chirstophine；(飯不熟時叫"komi'ot")：komkom - mikomkom： = sa'opo：整合，集合，招集；逐一檢查；過路；帶領；領導 - “Nani cowacowa komkomen ako ko siri ako”(結：34,11)“我要自找回我的羊群”
 komo - kakomoan {F}：牛軛
 komo {S}：魚類的名字
 komo - {J}：橡皮膠；橡皮筯；雲 {N}
@@ -8130,7 +8124,6 @@ lafiwfiway = faliliw = farsi'：小灌木，在河床長出的：Bochmeria densi
 laflaf - {F} = miyamayan：使火勢更旺了；更加；助加火勢
 lafo = 'fo：混亂；煩惱 - ma'odag cigra, ira ko lafo no loma'：因他的通姦，在家加上煩惱；災禍，不幸 - o palafoay ci Satan：撒旦是惡運的原因；對某人施魔法
 lafo - cilafo：儀式的混雜(因違反禁條) - ca ci lafo kiso：該死的你；瑕疵；昌犯禁忌
-lafo - i lafo
 lafo - i lafo {Z} = i lalinik：在下面
 lafo - lalafo {N}：往下，朝下，樓下
 lafo - {S} = 'kak：詛咒，咒罵，(宗)懲罰
@@ -10275,7 +10268,6 @@ metmet - mimetmet：握緊拳頭
 metmet - nimametmetan a saskog (skog)：用握手拳頭威脅打某人
 mger：住，停留
 mi：前綴；前有 mi 的動詞被連一個名詞注出關於某某名詞的動作 - miicep：嚼檳榔 - minanom：喝水 - mitamako：抽煙；處擬式時(否定詞，命令詞，從句的動詞) mi…變 pi… ’mi {Tw} = ’did：大麥 ’mi - kalo’mi = tada’mi：小麥
-mi'aca：
 miaca = mihca：年，年齡 ’mic - mi’mic = ’atem：扣住，釣住，夾住 ’mic - sa’mic a talakal：捕野豬器 ’mic - sa’mic：鋏子；釣子，夾子；鉗子，夾鉗
 micadogag = nisariko'an：所穿的衣服
 mi’cag = mercag = ma’cem：耀眼的
