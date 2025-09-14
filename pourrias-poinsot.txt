@@ -14,9 +14,9 @@ aanag - miaanag (F)：藏，隱藏
 aasin：嚎噴
 'a'at：分娩呻吟
 aat - miaat - miaet：表明
-aaw = a'aw：鰓灰色的角金龜；金龜子；傳奇人物　髹
+aaw = a'aw：鰓灰色的角金龜；金龜子；傳奇人物 髹
 aayad：白蟻 aayad
-a'ayaw：前面；前頭；有　在場區時；(用心名予)招呼一個人 (Z)
+a'ayaw：前面；前頭；有…在場區時；(用心名予)招呼一個人 (Z)
 aca：再，又；或；不然，否則 - maro'kiso aca itira aca：你坐這兒或那兒，這是一事
 'aca：價錢；價格；代賈；功績
 'aca - 'acaen：要買的，要買
@@ -87,7 +87,7 @@ adahi：改善，改進；變好；進步
 adal - {Z} = ci fola：傻瓜
 'adapaw = salipaw = samamaw：火花，火星；埋伏.
 'adapaw - ma'adapaw：怒氣
-'adapaw - misa'adapaw：埋伏 - misa'adapaw to sapipatayaw i takowanan ko tatiihay a tamdaw（詠 119,95）：亞人窺我，想把我殺害；密謀.
+'adapaw - misa'adapaw：埋伏 - misa'adapaw to sapipatayaw i takowanan ko tatiihay a tamdaw(詠 119,95)：亞人窺我，想把我殺害；密謀.
 'adapaway - ma'adapaway：輕佻的女人 - ma'adapaway a fafahiyan
 adapox = kafafoag：白屈菜
 'adas = 'asad：稻粒；黍粒
@@ -250,7 +250,7 @@ ahda' - {Z} = kada'：嗆人的味道(？)；尖刻
 aheg - {F} = logoc：要求；請求
 'ahen - {N} = ayi：抓住；伸出手
 ahikit - {Z}：皮膚病的長出
-ahkakay：鳥的一種（白的　部,長尾巴）
+ahkakay：鳥的一種（白的 部,長尾巴）
 ahmaw {NZ} = kahmaw：輕的
 'ahnag - {S}：椅子，座位，長椅
 ahokaw = rarikah：蝎
@@ -327,7 +327,7 @@ alamaanan - {N}：有時候
 Alapawan：台東縣東河鄉太源村
 alapit：筷子；鉗子；夾子
 'alapitay：維屎菜
-alapkapkaw：混亂；溜竄 - caay ko no tamdawan a dmak：瓦解；逃走；十分慌；亂；驚慌 - “Ma'araw nagra konini a niyaro', mackot nagra, matalaw, sakaalapkapkaw sato a milaliw”（詩 47,6）“他們一見，驚魂喪膽，張惶失措，狗頭鼠竄”
+alapkapkaw：混亂；溜竄 - caay ko no tamdawan a dmak：瓦解；逃走；十分慌；亂；驚慌 - “Ma'araw nagra konini a niyaro', mackot nagra, matalaw, sakaalapkapkaw sato a milaliw”(詩 47,6)“他們一見，驚魂喪膽，張惶失措，狗頭鼠竄”
 'alat： 柵欄
 alatim：髮夾
 alaw - {F} = 'afas：搶拿走
@@ -496,7 +496,7 @@ amoraw - masaamoraw：以斜坡外形；不平的地方；尖堆
 amoto - {Tw} = agmoto：水泥
 amrakay - {N} = 'amrek {S}：弱的
 'amrik - {N}：快；迅速的
-an：和前綴 mi...ma...或 ni...na..., an　那個後綴標出 '過去'的意思：如 nipatayan：殺死的；ka...pi...和 an 那個後綴構成地方或時間的意思；如 kalahokan：午餐
+an：和前綴 mi...ma...或 ni...na..., an 那個後綴標出 '過去'的意思：如 nipatayan：殺死的；ka...pi...和 an 那個後綴構成地方或時間的意思；如 kalahokan：午餐
 ana：害怕的呼聲；猶豫的呼聲 - ana, aka itira：請，不要站我在這兒
 anac：山苧
 anafoh - {N}：灰塵
@@ -1239,7 +1239,7 @@ cakat - pipacakatan： 祭台
 cakat - sapacakat：祭品；祭祀 - o maan ko sapacakat noya misalisinay？：這祭主貢獻什麼？
 cakay：買，購
 cakay - micakay：購買
-cakay – pacakay = paliwal：出賣（作買賣），出售
+cakay - pacakay = paliwal：出賣（作買賣），出售
 cakcak - micakcak：刨土；鋤；除草；用刀切成塊
 caked - micaked {S} = hahadfek：消滅毀壞
 caket - {Z}：黃鹿
@@ -1349,7 +1349,7 @@ canem - cicanem：不純的：儀式不純； - cicanemay ko loma'：因犯禁�
 cani'iw：內部的；裏面；角落 - mimaan kiso a maro' i cani'iw no loma'：你坐在家裡面 趕什麼？；看不見的地方 - “Mafoti' ci Yiso i cani'iw no tamina”：“耶穌在船內睡覺” - aka cani'iwen ko faloco'：不要埋藏心事
 caniker = ciker ： 鎖；關閉裝置 - “Canikeren no misawawaan ko sasa'def no kasa'opoan a loma'”(若：20,19)“他們聚在一起，門緊緊地關者...” - “Macaniker ko sasa' def, taini ci Yiso i sifo' nagra”(若：20,26)“門開者，可是耶穌忽然顯現，站在他們當中...”
 caniwaniway - misacaniwaniway：流浪；漂泊
-caniwciw - {Ｔ}= tahniw： 產後的服痛 - caniwciw ko tiyad： 肚子餓時會叫.
+caniwciw - {T}= tahniw： 產後的服痛 - caniwciw ko tiyad： 肚子餓時會叫.
 canot：線條未端的毛狀物；最小一部分的一個東西；毛球；不需要的東西
 ca'not = ca'mot：惠心的；主義的；領悟，明白
 canoy = nanoy = cananoyan：搖籃；嬰兒小床；鞦韆
@@ -1438,7 +1438,7 @@ cawi' - <2> micawi'：開鑿運河；成榫孔
 cawi' - <2> nicawi'an：榫孔
 cawi' - <2>：區劃
 Cawi' - <2>：花蓮縣豐濱鄕靜埔村
-cawi' - <2> - palicawi' + cacafian：門梁
+cawi' - <2> - palicawi' = cacafian：門梁
 cawi' - {F}：上楣
 cawi - {N}：罪 - o kakaosan a cawi：原罪
 cawka' - {TW}：廚房
@@ -3242,7 +3242,7 @@ fagafag - mafagafag：忙，繁忙；擾亂的，分分擾擾；漫不經心的�
 fagafag - pafagafag：產生紏紛；煽動不和 - “Caay ko pararihadayay ko nika taini ako, o pafagafagay ko taini ako”(太：10,34)“我並沒有帶來和平，而是帶來刀劍”
 fagah - {F} = 'is'is = kiskis：剃；刮
 fagar - {Z}：葫籚
-fagas：苦林樹 (日本丁香) [這棵樹在四月開花，他的花很小，果子是小和圓的，可以用他做木板]
+fagas：苦林樹 (日本丁香) 這棵樹在四月開花，他的花很小，果子是小和圓的，可以用他做木板
 fagaw：臭蟲；水田的昆蟲
 fagaw - mafagaw：還沒成熱的稻
 fagaw - {F} = mapawpaw：漂浮
@@ -5459,7 +5459,7 @@ i papotalay：在外面
 i potalay a tamdaw：在外面的人
 i tapiigan - {Z}：在...邊
 i tazemay - {Z}：在...的下游
-i adah - [Z] = adihay：很多；非常
+i adah - {Z} = adihay：很多；非常
 'iah - mi'iah：反駁，反對；對抗
 iasa = iaan saan：關聯詞綴：後果，結果
 iaza {Z}：那邊
@@ -6383,7 +6383,7 @@ kali = kegkeg = kicon {Tw}：小水溝，溝渠
 kali - mikali：挖溝渠，挖一個水溝；用鍬翻地
 kalic - mikalic = dakaw：攀爬，登上；乘，騎，搭(自行車，馬)
 kalico'co：眼球
-kalico'co - {S} + tadimocok：角，外面的角
+kalico'co - {S} = tadimocok：角，外面的角
 kalidkid - mikalidkid：從地噴出；跑下來；水急 - “Matiya o nanom no 'alo konika kalidkid no nika sadak no nanom“(詩：77,16)“他使磐石湧出泉水”
 kalidkid - {N}：水流湍急的棣子
 Kaligan：花蓮縣秀林鄉嘉新村
@@ -8344,7 +8344,7 @@ lali’op - kalali’opan = la’lo’op：盆，臉盆；浴室，洗手間
 lali'op - milali'op：洗臉
 lali'op - pilali'opan：盥洗台 - pilali'op i pilali'opan：到洗臉台洗臉
 lalipana：毛蟲
-lalipig：一分錢 (=1／10 的 tagloy)；塡毛之意 - lalipig no sakomod：螺絲的塡毛
+lalipig：一分錢 (=1/10 的 tagloy)；塡毛之意 - lalipig no sakomod：螺絲的塡毛
 lalisan - malalisan：發熱，發燒；感冒；頭痛 - malalisanay a mafoti'：身体不適睡著了
 lalisan - salalisan：感冒；流行感冒
 lalisan - kalalisanan：感冒流行期 - o kalalisanan ho imatini
@@ -10563,7 +10563,7 @@ mnafaw - {N} = nawnaw：淹沒
 mnah - {N} = hmot：肛門
 mnaw - mamnaw {N}：角膜翳；-葉障目；一些帳目
 mno - mamno {Z}：瞎的 - mimno：閉眼
-mo：前綴，用代替 ma，常變成 om 例：komaen, toma’i 有時候 "o"是取消的和在前面的輔音：ta’i = toma’i = ma’i ／ rakat = romakat = rakat ’mo - <1>：年糕 ’mo - <2>：竹的一種
+mo：前綴，用代替 ma，常變成 om 例：komaen, toma’i 有時候 "o"是取消的和在前面的輔音：ta’i = toma’i = ma’i / rakat = romakat = rakat ’mo - <1>：年糕 ’mo - <2>：竹的一種
 moagic - {Z}：哭，哭泣
 moamo = moamo’ = miso’em：口吃得滿滿的
 moamo' = moed：把…溶解在口理
@@ -10777,7 +10777,7 @@ moto - mihmamoto {Z} = mokot：交叉手
 motoa - {Z}：開口
 motot - {F} = mo’tot = ma’tot：洪亮的屁
 mowa = imowa：大麻，麻類植物，大麻繩
-mowad - lomowad = lowad：起來﹐ 站起來；起身﹐ 起床
+mowad - lomowad = lowad：起來，站起來；起身，起床
 mowak - mafowak：噴出，湧出；從土噴出來(泉水，火山，發出)
 mowana - {F} = podaw：魚歲，魚苗 'moy：台灣的常春藤：Taiwan Ivy；天仙果
 moyo：一瘸一拐地走
@@ -11444,7 +11444,7 @@ pacnay - {Z} = mitpos：只一下子推倒
 paco'ay：向某人報仇；還一個禮物
 pacodanan：學生的書包，書櫃，書桌
 pacofay：退回一件請帖；取消 - pacofay ko lowad anini：取消今天的行程
-pacofcof - {S} = pacefecf：勉強某人吃，喝；強迫某人做⋯ - pacofcof aka ka saan a pakaen to 'pah：不要硬灌酒
+pacofcof - {S} = pacefecf：勉強某人吃，喝；強迫某人做… - pacofcof aka ka saan a pakaen to 'pah：不要硬灌酒
 pacoflis = pacflis {N}：交換買的東西；找錢，找零 - mahrek to kako a mikimad, ikor o faki ko mamipacoflis a somowal：我己講述完畢，按下來由長者來說明
 pacok - kinapacok：用刀刺殺
 pacok - mipacok：用刀殺人或動物，用刀猛刺，刺傷；宰
@@ -11704,7 +11704,7 @@ pakainaay：由母系的親屬關係
 pakaini to = pakayni：關於，由此，經過
 pakakapian：一雙 - pakakapian a topi：一雙鴿子
 pakakitig：扣住在一起(釣住)
-pakakiwaci：使交叉，使相交︰把槍架在一起
+pakakiwaci：使交叉，使相交：把槍架在一起
 pakakoko’an - {S} = talokan = pakoko’an：雞柵
 pakakomday - {S}：奧義，神秘
 pakonira：自由，自在，放任
@@ -13262,7 +13262,7 @@ rapid - parapid：緊靠 - parapid a patireg to loma' i rarigid：原屋旁多�
 rapi'piay：小灌木(葉子像金合歡屬植物)
 rapiyac = dapiyac：熔岩；石板
 rapot = ramot：被牽連，涉及
-rapot = rapic：提交法官仲裁的；可以隨意進入 - “Caay ka rapot cagra a mapa’orip iso”(詩 68,28)“使他們得不到你的拯救” - “caay karapot kiso a makari’ag” （詩 90,7）“禍患不至於臨到你”
+rapot = rapic：提交法官仲裁的；可以隨意進入 - “Caay ka rapot cagra a mapa’orip iso”(詩 68,28)“使他們得不到你的拯救” - “caay karapot kiso a makari’ag”(詩 90,7)“禍患不至於臨到你”
 rara：不認真；慢慢的 - rara saan cigra a romakat：他慢慢的走 - pararaen cigra：讓他先開始因他很慢 - sarara sa cigra a matayal：他工作不認真
 rara - <1> = pisafraag：把…拖下去；等候，等待，忍耐
 rara - <1> marara：義務的勞動；不想要做的工作，就坐談一談
@@ -13366,7 +13366,7 @@ rasmas：毛毛雨
 rasmas - marasmas：下滴雨
 rasmas - mirasmas：灑水；澆
 rasmasan - marasmasan：毛毛雨
-raso’ - miraso’：澆；(用水)化開，和 - “O tatayni i titaanan ko Pa’oripay, matiya miraso’ay to sra no caglah”（何 6,3）“他會來像春雨滋潤大地”
+raso’ - miraso’：澆；(用水)化開，和 - “O tatayni i titaanan ko Pa’oripay, matiya miraso’ay to sra no caglah”(何 6,3)“他會來像春雨滋潤大地”
 ra'sodan：啜泣時叫喊，嗚咽
 rasor - {N} mirasor：準備
 rasras = rasiras：一小撮，少量
@@ -13548,7 +13548,7 @@ rikowat：翻轉一個很重的東西
 rileh - {F} = riri'：蟲斯，蝗蟲
 rimadac - sarimadac = ’imac = ’imadac = limadac：光滑的，平滑的，水平的，平靜溫和的 - palimo’ot sa ci Yiso ’i, sarimadac sa ko nanom：耶穌吩咐浪，水面平靜下來 - Sarimadac sa ko pa’nan no loma’ iso：你家的廣場很平滑的 - “Kriden no Tapag kako a patayra tatihi no sarimadac, sanay a masafanaway a nanom”(詩 22,2)“上主領我到安靜的溪水邊”
 rimaday = marafi'ay：滿溢的
-rimamoh - marimamoh：重的；極端不安的；沉重 - “Ira ko lalayapen ako a sinlei, marimamoh ko faloco' ako tahira i kalahci nira”（路 12,50）“我應當受苦難的洗禮，在經歷這苦難以前，我心理多麼困擾”
+rimamoh - marimamoh：重的；極端不安的；沉重 - “Ira ko lalayapen ako a sinlei, marimamoh ko faloco' ako tahira i kalahci nira”(路 12,50)“我應當受苦難的洗禮，在經歷這苦難以前，我心理多麼困擾”
 rimo - parimo：拜訪為表示慰問
 rimoad - {F}：一塊，一片；全部的一部分
 rimood：圓幣，一分錢；一元；錢：rimood no fodawan：金條
@@ -13661,7 +13661,7 @@ rmo’ = hmo’ = ’mo = lmo’：反芻類的大肚子；反胃
 rmoris - {N}：蹲下的人
 Rmot = Romot：花蓮縣瑞穗鄉？村
 rna’ - marna’ {F} = mana’na’：化膿的傷口
-rnac – marnac {FT} = cacamcam：懷孕女人的需要
+rnac - marnac {FT} = cacamcam：懷孕女人的需要
 rnaf = lnaf = tnal：刷白；繪，塗
 rnaf - mirnaf ko riyar：海水入侵(看：lnaf)
 rnas = cadiw：磨尖
@@ -13815,7 +13815,7 @@ rpit = rohpit {N} = cipat：貼，黏 - nikalarohpitan：貼的，蓋印的
 rpoc = 'poc：宥用的，有益的
 rpon = lpon：完成的，結束的 - marpon to ko pipatiko ita to tadah：我們的債已
 rsap - <1> mirsap：散播；瀰漫
-rsap - <2> mirsap：入侵，侵犯；控制 - “mirsap ko takora’ i polog no kitakit”(詩 104,30）“青蛙充塞了四境” - “Mirsap ko sowal no Tapag i fafa’ed no nanom”(詩 28,3)“上主的聲音傳遍海洋”
+rsap - <2> mirsap：入侵，侵犯；控制 - “mirsap ko takora’ i polog no kitakit”(詩 104,30)“青蛙充塞了四境” - “Mirsap ko sowal no Tapag i fafa’ed no nanom”(詩 28,3)“上主的聲音傳遍海洋”
 rsap - <3> mirsap：爬行；游泳
 rsap - parsap：放牧，播撒
 rsapan - pirsapan：某蟲，重物或植物集聚的好地方；好地方；好的牧場 - “Kalapirsapan han no ’a’adopen a misakasak”(賽 5,5)“讓野獸來糟蹋這個地方”
@@ -13825,8 +13825,8 @@ rtak - {N} = 'kak：被詛咒的；乾燥的，乾涸的
 rtecan - nirtecan：燒焦肉油的味道，壓榨的汗
 rtep = takop：抓住；使停止，阻止；到達這裡；靠近 - martep ako ko tatiihay a sowal nira：我阻止了他，他要說不好的致詞 - martep kako ko dmak nira：我中止了他的工作
 rtes：滲液的；從傷口滲出的血清
-S：S 和 H 的音很近似的，如 sofoc = hofoc；salama = halama；skal = hkal…(按各地方的出聱習慣性）
-sa - <1>：sa 加動詞的詞根造工具的名字，例 miforat：打開 ／ saforat：鑰匙
+S：S 和 H 的音很近似的，如 sofoc = hofoc；salama = halama；skal = hkal…（按各地方的出聱習慣性）
+sa - <1>：sa 加動詞的詞根造工具的名字，例 miforat：打開 / saforat：鑰匙
 sa - <2>：sa 和虛擬式，有時候 sa 和 aw 的後詞，有結束的意思，如：sa no sowalen iso a milahci i takowanan：願你的話成就在我身上
 sa - <3>：後果從句或比較級： sa 造副詰或副詞的形容詞和與 an - sato 後綴合作 - sa romi’ad kako a mafoti’：我整天睡覺
 sa - <4>：sa 加名字，加 an，有"地方用爲"的意思 - sa dategan：要栽種的地方 =園子 - sa holoan：廚房
@@ -13842,7 +13842,7 @@ sa - pasa：向別人的行動(用和有 misa 前綴的動詞) - pasainaay：好
 sa…saan：這樣…, 如此… - sa to’man saan：天已黑了 - sa to’manan saan：傍晚
 sa'adif：圍牆
 sa'adig：盾；帆；藏物處
-sa'ali：姐夫，妹夫⋯；大姨⋯
+sa'ali：姐夫，妹夫…；大姨…
 sa'ali - {S} = ayi：要，要求；伸出手為接到
 sa’amamokot - {S} = sa’mamokot：蜷成狀睡覺
 saan - <1>：引述某人的話，最後要說"saan"(不同說法"san"，意思是：如此；就是這樣的) - {如果是一個回答，特別命令式後，需要用"han"，"hanen"} - pasowal ci Kacaw ci Logacan ： 'olili! kataira i ci inaan iso' saan ci Kacaw ci Logacan ： Kacaw 給 Logac 說："趕快！去你母親家" - "Naay！"hanen (han) ni Logac： Logac 回答："我不要去"
@@ -13988,7 +13988,7 @@ saforikat：易怒的眼睛
 safraag：等候，等待；用期限(時限)；急燥的
 safreg：大群 - safreg no 'odal：分出的蜂群；大多數
 safreg - masafreg：蠢動 - masafreg ko takola’ i Nil a alo’：一群群青蛙在尼洛河的河川上 - masafreg ko sofitay a romakat：士兵群集而行
-safrokfrok _ {F}：痙攣
+safrokfrok - {F}：痙攣
 safsi - masafsi：浮腫；腫瘤，瘤；水皰 - safsifsi saan：化腫的水皰 - “Ano ira ko masafsiay ko fages a tamdaw…”(利 13,2)“有人在皮上有腫皰…” ’sag - ma’sag {S}：疲乏的，疲勞的；感到厭倦的；感到厭惡的
 sag - {TW} pasag：贈送，給；禮物
 saga’ - masaga’：製作的，修整的 - masaga’ to ko faloco’ nira：他的心意改變了
@@ -14118,7 +14118,7 @@ sakaw - {Z}：橋
 sakawihay - ci sakawihay：奧義傳授儀式
 sakayakay - misakayakay {Z} = macakat：上去，上樓；階梯
 sakciih = sackik = sackih：(動物的)蹄
-saki - <1>：前綴：和動詞詞根指示病或病器官，生產藥的名字，如：mafaha：咳嗽／ sakifaha：咳嗽藥 - fitoka：胃／ saki fitoka：胃藥 - mapias：腹瀉／ sakipias：腹瀉藥 - malalisan：發燒／sakilalisan：退熱藥 - tagal：頭／sakitagal：反頭痛藥
+saki - <1>：前綴：和動詞詞根指示病或病器官，生產藥的名字，如：mafaha：咳嗽 / sakifaha：咳嗽藥 - fitoka：胃 / saki fitoka：胃藥 - mapias：腹瀉 / sakipias：腹瀉藥 - malalisan：發燒 / sakilalisan：退熱藥 - tagal：頭 / sakitagal：反頭痛藥
 saki - <2> ： 為了... saki 後有待詞或賓格名字, 表示 ; 為了..., 因...的緣故...,如：mitolon kako to saki ci Kacawan：我為 Kacaw 祈禱
 saki - <3> = caki：竹鏟
 sa'kih = sakciih：(動物的)的蹄
@@ -14131,7 +14131,7 @@ saki'olit：興奮劑；開胃的
 sakiraya - {S}：寬大的路 - Sakiraya：阿美的小姐(住在左倉，新社村…)，族氏名稱.
 sakirti’ - misakirti’：敲肩的
 sakiyami：後詞(在句子後面)：用在講出別人的話後，如：kataini, sakyami：他向給你說："來吧"
-saklot - {N}：長柄杓形的鏟，用來搯挖的鏟具；手把＊
+saklot - {N}：長柄杓形的鏟，用來搯挖的鏟具；手把
 sakmot：臨時的
 sakmot - malasakmot：愛開玩笑的人；騙人，吹牛
 sakmot - misakmot：欺騙；使上當；玩弄：{F} = samsam：惹討厭；違反
@@ -14234,7 +14234,7 @@ salitek = salalat：測量儀器；公尺
 saliway = liway = titic：禁食；因食物不足就離開；節省
 saliwliw - {T} = sa'iyot = sanom：鑽
 saliyoliyot - misaliyoliyot：找，尋找
-saliyot - {N} = taliyok：在⋯周圍的，在⋯四周；圍住
+saliyot - {N} = taliyok：在…周圍的，在…四周；圍住
 salkolk：自以為是；自傲的，自滿的
 salo’afag：保護人的神；神靈；靈魂 = ’adigo - milaliw ko salo’afag nira：他死了 - masafana’ ko salo’afag no ’oner kako：我的靈魂被蛇征服，(我被蛇咬了)
 salof - masalof = sarof：整理的；審理的 - masalof kona dmak anini：今天他們審理這事
@@ -14691,7 +14691,7 @@ sato iri - {N}：當…時(過去)
 satoka’：支主，支架 - sagaen ko satoka’ no gayagay：做涼亭的支架
 satoker = sato'kor：帶勾的篙，撓勾；支撐點子
 satoko - <l>：房間中間的柱
-satoko - <2>：[般] 桅，桅桿
+satoko - <2>：[船的] 桅，桅桿
 satoko - {N} masatoko：停，停止，中斷 - caay ka satoko：永遠
 satoktok = samokon：錘子；榔頭
 satopa：印章
@@ -14758,7 +14758,7 @@ sday - misday, masday：自掛勾上取下 - masday koya sasig：像框掉下來
 sdef = sfed = tafa'：水壩；為捕魚的堤；阻堤，阻塞
 sdef - misdef：堵住水壩
 sdef - nisdefan：捕魚的堤堰法(在溪中築堰止水，將水汲出，從而魚之)
-sdeg：咬人貓(能引起虋痲疹的草本植物）： Urtica tumbergiana
+sdeg：咬人貓（能引起虋痲疹的草本植物）： Urtica tumbergiana
 Sdeg：花蓮縣玉里鎮大禹村
 sdi：微笑 - sdi saan：微笑
 sdi - masdi：照明；發亮 - “Masdi ko pisig no Tapag i titaanan”(詩 66,1)“上主求你以仁慈待我們”
@@ -14873,7 +14873,7 @@ sifod - masasifod：混淆 - masasifod ko kliw：線纏結在一起
 sifod - misasifod, pasasifod：將某物弄亂
 sifrag = ci frag：炎熱的天氣；很熱，非常熱的
 sifragan - kasifragan：夏天
-sigrea - {N}：水道；江，河 ’sig - ma’sig = ’sin：打噴𡁲
+sigrea - {N}：水道；江，河 ’sig - ma’sig = ’sin：打噴嚏
 siga - {NZ} misiga：保存剩餘部分；放在安全的地方；存久貨棧
 sigara’ = cala’ = lala’em = rigasa’：鰓鰓；口；張口
 sigasif - caay ka sigasif：相同的，同類的，同樣
@@ -15481,7 +15481,7 @@ ta’ag - palata’ag：歌頌
 taan - makataan：便秘
 ta’arawan = tarinian = tatiri’an：模範；副本
 taaw - {S}：(巫師做的)靈魂的召回
-ta’ayawan = pa’ayaw：給… = 圍帕，先前，預先，預備 - [pa’ayawan (聲音拉長意思不同)：無所謂，不關心]
+ta’ayawan = pa’ayaw：給… = 圍帕，先前，預先，預備 - pa’ayawan (聲音拉長意思不同)：無所謂，不關心
 tacolay - {Z}：幫助
 tada - <1>：最高級的前綴詞："很"，"非常的"的意思，放在形容詞前面
 tada - <2>：墊子，馬鞍；椅墊
@@ -15718,7 +15718,7 @@ tahidag：呼叫；召待，邀請；雇用；邀請；對某人講話；用某�
 tahifaan - katahifaan {N} = kataharifaan：驚訝；害怕
 tahini：到此 - tahini to：來到這兒 - i hakowa kiso a tahini？：你什麼時候到達了這裡？
 tahira：到達那裡 - tahira to：到達那個地方 - ano hakowa cigra a tahira？：他何時到達哪裡？
-tahka：餐；裝滿的桌子⋯；喜宴 - mitahka：坐在桌子 - tadamaanay ko tahka ita：我們的餐很特別 - patahkaen nira kami：他邀請我們吃飯 - icowa ko pipatahkaan ita？：我們在那裡吃飯？
+tahka：餐；裝滿的桌子…；喜宴 - mitahka：坐在桌子 - tadamaanay ko tahka ita：我們的餐很特別 - patahkaen nira kami：他邀請我們吃飯 - icowa ko pipatahkaan ita？：我們在那裡吃飯？
 tahkaray - {F} = takohoray：蟾蜍
 tahkaw - {N} = takaraw：大，高
 tahkfog = tahkfeg：在一個坑趺倒
@@ -15786,7 +15786,7 @@ takidisan - {Z}：磨刀石
 takigkigan：鐃鈸；鈴鐺
 takilid - {F} = fiher：輪，車輪
 takilolo：五色鳥，啄木鳥
-takini'：稍稍提起，把⋯挾在腋下
+takini'：稍稍提起，把…挾在腋下
 takini’ - {Z} = po’ot：刀
 takisig - {F} = kodos：瘦的；消瘦的
 takiyad - {T} = 'ged：圓…
@@ -15826,7 +15826,7 @@ Takomi：台東縣長濱鄉長濱村的田組村
 Takomo：花蓮縣光復鄕龜安村
 takonol - matakonol：駝背；腰酸背痛的；凸起的
 takonolay - matalonolay a kolog：駱駝
-takop：當場捉住某人；抓住⋯；趕上，及時 - matakop no isig ko adada nira：醫生及時治療他的病 - matakop no’orad：碰上場雨 - takopen cigra i ’ayaw no pilaliw nira to niyaro’：他離開村以前，你們要抓住他 - i ’ayaw to cigra a lomowad, takopen cigra：他已經走了，去追要趕上他吧！
+takop：當場捉住某人；抓住…；趕上，及時 - matakop no isig ko adada nira：醫生及時治療他的病 - matakop no’orad：碰上場雨 - takopen cigra i ’ayaw no pilaliw nira to niyaro’：他離開村以前，你們要抓住他 - i ’ayaw to cigra a lomowad, takopen cigra：他已經走了，去追要趕上他吧！
 takora’ = takola’：青蛙 - takora’ay：青蛙 - mitakora’ cagra：他們去釣青蛙
 takora' no riyar：章魚
 takora'ay - {S}：海小蛙
@@ -15862,7 +15862,7 @@ talagaan = takoyodan：竹做的背簍，籐
 talagaw = lalagaw：蒼蠅
 talagawan = tagarawan：公雞 = tamagaraw = tamalagaw {Z} = talamagaw
 talahad - {N}：自私自利的；嫉妒的
-talahadan - ~Z} katalahadan：吝嗇的，貪財的
+talahadan - {Z} katalahadan：吝嗇的，貪財的
 talahkal - <1>：到海岸，上岸；來到水面 - talahkal to ko fotig：魚來到海岸
 talahkal - <2>：顯示；浭露的；[宗灼]啓示 - talahkal to anini ko tatiihay a dmak nira：他做了的壞事今天出來了 - o tatalahkal ci Yiso：耶穌即將顯現
 talahkal - patalahkal：放一隻船在乾的地方；開誠佈公；顯示；承認，坦白 - o papitalahkal to dmak iso ko ga'ay：你最好要開誠佈公你的事
@@ -15901,7 +15901,7 @@ taleg - mitaleg：拉緊一條繩子 = tleg：打直，拉直
 talegteg - lategteg = talenten：劇痛，疼痛的傷口
 talem：刀的耳刃口
 talem - ci talem = ira ko talem：鋒利的，磨利的 - ci talem to ko fonos ako：我的大砍刀很銳利
-talem - matalem：磨尖的，銳利的，鋒利的 - matalem ko sowal nira：他的話一針見血／他的話很銳利
+talem - matalem：磨尖的，銳利的，鋒利的 - matalem ko sowal nira：他的話一針見血、他的話很銳利
 talem - mitalem：磨快，磨尖
 talenten - {S} = talegteg = lategteg：疼痛
 talento - (希臘文)：古希臘的貨幣：塔蘭(大約四萬台幣)
@@ -15953,7 +15953,7 @@ talofali - misatalofali：採取一系列防止颱風的措施；加緊鬆梆處
 talog - {N} = talolog：深
 talogan - {Z} tagolan：箱
 taloged = tagoled = fataogi'：木耳
-taloh - mitaloh ＋ taroh：拉向自己；拖；帶到一邊
+taloh - mitaloh = taroh：拉向自己；拖；帶到一邊
 ta'lokan：食道；咽部
 talokan - {FT} = talalokan：雞籠，雞舍
 Taloko = Taroko：太魯閣(台灣原住民一個族的名字)
@@ -16404,7 +16404,7 @@ tatoor：跟上，依次，接上 - matatoor ko romi'ad ita：我們的時日有
 tatoor - matatoor a romadiw：卡農的歌；交錯歌
 tatoor saan：人群的擁擠
 tatopi'：合併
-tatopi’ - matatopi’：和⋯重新姘居；使再接合；給如一記耳光
+tatopi’ - matatopi’：和…重新姘居；使再接合；給如一記耳光
 tatores：連結；接上
 tatores - matatores：骨折的部分接起來的
 tatores - mitatores：鉤住在一起
@@ -17317,7 +17317,7 @@ toni’ - matoni’ = poni’：軟的；柔軟的；泥濘的 - masger ko lalan
 toni’ - mitoni’：使變軟
 toni’ - {N} tanotatoni’：髒的；打掃的不潔
 tonik：木材做的盤子
-tonika：[在間接間句中，用做直接賓語或表語]：“Mafana' ci Yiso tonika tagasa ko widi nira”(約 13,1)“耶穌知道他的時刻到了…”
+tonika：在間接間句中，用做直接賓語或表語：“Mafana' ci Yiso tonika tagasa ko widi nira”(約 13,1)“耶穌知道他的時刻到了…”
 tonini = tona：這，這個
 tono’：懸崖，峭壁 - aka pisalama ’i tonotono’an：不要在懸崖玩耍 - tonotonoan a lalan：陡峭的路
 tono’ - matono’：陡峭的地；險峻的
@@ -17520,7 +17520,7 @@ tray - mataray：鬆弛的，沒有拉緊的
 trec - matrec：被壓碎的(指頭)；(水果)被碰傷的
 trec - mitrec：(膿)湧出，溢出
 trecan - nitrecan：糖清水果
-tred：有口才的人，伯解釋的人 - satretred sa koya wawa a caciyaw：那個孩子講話口辭伶俐 - “Matred ko ’oner i kaka no ma’oripay”（創 3,1）“蛇是動物當中最狡猾的”
+tred：有口才的人，伯解釋的人 - satretred sa koya wawa a caciyaw：那個孩子講話口辭伶俐 - “Matred ko ’oner i kaka no ma’oripay”(創 3,1)“蛇是動物當中最狡猾的”
 treg：拉一直到某東西變直的；耕出一條直的犁溝為種米…；用拉線標出為種地或建造房屋
 trek：先吃飯，不等別人來到；看管別人的餐；節省；預防，保護；留存 - “Treken konini a dmak”(詩 111,6)“他永遠不會遺忘”；保留 - treken ko ni Namoh a sakalahok：要留 Namoh 先生的中餐
 trek - satrek：保留的飯
