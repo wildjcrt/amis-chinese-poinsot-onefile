@@ -1,4 +1,4 @@
-a - <1> 未來時：'a'虛字在一個動詞前是未來的符號 - a maorad ano dafak：明天會下雨 - a komaen kako：我要吃飯 - tayra kako a misalama：我耍去玩
+a - <1> 未來時："a"虛字在一個動詞前是未來的符號 - a maorad ano dafak：明天會下雨 - a komaen kako：我要吃飯 - tayra kako a misalama：我耍去玩
 a - <2> 一個聯誦的虛字在彩容詞和一個名詷之間 - o fagcalay a tamdaw konini：他是一個好人 - o ga'ayay a holo：稀飯真好吃
 a - <3> 和：聯誦的虛字在兩個名字之間 - Potawan a ci Parih：伯多灣和巴利兒顧們的水牛
 'a'ad = 'ad'ad = wadwad：陳列 (為使乾) = 翻亂 (如 小孩子亂翻)
@@ -5077,7 +5077,7 @@ hdok - mihdok {S}：穿過，經過
 hdot：啜飲，發出聲音之一飲一啜
 hdot - mihdot to diget：吸鼻涕
 hegheg：爆裂聲；強烈的聲音 - hegheg no riar：海浪聲，大浪澎湃聲(颱風時)
-hei！：是！ (在兩個建議中間’hei！’這個叫喊表示最後的一個連詞)
+hei！：是！ (在兩個建議中間"hei！"這個叫喊表示最後的一個連詞)
 hei - hei haw 'i：可是，然而；當時
 hei - hei saw！：直正地！，實在地！
 heimaw - {Z} = naon：緩慢地
