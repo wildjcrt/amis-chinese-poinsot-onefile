@@ -4687,7 +4687,7 @@ hacok - {N}：鹹的肉汁
 hacol：花蜜
 hacol：奶水；母奶，牛奶；乳汁
 hacol - milihacol：擠奶
-hacowa = hakowa：多少，數量，幾個、不明確的數目 - hacowa ka fana' nira？他會多少？ - hacowa ko aca？：價錢是多少？
+hacowa = hakowa：多少，數量，幾個‘不明確的數目 - hacowa ka fana' nira？他會多少？ - hacowa ko aca？：價錢是多少？
 hacowa - anohacowa：幾時？(將來時)；時間 - anohacowa cigra a taini？：什麼時間會到？
 hacowa ho：幾歲？ - hacowa ho ko to'as nira？：他長多大了？ - na i hacowa ho？：從什麼時候？
 hacowa - i hacowa：(過去時)什麼時候？ - i hacowa ira cigra？：他什麼時候到了？
@@ -15896,7 +15896,7 @@ tala’ta = talata’ta’：雨聲；火的啪啪聲
 talatagan - {S} = tpeg：測量
 talatiih：在夢中，夢
 talatkoh：碰不動的物體
-talatyaw：一類植的名字：長在溝渠裡，像相薑，他白色的花是很香、野薑花
+talatyaw：一類植的名字：長在溝渠裡，像相薑，他白色的花是很香‘野薑花
 talaw：害怕，畏懼
 talaw - hinatalaw = karatalaway：膽小的；懦弱的
 talaw - katalawan：危險 - o maan ko katalawan iso？：你怕什麼？ - o katalawan ko dmak mira：他做的事是很危險
