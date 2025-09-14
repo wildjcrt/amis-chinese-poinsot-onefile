@@ -432,7 +432,7 @@ alonah = kakonah：一種螞蟻
 'alopal：豆柿；柿樹 - 'alopal no lotok：野柿樹 - halo 'alopalay a 'orad：暴雨
 Alopalay = 'Apalo：花蓮縣壽豐鄉月眉村
 'alopatiw：拐騙
-'alopaw 或 'alapaw：香膏
+'alopaw = 'alapaw：香膏
 'alopaynay = alipawnay = 'aponaynay：黃螢，螢火蟲
 alopi' ： 一種果實很橡越橘
 aloponay = ka'ogtoay = kado'egay：翠鳥
@@ -508,7 +508,7 @@ ana'i = ma'aw = nanay：祈願式 (在一句前面)：請小心！
 anako'：哎呀！；疼的叫喊，哀痛聲；呼救聲
 'anal = akonal 剃光頭 {F}；禿頭的，無毛的
 anana'：在一句前面表示祈願式；意思；這很可惜；小心哦！
-anapal (或) anapar = adapaw：輕佻的女人；火花，火星
+anapal = anapar = adapaw：輕佻的女人；火花，火星
 'anasoray {S}：黃庵藤
 ancoh： 花蓮縣玉里鎮安通村; 臭味;尿味
 anegag=anegan=taka：長椅子，椅子，凳子
@@ -531,7 +531,7 @@ anini - tahanini：一宜到今天
 'anip = 'onip：種子田；曲床播種；秧苗，稻株
 'anip = mi'anip：移植；種秧
 'anipal = 'antipal：燕
-aniras 或 anirap - {F} = naniwac：籚竹
+aniras = anirap - {F} = naniwac：籚竹
 'anis'is - {S} = simlag：困難；難題；不適合；羞恥
 'anitir = 'amitir：放蕩
 anito = ma'min = 全部；整個的
@@ -768,7 +768,7 @@ artac：白和大蛀蟲；白蛹
 'artic - {S}：尖嗓子
 asa：在項上佩飾的流穌
 'asad - {S} = safak：稻子渣和米在一起；芥粒
-'asar - {S} 或 'asor：洗傷口
+'asar - {S} = 'asor：洗傷口
 as'as：伐小樹枝
 asi - {J} = o'o：腳
 'asic - ma'asicay = 'acis = 'asit：患不孕症的婦女；不生育的夫女
@@ -942,7 +942,7 @@ ca'agod：穿 - ca'adogen：穿上去
 caadop - micaadop (ca'adop)：用手為喝
 ca'afarag：不耐煩(很熱難耐)
 ca'ag no kilag：樹枝，枝幹，小樹枝
-caagaw - micaagaw 或 ca'agaw：抬頭
+caagaw - micaagaw = ca'agaw：抬頭
 ca'al - {N} = cagaw：(人) 項鍊；(動物) 頸圈
 ca'al - ca'alay：繁住，套住的東西 - ca'alayen：套上去
 caan - {F}：不停的生病 - caanan：不舒服
@@ -1483,7 +1483,7 @@ cdet：分娩陣痛；燒燙
 cdet - macdet：被開水燙傷自己
 cdet - micdet：燒熱；用開水燙；升火
 cdet - pacdet：用烙鐵給水牛印記
-cdi' = 'icel：力量；能力；重力 - ci cdi' ko sowal nira：他熱情的講話 (或) 他的話據有法律效力
+cdi' = 'icel：力量；能力；重力 - ci cdi' ko sowal nira：他熱情的講話 / 他的話據有法律效力
 cdo' - micdo' = midfog：浸入水 - “Miocor ci Lazaloan a taini a cdo'en i nanom ko tarodo'”(路：16,24)“請打發拉撒路用指尖蘸默水來”
 cdog - pacdog {F}：放進
 cdoor - {S} = mies es：吹哨
@@ -1990,7 +1990,7 @@ cker：支撐；支柱；支架
 cker - micker：支撐；支柱；用支柱支撐
 cker - sacker：帶子；皮帶
 ckid - mackid：被一個聱音受驚嚇
-ckig：魚的一種名稱：臭肚仔：Siganus puellus 或 Zebrasoma veliferum
+ckig：魚的一種名稱：臭肚仔：Siganus puellus / Zebrasoma veliferum
 ckih - sackih {F}：鳥爪
 ckil - cickil = ckir：痙攣
 ckil - mackil：被某人撞見 - mackil ko wawa：孩子突然醒來而踸啤吁叫喊；鬼怪附身的：mackil ko cikawasay：著魔的巫，巫師被精靈激發
@@ -2378,7 +2378,7 @@ cowa - tahacowa：到什麼時候？
 cowa - talacowa：在那兒？ - talacowa kiso？：你走那兒？
 cowa - talacowaan：雖然 = talacowaan：儘管 = 無論如何
 cowaco'：海浪的聲音；水動；水的沸騰 - “Ano macowaco' ko nanom 'i, awaay ko mamipakfoh i takowanan i nanom”(若：5,7)“水動的時候沒有人幫我，把我放進池了”
-cowapay - {S} = tlic：滑條車 ( 或：toapay,{TW})
+cowapay - {S} = tlic：滑條車 = toapay {TW}
 cowapi：牛軛
 cowat - micowat：擴長；拓展 - “O mamacowat a pasawali, pasa'tip, pasatimol, pasa'amis ko kamaro'an a sra”(創：28,14)“他們要像地上的塵土一樣多向四面八方擴張領土”；鋪開；展延 - “Tagasa i riar ko nipicowat no ca'ag nira”(詩： 80,11)“它的樹支伸展到海”；展開；顯得長
 cowi'：在日落時昌得一種鳥：磯鷸，草鷸之類：Common Sandpiper
@@ -2656,7 +2656,7 @@ data：正四方形
 datadak - dat(a)dat：舌頭；延長；擴散；傳播
 datadat - midatadat：伸出舌頭；延長；拉長；喘氣；使氣喘；延伸
 datak = latak：五僉子，陽桃；有條子的滾子(在水田用的)
-datay：樹的一類(可以種為樹籬用的)；一烘攀援植物：Murraya panicula 或 Murraya exotica = 月橘
+datay：樹的一類(可以種為樹籬用的)；一烘攀援植物：Murraya panicula / Murraya exotica = 月橘
 dateg = sinafel：菜餚 - dateg no fonon：水田菜，野菜
 dategan - sadategan, patategan：菜園
 datimtimay：兔兒菜
@@ -9330,7 +9330,7 @@ lofawa - malofawa = malifwa：腫脹的
 lofic：大量；結實纍纍：malofic ko hci no limpo：蓮霧樹結實纍纍 - malofic ko kaciwawa nira：生很多孩子
 lofic - malofic：被沈重的負荷 - malofic ko hci no panay：稻穗結實纍纍
 lofic - milofic：生長，成長；長大，長高；拾取落穗：去地裡拾落穀粒收穫後
-lofihac (或 lofihak) = mafonal：粉末的
+lofihac = lofihak = mafonal：粉末的
 Loflof：花蓮縣光復鄉大華村
 loflof：庫房；車庫(放酒，工具在裡面)；曠野；岩洞：可以放迷信的物體在山上岩洞
 lofo - malofo ko fili {Z}：腸中的水泡音
@@ -10811,7 +10811,7 @@ na’aw = na’ao = nanay：願望！ (放在詞句前面)
 na’aw to = ’aya！：這是很可惜！
 na’ay：不要，拒絕，不結受 - ca’ay ka na’ayen nira：他沒有否認
 na’ay - mana’ay：不要，拒絕
-na’ayaw - {Z}：向前面 - na’ayaw aca ko kamaro’ nomita：大家往前坐；從前，以前；前天 ’nac = nac’：全部沒想到，用盡 ’nac (或 nac’) - {N} ’nac ko lawad：沒有時間 - o rok’nac to no dateg：菜餚全吃光了，都沒有了
+na’ayaw - {Z}：向前面 - na’ayaw aca ko kamaro’ nomita：大家往前坐；從前，以前；前天 ’nac = nac’：全部沒想到，用盡 'nac = nac' - {N} ’nac ko lawad：沒有時間 - o rok’nac to no dateg：菜餚全吃光了，都沒有了
 nacila - incila：昨天
 nacnac - minacnac：用舌頭舔東西
 naes - manaes = daes = 'sam：感到惡心的；不喜歡吃一種菜 - oyananto ko sikaen naes sato a komaen：每次的菜都是即道菜，吃膩了不想吃
@@ -11318,7 +11318,7 @@ oya - misaoyaoyan {N}：輕視，無視
 oyas - masaoyas：不利於
 oyat - maoyat：疲勞，酸痛
 ozag - {Z} = afar：蝦
-ozip (或 ozig) - {Z} = 'orpi：生命；身體
+ozip = ozig - {Z} = 'orpi：生命；身體
 Pa - <1>：前綴；pa 通常和前綴 mi 或 ma 組合起來；mipa 或 mapa 向行動給別人(mipa)；mapa 表示行動的成果向別人 全形式是現在分詷和過去分詷的基礎 - pafli：給’，有 mipafliay：送給’為現在分詞， nipaflian：送給’為過去分詞 - pa’dil：照亮’可以講 - mipa’dil，過去詞 - mapa’dil：照亮的，被照亮的’；現在分詞 - mipa’dilay：照亮的’；過去分詞 - nipa’dilan：被照亮的’
 pa - <2>：前詞；pa…的形式使用為命令或"必要"意思的動形容詞和敘事形式 - paflien nira kako to ccay a codad：他給了我一本書 - paflien kami：請給我們 - pa'dilen kami：請給我們照路 - painien kami：請給我們看 - pacakayen：請出賣 - pawalien to panay：請把稻子乾燥 - papacakayen：必須賣 - papaflien：必要給
 pa - <3>：前綴； pa 用和 ci 的動詞，常變 si - fana’：科學 - ci fana’：他有學問 - pasifana’：教授，給學問
@@ -14041,7 +14041,7 @@ sahci：說明，解釋；啟示…的內容；結果
 sahcikid - {N}：鳥爪
 sahnay - {Z}：剛剛 - momol sahnay：他剛剛走了
 sahnef - masahnef {Z}：小窩，酒窩
-saho：還進行的情況或行動；纔；剛才 - tagasa saho：他剛到了 - laliw saho：他剛走了 - tagasa saho a misalama (或) itini saho kako a misalama：我暫時留在這裡訪問觀 - saho, saho ira kiso：我剛想了你，你就突然到了
+saho：還進行的情況或行動；纔；剛才 - tagasa saho：他剛到了 - laliw saho：他剛走了 - tagasa saho a misalama / itini saho kako a misalama：我暫時留在這裡訪問觀 - saho, saho ira kiso：我剛想了你，你就突然到了
 sahodiyak：生命，性命，生活
 saholoan = sfi' = kofaw：廚房
 sahto：大多數，大部分；統統，都是，無混合 - sahto fafahiyanan：都是女人 - sahto o Pagcah maro'ay itira：住那裡居民統統是阿美人
@@ -15039,7 +15039,7 @@ si’si’ - <3> kalasi’si’an：夜裡的時間
 si’si’ - <3> pasi’si’ {N} = lsi’：澆，灑
 sisid - masisid：這兒那兒播種的；一個一個的漏掉 - saka sisid saan：隨便播種的 - sakasisid saan kina rmes：路上到處都是血跡
 sisid - pasisid：讓流出來，一滴一滴地灑
-sisil (或 sisid：一種鳥的名字)
+sisil = sisid：一種鳥的名字)
 sisip - {Z} = mosisip：偵察；偷偷地看
 sisipan - {F} = 'ogto：煙斗
 sisir：磨擦聲；瀑布
@@ -15770,10 +15770,10 @@ takah - matakah = makafah：不習慣於…的；不夠的驅動；生疏，陌�
 takal - matakal：有間隔的；稀落的 - matakal ko pi’anip nagra：他們插的秧間隔很寬 - matakal ko fo’is：稀少的星星
 takamayan - {S} = sakikamay：手套；手籠
 takar = tatakel：床舖(竹或藤條綸的)
-takar - sapitakar：床 (或：sapisatakar)
+takar - sapitakar：床 =sapisatakar
 takaraw = ’akawag：高 - takaraw ko loma’ nira：他的房子很高 - aka pisatakaraw ko faloco’：不要驕傲
 takaraw - mikitakaraw：比某人高；統治
-takaw - matakaw = ma'oxit：想要，熱烈想一個事物 - matakaw cagra to titi：他們很想吃肉(或)他們偷了肉
+takaw - matakaw = ma'oxit：想要，熱烈想一個事物 - matakaw cagra to titi：他們很想吃肉 / 他們偷了肉
 takaw - mitakaw = koliniw：偷，偷盜 - matakaw ko payso niam：我們的錢被偷走了
 Takaw - {J}：高雄市
 Takay：花蓮縣玉里鎮三民里
@@ -16718,7 +16718,7 @@ tinac = rihnac：用舌頭舔，嘗味 - mitanam a mitinac：嘗味 - nacnac：�
 tinad - mitinad：雕刻
 ti’nag = ta’nag：仰面 - mati’nag a mafoti’：仰臥的 - mati’nag a mapolin：仰天趺一跤
 tina'i：腸子
-tina’i - taltina’i (或 tahtina’i)：疝
+tina’i - taltina’i = tahtina’i：疝
 tinak - mitinak = mitilak：撒稻 mitinak to panay：散開稻谷
 tinako：說明；外形…：例子 - tinako sato'i：比方說 - tinako sa = tatinakoan：比如，比方，比例 {F} - adihay ko tinako ni Yiso：耶穌用了很多比喻 - matinako to ako ko matiraay a pades：我由於經過而知道那種的挫折
 tinako - patinako：比喻，例子 - patinakoen, ta mafana' kako：給我一個例子，我才會了解
