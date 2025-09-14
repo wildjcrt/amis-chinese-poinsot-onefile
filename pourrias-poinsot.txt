@@ -552,7 +552,7 @@ anodafak：明天，明日
 'anognog = alinognog：脊桁；棟
 'anognogan：屋脊；頂
 anohacoa = anohakowa：什麼時候？
-anohakowaay以後；何時
+anohakowaay - 以後；何時
 anohar=anahar=aneher {Z}：喉；嘶啞；沙啞
 anola - ci anola：過幾天
 anolatek'i：也許；說不定...
@@ -806,7 +806,7 @@ ata = ta ta = tatata：我們走吧！，一起走吧！
 'atapes = hatapes：簸箕
 'at'at：分娩時的陣痛
 'atatipal = 'atipal：燕子
-atatogod；枕骨
+atatogod：枕骨
 'atay：肝臟
 atayat - miatayat：伸欠；伸懶腰；體操
 atef：捕鼠器
@@ -3114,7 +3114,7 @@ facfac - mifacfac：打某人；敲打(孩子，牛)；抽打
 fa'cid - malifa'cid {S}：受驚的
 facidol - {N} = apalo：麵包樹：Jack fruit：木汲羅：Artocarpus integra
 fa'cik - mifa'cik：聯手划船
-facikfacikay 同鳥
+facikfacikay：同鳥
 fackackar：快的；迅速的
 faco = lalko：款式，樣子；形狀；貨樣；面頰的骨頭 {T}；外形
 faco - misafaco = mitokal：計劃，規劃
@@ -5957,7 +5957,7 @@ kadawagay {S}：紫背草
 kadem：指揮，命令
 kadep - mikadep：為一個行動，聯合起來
 kadidag - makadidag：忙著，忙於；用手折磨 - “Makadidag ci Maria a patahka ci Yisoan”(路：10,40)“瑪大要作的事情多，為耶穌煮飯”
-kadifo'；黍
+kadifo'：黍
 kadifowagay = kadawagay：野菜
 kadipig - {S}：屋頂的脊
 kadipohaw = mapohaw：視覺模糊，視力差 = mafodad = karipohaw
@@ -6772,7 +6772,7 @@ karog - {F} = tpi'：饅刀；飯刮子
 karomaw - {S} = kamoraw：柚子
 karomoc - {S} = kahiric：戴在頭上的竹籃
 karoniron = roniron：莉桐樹 (開紅花)，用作蒸糯米的恆溫器
-Karoniron；台東縣成功鎭都歷村南面地名
+Karoniron：台東縣成功鎭都歷村南面地名
 karood - makarood ： 碰傷的果實
 karood - {S} = karotod：粗糙的；有刺的；粗的
 karooday = karootay：蝸牛：河的小蝸牛，海螺
@@ -6860,7 +6860,7 @@ kaspatay：一種鳥的名字
 kata - kataan：便秘
 kata - makata：便秘；憤怒，怒氣
 kata - masikata {F}：便秘
-katac；蝸牛；耳蝸
+katac：蝸牛；耳蝸
 katacomoli - {J} = toko = coli' = katac：蝸牛：撿鍋牛 (mikatacomoli)
 katag {T} = mintag = toel：茄冬樹：赤木(重陽木)
 katagad - makatagad {F} = katagal：黎明
@@ -10357,7 +10357,7 @@ misa - <2> {中文}：[天主教] 彌撒 - mimisa：參加彌撒 - caay pimisa�
 misa - <3>：前綴，指出一個比較或一個後果，重要的意思是：把…變…的形式；還有另外的意思如：裝作，從事，做…
 misa'adapaw：陰謀
 misa’alima’alimacan a dita：用為做磚的土
-misa’alinawnaw a ma’fer 飛時成一個圓子
+misa’alinawnaw a ma’fer：飛時成一個圓子
 misa'aliwaliwac：中斷的；斷續的燈
 misa'amamolot：交叉手
 misa'atkak：使變硬
@@ -10367,7 +10367,7 @@ misacaayay：否認
 misa’ca’ca：否定；支吾搪塞的回答；不要做
 misacacdegan to romi'ad：消磨時間
 misacapoh：稻播；作秧苗
-misaciricirid  搖搖幌幌地走路
+misaciricirid：搖搖幌幌地走路
 misackos：模仿
 misadadmac - {T} = misadimadimac：弄方
 misadafahfah = misaloya：浪費
@@ -10794,7 +10794,7 @@ mtek - samtek mitgil {N}：慧心的，持重的人 na：前綴 (它是介系詞
 na anini = anini ko tka：從今以後
 na i = nani：(前綴詞) 由…至…；從某地方…
 na i 'ayaw tahanini：從以前到現在
-na i cowaay cigar a taini ? 他是從那裡來的
+na i cowaay cigar a taini?：他是從那裡來的
 na i fafaway a nanom：上遊，上流，在…的上游
 na i hacowa：什麼時候？(過去)
 na i hacowa ho：從什麼時候？
@@ -11349,7 +11349,7 @@ pa'aoc to rinom：穿針
 paarek - {F} = pahrek：停止，中斷
 paargaget (pa'argaget)：使燙頭髮了
 paariwatec to oo’,to kamay (pa’ariwatec)：使交叉腿，手
-paaro' 使請某人坐下來；搭某人，裝車
+paaro'：使請某人坐下來；搭某人，裝車
 paat：一種蕨代名字 (可食用的)
 paat - mapaat {Z}：遠離的
 pa'atayan - {S} = tatapagan：家庭的母親 = ccay ko pona：直系宗親
@@ -16472,7 +16472,7 @@ tayo = no’nor = na’on：緩慢 - matayo cigra a miharateg：他思考遲鈍 
 tayo - misatayotayo：動作遲緩，磨蹭
 tayo - pisatayotayo：未定的；躊躇的；沒有解決的
 tayo - {NZ} = ’adiam = kacipa’ay：薑，生薑
-Taypak；台北
+Taypak：台北
 tayra：去 - tayra cigra i Ripon：他去了日本 - icowa ko katayraan iso？：你要去什麼地方？
 tayra - patayra：帶去 - patayraen ko wawa ako i Taipak：請你帶我的孩子去台北
 tayra - pakatayra：有能力去 - pakatayra kiso haw？：你能到達嗎？
@@ -16549,7 +16549,7 @@ tfon：水源，水井
 tfon - misatfon：挖水井
 tfor - {Z}：水窪，水坑
 tfos：甘蔗：saccharum officinarum
-tfrac；皮膚病
+tfrac：皮膚病
 tga'：織布的工具
 tga'an：雉雞；山雞
 tgaday：第一收穫的祭禮
@@ -17771,7 +17771,7 @@ zakep：油垢，污垢；捉住；抓住
 zawid - mazawid：延伸時碰到
 zaza - mizaza：使厭煩
 zazepit - mazazepit：癒合
-zin 看到的.
+zin：看到的.
 zinum = rinom：針
 zo：象
 zumaay：別的，另外的，其它的
