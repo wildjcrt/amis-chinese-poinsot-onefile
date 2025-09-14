@@ -1,6 +1,6 @@
-a <1> 未來時：'a'虛字在一個動詞前是未來的符號 - a maorad ano dafak：明天會下雨 - a komaen kako：我要吃飯 - tayra kako a misalama：我耍去玩
-a <2> 一個聯誦的虛字在彩容詞和一個名詷之間 - o fagcalay a tamdaw konini：他是一個好人 - o ga'ayay a holo：稀飯真好吃
-a <3> 和：聯誦的虛字在兩個名字之間 - Potawan a ci Parih：伯多灣和巴利兒顧們的水牛
+a - <1> 未來時：'a'虛字在一個動詞前是未來的符號 - a maorad ano dafak：明天會下雨 - a komaen kako：我要吃飯 - tayra kako a misalama：我耍去玩
+a - <2> 一個聯誦的虛字在彩容詞和一個名詷之間 - o fagcalay a tamdaw konini：他是一個好人 - o ga'ayay a holo：稀飯真好吃
+a - <3> 和：聯誦的虛字在兩個名字之間 - Potawan a ci Parih：伯多灣和巴利兒顧們的水牛
 'a'ad = 'ad'ad = wadwad：陳列 (為使乾) = 翻亂 (如 小孩子亂翻)
 'a'adopen：獵物，可以打獵的野生動物
 aag：給某人送一份禮物
@@ -1433,8 +1433,8 @@ cawcaw：玩水 - halicawcwa ko wawa to nanom：小孩子喜歡玩水
 cawhi - {TW}：鱸魚
 cawi - <1> macacawi a somowal：交談；談話；談論
 cawi - <1> micacawi：添加；插入；佔在兩個人之間；放某人在兩人中間
-cawi <1> pacawi：回答；答覆 - pacawien ko sowal nira：請回答他的話
-cawi <1>： 回答，回應，應答
+cawi - <1> pacawi：回答；答覆 - pacawien ko sowal nira：請回答他的話
+cawi - <1>： 回答，回應，應答
 cawi' - <2> micawi'：開鑿運河；成榫孔
 cawi' - <2> nicawi'an：榫孔
 cawi' - <2>：區劃
@@ -1573,9 +1573,9 @@ cgi' - micgi'：歡樂；欣喜若狂
 cgo'：竹筍；芽 - “Matiya o molgaway to dafak a cgo' no rgos ko 'orip niam”(詩： 89,5)：“我們像早晨發芽生長的草”
 cgonoy - micgonoy {J}；後悔
 chig (cehig)：水壩 (為捕魚) = crig：筌
-ci <1>：語法的詞綴，在人姓名前面
-ci <2>：有；“ci”解合一個名字做出一個動詞 意思是：有，供應 - 能與幾乎全部的名詞聯合
-ci <3>：使...什麼 (名詞變成動詞或副詞)，通常詞後甬加'an'或'ay'
+ci - <1>：語法的詞綴，在人姓名前面
+ci - <2>：有；“ci”解合一個名字做出一個動詞 意思是：有，供應 - 能與幾乎全部的名詞聯合
+ci - <3>：使...什麼 (名詞變成動詞或副詞)，通常詞後甬加'an'或'ay'
 ci adada：有病 - ci adadaay：有病的
 ci Afay：人名，表示有材富
 ci agagil：嫩芽
@@ -1679,7 +1679,7 @@ cifor -paka cifor {N}：放在一起；混合；混和
 cifrag = sino'et = ifagat：熱的天氣；悶熱；出汗；流汗
 cifragan - kacifragan = kacihragan：夏季；夏天
 ciga - miciga, paciga：傾聽；注意聽 - sacigaciga sa：到處看一看要智道誰有講話；專注的，抬頭看
-cigacig = cigcig：金屬的狗牙(形成腰帶為 <1>巫師 <2>跳舞者)
+cigacig = cigcig：金屬的狗牙(形成腰帶為 1.巫師 2.跳舞者)
 cigacigaw：巫師的保護神
 Cigagiwan：台東縣東河鄕南溪村
 cigaraf：有漏洞 (說話有弊病)
@@ -2036,9 +2036,9 @@ clem：太陽沉下：miclem ko cidal：太陽落下 - piclem to no cidal：在�
 clem - miclem：沉沒；潛水；落下；跳下
 clem - tahaclem：直到傍晚 - tahaclem ko tayal ako：我工作直到天黑了
 cles - micles {F} = hapric：去皮
-cli' <1> - micli'：祈求；用名招呼一個人；大聲喊叫，尖叫
-cli' <1> - ：小孩快樂的呼聲；呼喊
-cli <2> = cdi' ( = icel)：處於最好的力氣；精力
+cli' - <1> - micli'：祈求；用名招呼一個人；大聲喊叫，尖叫
+cli' - <1> - ：小孩快樂的呼聲；呼喊
+cli - <2> = cdi' ( = icel)：處於最好的力氣；精力
 cli - awaay ko cli：弱的；沒有力氣的
 cli - ci cli = ira ko cli：有力的；強壯的
 clik：火花；火星
@@ -4900,9 +4900,9 @@ han - (haen)(hanen)：就是那樣 (是語助詞，前後不同的引號 如 - h
 haenen ko ina ako a pasowal to wawa nira：母親給他的 孩子講：“你給神父說：我的母親有頭痛”
 han - ano mahan 'i：如過是這樣子
 han ho：後綴表示一個暫時的動作
-hana <1>：因此，所以
-hana <2>：很...那個 - hana 'pec kiso to sowal：你很曾壓制人家的話
-hana <3> {J}：花
+hana - <1>：因此，所以
+hana - <2>：很...那個 - hana 'pec kiso to sowal：你很曾壓制人家的話
+hana - <3> {J}：花
 hana - mihana：採花
 hanac - mihanac：全部弄壞；一下子全洗淨；騰地方 (洪水，風，火災)
 hanac - {S}：毀滅；空的，落空 - mahanac ko tama'：沒有捕到什麼
@@ -6642,7 +6642,7 @@ kapitig：一種樹的名字：Guapiles balsa；Macaranga tanarius
 kapitig = karihic：有柄的枊筐
 kapkap - <1> = ot'ot = potapot = miwaniw：除草，鋤草 - mikapkap to fonon：水田裡拔草
 kapkap - <1> mikapkap：耘田
-kapkap <2>：無恥的接觸 = solap：暗中摸索，暗地裡觸摸
+kapkap - <2>：無恥的接觸 = solap：暗中摸索，暗地裡觸摸
 kapkap - mikapkap：暗中摸索；摸 - mikapkap to lofoc：摸口袋
 kapo：工資，新金；新水
 kapo - away ko kapo {F} = awaay ko 'poc：沒有興趣；沒有用的
@@ -7432,7 +7432,7 @@ klig - <1> mikligklig：吹喇叭
 klig - <1> takligan：鐘
 klig - <1>：鈴聲，電話聲，鐘聲
 klig - <2> = 'i'id：煎，炸；烤在長柄平鍋
-klig <2> miklid：花錢；完全地用；使衰弱
+klig - <2> miklid：花錢；完全地用；使衰弱
 klis - miklis：使平坦；使成水平；使相等(用抹刀或杵)
 kliw：苧麻；線；細繩；紡織原料；麵線 {S}
 kliw - kanakliw：野生植物：像苧麻可是不能用為做衣服；女性名字
@@ -10047,8 +10047,8 @@ mar’dehay - {N}：油脂的
 marec - misamarec：保存新鮮物
 mar’fot - {N} = sasiwan：千足蟲( 蜈蚣，…)
 marir：螻蛄
-maro <1> = malo：變成，變得
-maro’ <2> = aro’：住所，居住；坐下  - pakamaro’：請別人坐下或停留
+maro - <1> = malo：變成，變得
+maro’ - <2> = aro’：住所，居住；坐下  - pakamaro’：請別人坐下或停留
 maro’ - kamaro’：請坐！
 maro’ - kamaro’an：座位，椅子；長椅；居住的地方
 maro’ - mikamaro’ {S}：有目地而坐的過程；時間；結果
@@ -10662,7 +10662,7 @@ molday ko gaigai - {Z}：垂涎，流涎
 moleco：怒目相向，憤怒的眼神
 molek = pamotek：凝視地，注視某人
 molgaw = megaw：生長
-moli’ <1> mimoli’：吐，嘔吐；小孩吃奶吐出汁奶
+moli’ - <1> mimoli’：吐，嘔吐；小孩吃奶吐出汁奶
 moli - <2>：車輪；轉動
 moli - mamoli = walin：滾動，翻動
 moli - mimoli：堆動；到處漂泊
@@ -11003,7 +11003,7 @@ nihawidan：身邊帶的
 nihnih - {F} = po’ner：小的，矮小的
 nihol - cinihol = manihol：液體理的懸徵粒；不潔的，模糊的
 nihora - {N}：可是，但是
-nika：符合語法規則的詞綴，指示：<1> 一個事物狀態，<2> 一個單獨條文的開始 - mafana’ cigra to nika ira kako：他知道我在這裡 - o nika taini nira：他來了的事實 - o nika ira no patay：有死亡的事實 - o nika fana’ tonini ko ga’ay：你知道這件事使好
+nika：符合語法規則的詞綴，指示：1.一個事物狀態 2.一個單獨條文的開始 - mafana’ cigra to nika ira kako：他知道我在這裡 - o nika taini nira：他來了的事實 - o nika ira no patay：有死亡的事實 - o nika fana’ tonini ko ga’ay：你知道這件事使好
 nika…：不定式，在 ma 動詞的詞根前面，nika 是不定式 - nikapatay：死亡這件事 nika sasiolah：互相的愛 - nika sado’doan no sofoc：子孫，後裔
 nikacodo {J}：電影；放映
 nikaen - {Z}：吃，喝
@@ -11132,8 +11132,8 @@ nonol：脛骨，小腿
 nonol - manonol {S}：不見，消失，失蹤
 nonor - <1> = no’nor：單獨的(獨自的)拿；自由的
 nonor - <2>：以後，今後；在後面，向後面
-nonor - manonor <1>：有距離，分開 - nonoreg to mamag：移動一點
-nonor = manonor <2>：消耗
+nonor = manonor - <1>：有距離，分開 - nonoreg to mamag：移動一點
+nonor = manonor - <2>：消耗
 nonor = mafonor：掉落
 nonor - minonor：延長期限，延期
 nonor - panonor：讓與時限
