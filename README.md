@@ -42,6 +42,10 @@
 
 修正 poinsot.txt 問題後的檔案，隨著 commit 而更新。
 
+## pourrias-poinsot.txt
+
+從 fixed_poinsot.txt 複製出來，為了方便解析而做一些與原書不同的改動。
+
 # License
 
 CC BY-NC.
