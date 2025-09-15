@@ -3926,7 +3926,7 @@ flec - {F} = ta'lif：經過
 fleg = flaw：人群：sa fleg saan：成群地走動 - safleg saan a ma'fer ko'ayam：一大群的飛鳥
 fli：給予，贈送，贈與
 fli - masasipafli：交換禮物
-fli - nipaflian = niflian：所贈送的，饋贈；禮物；{宗教 - 天主教} 聖寵
+fli - nipaflian = niflian：所贈送的，饋贈；禮物；[宗教 - 天主教] 聖寵
 fli - pafli to sapatodog：賠償，補償
 fli - pafli：給，送給，贈給；向某人送禮物
 fliak = fliyak：經攣，驚厥
@@ -4857,7 +4857,7 @@ halikani - {J}：鐵絲
 halilafag：好客人 - caay ka halilafag：不好客的
 halilek - mihalilek {S} = hrek：完成，結束；做完
 halilicayay：和氣的；有禮貌的；好學
-Haliloya = aliloya：{宗} 哈利路亞：向天主念稱讚
+Haliloya = aliloya：[宗] 哈利路亞：向天主念稱讚
 Haliloya - misahaliloya：直耶穌教
 halimama, haliina：親熱的；尊敬老人，尊敬長者
 haliori'：嘔吐物 (用為嬰兒每次吃奶後吐出來)
@@ -6190,7 +6190,7 @@ kakaomlaan - {F} = kakalimlaan：珍貴的財物
 kakaosan：串(草實)；工具凡袖子；長老，首長 - “Tahidagen nira ko kalas no Israel ato kakaosan“(書：24,1)“他召集以色列的長老，首領和官長”
 kakapahay：好的；年青的；漂亮的；帥
 kakapalay = sana'：水獺
-kakarayan = karayan：天...；天空；{宗}天堂，天國
+kakarayan = karayan：天...；天空；[宗]天堂，天國
 kakasimlagan = simed：隱秘的；忌諱的
 kakasnegan - {Z}：使人驚奇的
 kakasoksog - {S}：血
@@ -6832,7 +6832,7 @@ ko saka lahci nona dmak：定情的圓滿是雙方同意的
 kasasro' hana'：不要相爭，相讓
 kasa'ta'tal：散落的小村莊
 kasaw = holo：粥，稀飯
-kasaw - pakasaw {F}：禁食，{宗}守齊
+kasaw - pakasaw {F}：禁食，[宗]守齊
 kasawidi - caay kasawidi：易變的 - caay kasawidi ko kafagcalan iso, maikos ito：剛剛好好地，怎麼又動怒了呢；不堅定的
 kasay - kasay a knaw = raritriten：細香蔥：Allium odorum
 kasi - {J} = waneg = piyag = 'odax：糖，糖果，甜食
@@ -10000,7 +10000,7 @@ manowan - maniwan：粉紅色；黃色
 manowan - {S}：李子
 manowan = lwatan：支族的名字：布農族
 manta’ay = magta’ay：生的
-manto - {國語}：饅頭
+manto - {Ch}：饅頭
 maoc - {F} = laoc = lomaoc：隼合
 maodag：通姦，私通
 maolah：愛
@@ -13027,7 +13027,7 @@ podoh - {Z}：螞蟻
 podok - <1>：皮膚的章狀贅生物；白癬
 podok - <2> = podas：白皮
 podok - <3>：白化病患者
-podok - <4> {豐濱豐富部落}：米酒
+podok - <4> {Tingalaw}：米酒
 podok - <5> {N}：瓶子
 podpod - mipodpod：拾取，撿 - mipodpod to lakaw：撿垃圾
 podti'：紅色的香蕉
@@ -13659,7 +13659,7 @@ rihom：一種菜豆
 ri’id - mori’id：懷孕
 ri'iw：刷牙
 ri'iw = cdes：弄黑牙齒
-rikaket - marikaket = marikakot：萎縮；縮成一團；捲曲臥在一角；捲髮 {Z.T}
+rikaket - marikaket = marikakot：萎縮；縮成一團；捲曲臥在一角；捲髮 {Z}{T}
 rikaot - mirikaot：使彎曲；燒(鐵，竹，...)為使彎曲 - marikaot koya marad：這鐵是頂端彎曲的；彎；綁；繞過 - aka rikaoten ko sowal：說話不要拐彎抹角
 rikarik：帳篷的邊飾；不斷地 {N}
 rikarik - marikarik {N}：仰臥的
@@ -13985,7 +13985,7 @@ sa'adig：盾；帆；藏物處
 sa'ali：姐夫，妹夫…；大姨…
 sa'ali - {S} = ayi：要，要求；伸出手為接到
 sa’amamokot - {S} = sa’mamokot：蜷成狀睡覺
-saan - <1>：引述某人的話，最後要說"saan"(不同說法"san"，意思是：如此；就是這樣的) - {如果是一個回答，特別命令式後，需要用"han"，"hanen"} - pasowal ci Kacaw ci Logacan ： 'olili! kataira i ci inaan iso' saan ci Kacaw ci Logacan ： Kacaw 給 Logac 說："趕快！去你母親家" - "Naay！"hanen (han) ni Logac： Logac 回答："我不要去"
+saan - <1>：引述某人的話，最後要說"saan"(不同說法"san"，意思是：如此；就是這樣的) - 如果是一個回答，特別命令式後，需要用"han"，"hanen" - pasowal ci Kacaw ci Logacan ： 'olili! kataira i ci inaan iso' saan ci Kacaw ci Logacan ： Kacaw 給 Logac 說："趕快！去你母親家" - "Naay！"hanen (han) ni Logac： Logac 回答："我不要去"
 saan - <2>：saan 也預示另外一句 - mahrek kako a milicay 'i, sowal saan cigra…我問了他之後，他給我回答…
 saan - sa：這就是為什麼；因此
 saan - saka saan：因為，由於，因為如些
@@ -14163,7 +14163,7 @@ saglaw：一種植物名字
 saglay：嘔心，想吐
 sagolan = salogan：帥，標緻
 sagolanay - {N} = salonganay - kapah：美麗的，好看的，漂亮的
-sagoligol no lonan - {F)：舵
+sagoligol no lonan - {F}：舵
 sagorgor {S}：鼻子；鼻棌
 sagosgos = sagosigos：梨鏵
 sagotfol = sagotfor：臉上表示忿怒或生氣的樣子
@@ -15611,7 +15611,7 @@ stolan - katahastolan：陷阱；障礙
 swic - {S}：碎竹片
 syataw {Tw}：車站
 syogac - {J}：新年
-syoni - (中文)：修女；尼姑
+syoni - {Ch}：修女；尼姑
 ta - <1>：連詞: 轉接詞 - ta taira kita：走吧！- ta…：然後
 ta - <2>：動詞的前綴: 像 ma 動詞的行為 - tayni：來 - tayra：去 - ta！ta！ta！ ：走吧！ - ta ta 'i toan to kita：咱們走了
 ta…an：和 pi…an 相等的，用為地方和東西的名字 - tatai'an：廁所
@@ -15883,7 +15883,7 @@ tahtah：夠，足夠；大量，豐富 - kinatahtah cagra a ma’orip：他們�
 tahtah - patahtah：揮霍的，浪費的；慷慨的；沒有自制 - patahtahen nira ko i faloco’ay nira a somowal：他把心裡的話全說出來 - patahtah cigra to ’orip：他慷慨浪費生命 - “Kamo o patahtahay to ’orip ,,, o cacilafo kamo”(麾 6,1)“享受安逸的…你們慘啦！”
 tahko：混合
 tahtkoh：碰上
-tahkoh - {S]：虎頭蜂
+tahkoh - {S}：虎頭蜂
 tai’ = tayi’：糞，糞便
 tai’an - tatai’an：廁所
 ta’ig - mita’ig：搖頭：1) 相似水牛擺動頭在他的對方前面 - 2) 相似女孩揮動頭髮使不擋住眼睛
@@ -16044,7 +16044,7 @@ talem - ci talem = ira ko talem：鋒利的，磨利的 - ci talem to ko fonos a
 talem - matalem：磨尖的，銳利的，鋒利的 - matalem ko sowal nira：他的話一針見血、他的話很銳利
 talem - mitalem：磨快，磨尖
 talenten - {S} = talegteg = lategteg：疼痛
-talento - (希臘文)：古希臘的貨幣：塔蘭(大約四萬台幣)
+talento - {希臘文}：古希臘的貨幣：塔蘭(大約四萬台幣)
 tales - matales = lales：變鈍的 - matales ko po'ot nira：他的刀很鈍
 tali：塊莖的種類；芋頭：Colocasia esculenta
 taliay - matataliay {S}：結婚的
@@ -17172,7 +17172,7 @@ to'ag：懶惰；失去勇氣而想停止工作
 toah - ci toah {F} = soto no kilag：樹膠
 toakot (twakot) (towakot) - {Tw} = towasig：十字鍋，鶴嘴鍋
 toal：一類樹的名字：Bischoffia javanica
-toalo - {Tw,J}：有軍銜的；軍官
+toalo - {Tw}{J}：有軍銜的；軍官
 to'an = minokay：出發，離開；又出發；返回，回去
 to’anay - cito’anay：死亡，去死
 to'as = liteg：古老，老；長年人
@@ -17249,7 +17249,7 @@ togih = tatogihan：咬一口 - “Ano ccay a tatogihan hawikiden ko 'pag”(王
 togih - mitogih：大口的咬
 togiri’ - {F} = ti’ran = tokikar：伸展四肢；提高
 togo - {N}：雨傘的尖頭
-togod = tores {FT：togoh}：接縫；連接，結合
+togod = tores = togoh {F}{T}：接縫；連接，結合
 togod - mitogod：斷續；接替，斷任 - togoden ko tayal iso：把你的工作斷續下去
 togod - tatogod, matatogod, patatogod：嫁接；接合，連接；織；銜接 - matatogotogod ko tireg ita：我們的身體用不同的方式接合起來 - patatodogen konini：把這些連接起來 - “Yo i tiyad ho no ina kako 'i, kiso ko patatodogay a pakakafit to tireg ako”(詩 138,13)“我在母腹中被湊合”
 togoh - misatogoh {S}：幼生的 - o togoh no tfo' ko alaen, aka piala to takaraway：採竹筍要採幼生的，不要採長高的 = o gagil
