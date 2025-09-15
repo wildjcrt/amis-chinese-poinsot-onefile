@@ -1,6 +1,6 @@
-a - <1> 未來時："a"虛字在一個動詞前是未來的符號 - a maorad ano dafak：明天會下雨 - a komaen kako：我要吃飯 - tayra kako a misalama：我耍去玩
-a - <2> 一個聯誦的虛字在彩容詞和一個名詷之間 - o fagcalay a tamdaw konini：他是一個好人 - o ga'ayay a holo：稀飯真好吃
-a - <3> 和：聯誦的虛字在兩個名字之間 - Potawan a ci Parih：伯多灣和巴利兒顧們的水牛
+a - <1>：未來式: "a"虛字在一個動詞前是未來的符號 - a maorad ano dafak：明天會下雨 - a komaen kako：我要吃飯 - tayra kako a misalama：我耍去玩
+a - <2>：一個聯誦的虛字在彩容詞和一個名詷之間 - o fagcalay a tamdaw konini：他是一個好人 - o ga'ayay a holo：稀飯真好吃
+a - <3>：和: 聯誦的虛字在兩個名字之間 - Potawan a ci Parih：伯多灣和巴利兒顧們的水牛
 'a'ad = 'ad'ad = wadwad：陳列 (為使乾) = 翻亂 (如 小孩子亂翻)
 'a'adopen：獵物，可以打獵的野生動物
 aag：給某人送一份禮物
@@ -255,7 +255,7 @@ ahmaw {N}{Z} = kahmaw：輕的
 'ahnag - {S}：椅子，座位，長椅
 ahokaw = rarikah：蝎
 ahowid：感恩；感謝 ( = aray 亦通用) - ahowiday：滿足
-ai - (ay) 後綴：表示現在分詞或經常形容詞
+ai - (ay)：後綴: 表示現在分詞或經常形容詞
 a'i=patayni：帶來
 a'i - mia'i：請別人為本人給一個東西；要東西；索取
 a'ican - {Z}：怎麼樣？，你說什麼？
@@ -272,7 +272,7 @@ a'isedan = a'isidan：首領；巫的頭目；村長；首長
 a'i'si：經常排尿
 aiyog - {F}：警察員
 aiza - {Z}：今天.
-aka：否定詞：不要；不准 - aka ho：且慢，不要那麼快；暫停，不行；不能
+aka：否定詞: 不要；不准 - aka ho：且慢，不要那麼快；暫停，不行；不能
 aka - kaaka {F}：大
 ak'ak='ak'ak=arkah：鳥鴉；喉嚨呼吸困難時
 akakawang - {F} = ak'kakawan：螳螂
@@ -311,7 +311,7 @@ aksaran = xaran：桑
 ala：這樣就是好 {F}：行；強的拿走 - maala no tao ko codad ako：某人拿走了我的書；取；帶 - maala no adada：病倒；帶走，拿走，收曾來 - miala nani nanom：從水拿出來；mialaan：拿來的，拿的
 ala - alaen：把...拿來
 ala - caay kaala：抓不到 - caay kaala ko kafoti'an：矢眼，無法閉眼.
-ala：前綴詞：alaccay：每人一個 - alaccay kita to sowal：我們各位都要講話 - alaccayen ko pipafli：每人分一個；到處 - alasadasadak a militmoh i tamiyanan：他們從各處來了接我們 - 他們紛紛出來接我們；分散，散開 - ala nokanokay：散開就回家
+ala：前綴詞 - alaccay：每人一個 - alaccay kita to sowal：我們各位都要講話 - alaccayen ko pipafli：每人分一個；到處 - alasadasadak a militmoh i tamiyanan：他們從各處來了接我們 - 他們紛紛出來接我們；分散，散開 - ala nokanokay：散開就回家
 alafaf = fala'fa = 'alafafay：溫水；溫溫的，暖暖的
 'alafo：行賄
 'alafo - sapa'alofo：送禮物為感謝；賄賂 - caay piala cigra to sapa'alafo to todog o sapawacay to pakainiay i awaay ko raraw a tamdaw (詩：15,5) 他不受賄賂來陷害無辜
@@ -846,7 +846,7 @@ atiwar - miatiwar：交叉兩根木材為關門；交叉(臂，手，腿)
 'atkes - matkes：(價格) 太貴
 atkiw = atikaway：腄瘤；小辣椒
 'atlac = korah：短的舞衣，男人用地，大麻的上衣：淺栗色
-ato：關聯詞：和，及，與 - ato kita：走吧！，進攻吧！
+ato：關聯詞: 和，及，與 - ato kita：走吧！，進攻吧！
 atod = fadokoy：煮沸的甘薯；分未；蕃薯湯
 'atogil - ma'atogil：無禮貌的；失禮的舉止
 atogol = atogor：枕骨；額 - ma'atogolay：突出物
@@ -859,7 +859,7 @@ atogol = atogor：枕骨；額 - ma'atogolay：突出物
 atos - {Z} = datos：壞的；損害
 'atoto = ciwisig：君子蘭：Caffre Lily；水仙花：Cliivia Miniata；喇叭花
 atrac = korah = korid：服裝
-aw：後加綴詞：表昵稱，敬稱 - “Lomowadaw kako a minokay”(路：15,18)：“我要起來，回到父親那裡去”
+aw：後加綴詞: 表昵稱，敬稱 - “Lomowadaw kako a minokay”(路：15,18)：“我要起來，回到父親那裡去”
 'awa：腿彎
 Awa (Aowa)：台東縣鹿葉鄉瑞龍村
 awa = awaay：無；沒有 - ci wawa cigra haw？awa：他有孩子嗎？沒有
@@ -932,7 +932,7 @@ ayi = sa'ali：問；要求
 ayiw：膳魚(fluta alba)；歡呼，驚呼：ayiw！kako o macahiway a 'orip - ayiw ko hmek ako
 aykor = 'ikor：向後退；後面 - tala aykor cigra：他退到後面 - o i aykoray a maro'：他們坐在後面；背朝某人(某物)'
 aylog - {J}：熨斗
-ca：冠詞使用為集合名詞： - 屬格：na - 賓格：ca - ca Yiso ato nisawawan nira：耶穌和他的門徒們
+ca：冠詞使用為集合名詞:  - 屬格: na - 賓格: ca - ca Yiso ato nisawawan nira：耶穌和他的門徒們
 'ca = caay：不；不是 (否定詞)
 'ca - aka ka 'ca：無論如和一定要作；要不可，絕對的
 'ca = ano'ca saca：要不是這樣...；假使沒意願...
@@ -1353,7 +1353,7 @@ caniwciw - {T}= tahniw： 產後的服痛 - caniwciw ko tiyad： 肚子餓時會
 canot：線條未端的毛狀物；最小一部分的一個東西；毛球；不需要的東西
 ca'not = ca'mot：惠心的；主義的；領悟，明白
 canoy = nanoy = cananoyan：搖籃；嬰兒小床；鞦韆
-can'to：表示否定詞：請忘記這事！，算了！ - ca'to 'i：不會的 - ca'tokiya：大概不會，怎樣
+can'to：表示否定詞: 請忘記這事！，算了！ - ca'to 'i：不會的 - ca'tokiya：大概不會，怎樣
 caocao = cawcaw：撥水；清水弄潯
 caocao - cifacaocao：膀胱發炎(尿會很痛)哭失聲
 caocao - micaocao (micawcaw )：弄污水；不直飲用的水；撥弄水；洗澡
@@ -1433,7 +1433,7 @@ cawhi - {Tw}：鱸魚
 cawi - <1> macacawi a somowal：交談；談話；談論
 cawi - <1> micacawi：添加；插入；佔在兩個人之間；放某人在兩人中間
 cawi - <1> pacawi：回答；答覆 - pacawien ko sowal nira：請回答他的話
-cawi - <1> 回答，回應，應答
+cawi - <1>：回答，回應，應答
 cawi' - <2> micawi'：開鑿運河；成榫孔
 cawi' - <2> nicawi'an：榫孔
 cawi' - <2>：區劃
@@ -1573,7 +1573,7 @@ cgo'：竹筍；芽 - “Matiya o molgaway to dafak a cgo' no rgos ko 'orip niam
 cgonoy - micgonoy {J}：後悔
 chig (cehig)：水壩 (為捕魚) = crig：筌
 ci - <1>：語法的詞綴，在人姓名前面
-ci - <2>：有；“ci”解合一個名字做出一個動詞 意思是：有，供應 - 能與幾乎全部的名詞聯合
+ci - <2>：有；“ci”解合一個名字做出一個動詞 意思是: 有，供應 - 能與幾乎全部的名詞聯合
 ci - <3>：使...什麼 (名詞變成動詞或副詞)，通常詞後甬加'an'或'ay'
 ci adada：有病 - ci adadaay：有病的
 ci Afay：人名，表示有材富
@@ -2036,8 +2036,8 @@ clem - miclem：沉沒；潛水；落下；跳下
 clem - tahaclem：直到傍晚 - tahaclem ko tayal ako：我工作直到天黑了
 cles - micles {F} = hapric：去皮
 cli' - <1> - micli'：祈求；用名招呼一個人；大聲喊叫，尖叫
-cli' - <1> - ：小孩快樂的呼聲；呼喊
-cli - <2> = cdi' ( = icel)：處於最好的力氣；精力
+cli' - <1>：小孩快樂的呼聲；呼喊
+cli - <2> = cdi' = icel：處於最好的力氣；精力
 cli - awaay ko cli：弱的；沒有力氣的
 cli - ci cli = ira ko cli：有力的；強壯的
 clik：火花；火星
@@ -2110,7 +2110,7 @@ co'co - <3> mico'co：推倒；推動；保持前進 - “Co'co han no taplik ko
 cocoay = ca'cocoay：爬行動物；蜥蝪一種(住在熱帶地區)；大壁虎：karacocoay
 cocococok - {N}：全組；全團體
 co'cok - <1> micocok {N}：搖動身體；動
-cocok - <2> macocok：刺痛：macocok ko faloco' ako：我的心被刺痛，聽到...的教訓我非常感動
+cocok - <2> macocok：刺痛 - macocok ko faloco' ako：我的心被刺痛，聽到...的教訓我非常感動
 cocok - micocok：刺；穿通；刺穿；探進 - “Cocoken ni Yiso to talodo' ka tagila noya mdao'agay”(谷：7,33)“耶穌用自己的指頭探進聾又啞巴人的耳朵”
 cocok - pacocok：使穿入；安排 - pacocoken ko 'onoc i kadag：請扼棒子套進環中
 cocok - sacocok：鑰匙
@@ -3536,7 +3536,7 @@ fanta - {Tw}：蚊帳
 fanti - {J}：村的負責者 = kakomodan, kociw, tomok, fokotomok, yakoyin...
 fanti - {S} = mitagtag：燒，煮；負責飲食者
 fao：一般的蟲；腸蟲；蛇
-faol - (faor) misafaol：驅魔法的儀式：向割頭驅魔的儀式；巫術：“misatafad”前的儀式
+faol - (faor) misafaol：驅魔法的儀向割頭驅魔的儀式；巫術：“misatafad”前的儀式
 fa'owic - mifa'owic：巴力量贈給某人；扶起某人 - “Nani alafoh mifa'owic ko Tapag to tadancaay a tamdaw”(詩：112,7)“上主從塵埃理提拔窮苦人”；提昇
 far - mifarfar = miwarwar {F}：使消散，分散
 farad - {Z}：上漲的河流
@@ -4341,8 +4341,8 @@ fto - 因工作再有水泡 - mafto ko kapal ako to pitafedan a misaromi'ad：�
 'ga - <1> ma'ga {S} = 'ega：驚愕，愣一下，失神，使難受的
 ga' - <2>：好的；必要的，必需的；需要的；方便的；使用方便的；有好處的；容易的 - sa'icelen, ga' mafana'：是有利的，你再會容易地學的好
 ga' - maga'：可以的，使可能的，可以發生的
-ga'ay - <1> 連聯詞：當是...
-ga'ay - <2> 同意；使可接受的
+ga'ay - <1>：連聯詞: 當是...
+ga'ay - <2>：同意；使可接受的
 ga'ay - <3> 好看；容易；好 - o kaga'ayan ako konini：這是我的好機會
 ga'ay - awaay ko na ga'ayan：沒有進步
 ga'ay - caay ka ga'ay：不合適的 - caay kaga'ay kita： 1) 我們不會 - 2) 這不適合我們...；不可能，辦不到的
@@ -4659,7 +4659,7 @@ gyagi：搖動，震動的
 gyagi - caay kagyagi：不能搖動的
 gyagi - magyagi：搖動的；搖的；晃蕩；影響的 - magyagi ko faloco' nira：他是一個很受影響的人；動盪的 - magyagi no fali ko papah：被風搖動的樹葉
 ha = han：並列連詞有連續的利用：這樣，如此 = malo
-ha = sa：前綴；"ha"用為工具的名字 有時候在重詞前"maha"和"miha"的前綴是差不多"masa"和"misa"的利用；文法的詞綴："ha"用在人的名字前表示一個好意或有禮貌的招呼，如："ha Kacaw"，"ha Simpu"，"ha salikaka"
+ha = sa：前綴: "ha"用為工具的名字 有時候在重詞前"maha"和"miha"的前綴是差不多"masa"和"misa"的利用；文法的詞綴: "ha"用在人的名字前表示一個好意或有禮貌的招呼，如："ha Kacaw"，"ha Simpu"，"ha salikaka"
 ha-ikini - (hei saw) {F}：真正地，確實地，實在地
 haca = hca：還，更；又一次，再一次；永遠一樣的；重覆的行動
 hacaen - {F} = ha tosaen：雙的，再一次
@@ -4924,7 +4924,7 @@ hani：(疑問助詞)...呢？
 hanighig：廁所的氣味；屁
 hanima = han nima? ： 誰叫你? (重音) ; 誰說的? (輕音) = hanira ： 他如是說 - hanima haen ko sowal iso, mimaan a mapoi' cigra！：誰叫你亂講話，要不然他不會罵你！
 haniyar - mahaniyar {S}：休息
-hano：表示懷疑的虛詞：對不對...；大槪 (可能)
+hano：表示懷疑的虛詞: 對不對...；大槪 (可能)
 hanto - (han to) = hadto：好了！，行了！：不要擔心；不需要 - hanto alaen, tlien itira：放在原地，我們不需要拿
 haoho：試看看
 haop：環繞：haop han nira ko tokos：他佔領了整個山頭
@@ -5447,7 +5447,7 @@ htecan - nihtecan：糖淸水果；燒焦的肉油味道
 htecan - pihtecan：壓榨機
 htik - {F} = tfad：跌倒 - mahtik ko dadigoan nira：他的眼鏡掉下來了
 htof mahtof {S} = lofic：因好多果實樹枝壓得彎下來 - htofen ko caag nora liwkag a miala to hci：把龍眼樹的枝拉彎，好拿它的果實
-i：扭過去；(副詞：和另外的字成為形容詞，要加後詞"ay" - 助詞，冠詞)：在
+i：扭過去；(副詞: 和另外的字成為形容詞，要加後詞"ay" - 助詞，冠詞)：在
 'i：虛詞，無法翻譯；在句子後面預兆在下個句子理，一個描述或一個解釋；'i 也可以放在有條件的分句，如：ano ... 'i = 要是；也可以用為經營一個字 - inian a tamdaw 'i, ...：關於那個人...
 i a'ayaw：前面，在前方；有...在場時
 i 'ayaw：過去，以前；從前，古時候；先，預先
@@ -5461,7 +5461,7 @@ i tapiigan - {Z}：在...邊
 i tazemay - {Z}：在...的下游
 i adah - {Z} = adihay：很多；非常
 'iah - mi'iah：反駁，反對；對抗
-iasa = iaan saan：關聯詞綴：後果，結果
+iasa = iaan saan：關聯詞綴: 後果，結果
 iaza {Z}：那邊
 'icag - ma'icag = licag {N}：乾，乾燥，乾涸的 - ma'icag ko 'alo：乾涸的河
 icah - {F} = i hkal：在地上；清楚的 - icah ko sowal：清楚地講話
@@ -5864,7 +5864,7 @@ iwi - misoiwi：細心聽取；回眸，回頭看：iwi saan misikol
 'iwil - ma'iwil：孤獨的，弧單的；傷心的(想以前的好事)：感到惡心的；難聞的氣味；難受的話 - ma'iwil kako toya sowal nira；我對他那句話感到惡心
 'iw'iw：餓極了
 iyo = yo：瞧！，驚嘆語
-Ka：前置詞 (常常用在動名詞)；虛擬式的"ma"...動詞："ma"變"ka"有否定詞，命令詞，禁止詞；"ka"表示命令式：katayni：來這兒；"ka"地方的前綴：指示一個行動的時間或位置；ka...an 為"ma"的動詞 例：kalahokan：中午 - katimoran：往南部 - kaacekan：髒 - kaadihayan：很多；被動式的重詞( 沒有主動"mi"的形式) 例：katalawan：可伯的 - kaolahan：可愛的
+Ka：前置詞 (常常用在動名詞)；虛擬式的"ma"...動詞: "ma"變"ka"有否定詞，命令詞，禁止詞；"ka"表示命令katayni：來這兒；"ka"地方的前綴: 指示一個行動的時間或位置；ka...an 為"ma"的動詞 例：kalahokan：中午 - katimoran：往南部 - kaacekan：髒 - kaadihayan：很多；被動式的重詞( 沒有主動"mi"的形式) 例：katalawan：可伯的 - kaolahan：可愛的
 ka - ci ka：外號：隨著"ka"的名字和"ci"在"ka"前面是用為外號：ci Kaogto, ci Katiyad, ci Kafotol, ci Kapaga, ci Kapoti', ci Kaapa
 ka - ka'ca {F}：禁止：“你不能作這事”
 ka - maka：感知的實在性，被"ma"指示的
@@ -6149,7 +6149,7 @@ kaito - {J}：大衣，外套
 'kak - {S}：酵母，麵肥
 ka'ka' - <1>：大聲笑，歡樂地笑；大哭
 kaka' - <2>：高蹺
-kaka - <3>：哥哥，姐姐；最年長者的尊稱；長哉，上司，上面的，高等的
+kaka - <3>：哥哥，姐姐；最年長者的尊稱；長者，上司，上面的，高等的
 kaka - i kaka：超過；控制，純治
 kaka - i kakaay：高等的；較長，較大
 kaka - malkakay = malikakaay：同父同母的 - o sadak no malikaka：堂兄弟
@@ -6294,7 +6294,7 @@ kakter = makter：發脾氣；辱罵
 kakti' = kakitiw = facacnal：小胡蜂
 kaktol - {F} = fagaw：水田的一種蟲
 kaktol - {N} = fagaw：臭蟲
-kala：前綴：跟隨一個動詞使具有個性的行動；為自己的利益
+kala：前綴: 跟隨一個動詞使具有個性的行動；為自己的利益
 kala mikalat to sowal：惡意的話
 kala mikalat ko waco：咬：在獵犬群理，犬各咬
 kala minokay cagra：回家：各人回自己的家；各人走他自己的家
@@ -6439,7 +6439,7 @@ kaliwikaw：鐵線蓮屬植物
 kaliyah：惡神 (很高大的惡鬼，常常把人放在樹上或山上)：住樹裡或山，他們給人生病和發燒
 kaliyalaw = kaliyalaway = kalaliyaway：黃色；黃色吹哨的鳥
 Kaliyawan：卡來灣族；花蓮縣新城鄉嘉里村 (加禮灣)
-kalo：語法的詞綴：表示地點或過去的時間；平常地； - 一般，所有，各自：
+kalo：語法的詞綴: 表示地點或過去的時間；平常地； - 一般，所有，各自：
 kalo tamdaw：一般的人 - kalo tayal：任何工作
 kalo = tado：徒然；沒有結果地
 kalo maaman：所有的事物
@@ -6663,7 +6663,7 @@ kapray - ci kapray = kaper：有粉刺
 kapray - {F}：綠洋蔥：Solanum melongena
 kapros - {N} = fohet：松獵
 kapsii' - makapsii' = kapsoh：流產，小產
-kara：前綴：表示經常性，習慣，待性 - o karamagaray a tamdaw cigra：他總是說謊謊言家 - karapaskaay ko faloco' nira：他自然得害怕
+kara：前綴: 表示經常性，習慣，待性 - o karamagaray a tamdaw cigra：他總是說謊謊言家 - karapaskaay ko faloco' nira：他自然得害怕
 kara'acay {S}：螃蟹煩的名字
 kara - mikara = karot：牛拖耙，耙乾淨
 kara - sakara：耙子
@@ -6790,7 +6790,7 @@ karotod - makarotod：碰傷 (水果)
 karatotoayay：藥植的一種 (他的葉子和根是可食用的)
 karteg = fa'ket：重 - karteg ko tayal nira：他們的工作煩重，他作困難的工作 - karteg ko faloco' ako：心情沈重；困難
 karto - mikarto {N} = kalto：去接一個人
-kasa：前綴：各；排列；全
+kasa：前綴: 各；排列；全
 kasa - {N}：雨傘
 kasaaoaol no niyaro'：村之間的差別
 kasaco'ed - {S}：山谷；一隅仄之地，角；奚谷，谷與谷間幽暗處
@@ -6982,7 +6982,7 @@ kayap：裙子；纏腰布；男子穿的短圍裙 - “O mo'cel ko kayap nira�
 kayapo - makayapo：洗把...鋪蓋某物
 kayapo - mikayapo = mikiapo：把藤鋪蓋某物
 kayat - makayat, mikayat：牽手 - kayaten cigra a panokay：牽他的手回家；拉送：kayaten kako：請用手牽我；帶領，引路；領導；拖，拉；練習，訓練 (自行車，摩托車，汽車)；牽 - makayat cagra a romakat：他們互相拉手走路
-kayat - pakayatan：豐年祭時的儀式 - Pakayatan：豐年祭時，在許多村落，一段 時間是保留為這儀式：年青人的首領(mama no kapah)挑選一些少女，再介紹她們給年青為並肩地跳舞
+kayat - pakayatan：豐年祭時的儀式 - Pakayatan：豐年祭時，在許多村落，一段 時間是保留為這儀年青人的首領(mama no kapah)挑選一些少女，再介紹她們給年青為並肩地跳舞
 kayay - makayay：啞的
 kaydih = kayhid：引誘，誘惑
 kaydih - makaydih：引誘的 - makaydih no tao cigra：他受了別人的誘惑 - makaydih no tapag kako：我受了天主的考驗
@@ -7215,7 +7215,7 @@ kimpi'：正方形，四方形；相等的；扁平
 kimpopo - mikimpopo：停住，扣留；捕獲；抓住
 kimto = timool = kitmol：成熟的；整個推舉
 kimtor：利果竹
-kina：指示形容詞：kina wawa：這個孩子 (所有格：nina, 賓格：tina)；kina 有時表示眨義的意思 例：kina wawa！：該死的孩子！；前綴；表示次數，例 kina pina？：幾次？，kina pina：經常，若干，幾個？
+kina：指示形容詞: kina wawa：這個孩子 (所有格：nina, 賓格：tina)；kina 有時表示眨義的意思 例：kina wawa！：該死的孩子！；前綴: 表示次數，例 kina pina？：幾次？，kina pina：經常，若干，幾個？
 kina - <1>：前綴表示各種自殺的方式
 kina - <2>：前綴表示剩餘物，殘屑
 kina'alol：淹水自殺
@@ -7372,7 +7372,7 @@ kiwit：草的一類(犬其拾在奇美村)；植物；海金沙
 kiwit - misakiwitay：氏族的名字
 kiwkiw - mikiwkiw = mickiw：從一小口拿出來某東東；小門口，小進口；監視，警戒 {N}；戮穿
 kiwli - {J} = kyoli：黃爪
-kiya = kina：指示詞：這個，疑問的詞綴在句子後面：... hakiya？：是嗎？，是如此嗎？
+kiya = kina：指示詞: 這個，疑問的詞綴在句子後面：... hakiya？：是嗎？，是如此嗎？
 kiyafay - makiyafay：凸起的木板，鼓起的木板
 kiyafes = kidafes：番石榴；芭樂
 kiyaig：紅樹群落，系樹：Rhizophora mucronata
@@ -7477,7 +7477,7 @@ kni'ay - makni'ay：無瞳孔的眼睛；摘出眼球的 - makni'ay ko tatihi a 
 Knooy：花蓮市國復里
 knot - {Z}：雲
 knoy：軸的潤滑油
-ko：連接詞：訪在專有名詞前面表示主語；祈願式：訪在動詞的詞根後面： 'orad ko sato：願會下雨 - ko fagcalay a faloco' ko pi do'doan：必須憑良心做 - o makapahay a niyaro' ko Ciwkagan：長光是個美麗的地方 - ko haharategen ko sowal no mato'asay：願老人的話要牢牢地記住
+ko：連接詞: 訪在專有名詞前面表示主語；祈願訪在動詞的詞根後面： 'orad ko sato：願會下雨 - ko fagcalay a faloco' ko pi do'doan：必須憑良心做 - o makapahay a niyaro' ko Ciwkagan：長光是個美麗的地方 - ko haharategen ko sowal no mato'asay：願老人的話要牢牢地記住
 ko - ko samaanen：怎麼辦？
 koako - {Z}：煙斗
 koawi = kowawi：龍眼樹，桂圓樹
@@ -7559,7 +7559,7 @@ koger - misakoger：講價，議價
 kogkag：大船，艇；船舶
 kogkag - {J}：軍艦
 kogko - {Tw} = kimad ： 講古；交談，談論；講述；說，講
-kogkog - <1>：像聲，例：pakogkog：敲(門)，擊(鼓)
+kogkog - <1>：像聲 - pakogkog：敲(門)，擊(鼓)
 kogkog - <2> makogkog {Tw}：空的，空心的
 kogkog - <2> masadakogkog：無結果(無校果) - “Caay ka ga'ay a sadakogkog saan a mapatiko i takowanan”(賽：55,11)“我的話從不落空，卻要成”
 kogkog - <2> pikogkogan：達姆達姆鼓
@@ -8530,7 +8530,7 @@ lata'aag = lita'ag：光榮；驕傲 - malata'ag kako to wawa ako：以我的孩
 latag = tpeg：量器，計量單位 = sato (升斗)
 latag - nilatagan：斤量 - “O adihayay a nilatagan a losa' ko nipaflian iso i tamiyanan to mala nananomen niam”(詩：79,5)“你給我們喝一大杯眼淚”；思賜 - “Nilalagan ni Kristo”(腓：4,7)“基督的思賜”
 latag - salatag = sapilatag = talatagan：測量；一斗容量
-latak - <1>：陽桃：Carambola fwit
+latak - <1>：陽桃 Carambola fwit
 latak - <2>：用在田地，有陽桃形的凹槽捲
 latak - milatak：第三個耙地；一攪拌農田，使黏土碎爛
 latak - sapilatak：釘齒耙
@@ -8588,7 +8588,7 @@ lawas - {S}：竹管用為放水
 lawat - milawat：走路；向前跨一步；做柔軟體操(軍事)
 laway = pisig：臉；嘴 {Z}
 lawco - {F} = lgac：艷山薑：Alpinia speciosa
-lawdgan - <！>：月球的陰暗部份
+lawdgan - <1>：月球的陰暗部份
 lawdgan - <2>：一片漆黑
 lawi - milawi：曬乾
 lawi - palawi：弄乾
@@ -8711,7 +8711,7 @@ lgaw - o na lalgawan a raraw：原罪
 lged = sa'ged：髮辮(把布帶打結在頭周圍，用帶一個髻)，把頭盤結在一起
 lged - misalged：編成辮子
 lgel - milgel：浸入
-li：前綴：脫掉的意思 列 lifages：脫皮 - litkos：脫煙葉的葉脈
+li：前綴: 脫掉的意思 列 lifages：脫皮 - litkos：脫煙葉的葉脈
 'li'：莖幹(用為屋頂)，茅草；茅舍的茅草：Imperata arundinacea
 'li' - ccay a 'li'an = ccay a no'li'：一百；一百茅草
 li - mili = miki：找，尋找
@@ -9134,13 +9134,13 @@ lisin - sasalisinan：獻祭的物品
 lisiw - {F} = lihiw：侵蝕
 liso’ - miliso’：拜訪，訪問，慰問：訪問為安慰某人；向某人表示同情
 lisol - {S}：頭痛
-lisol - <1>：malisomol：把某物弄得成糊狀侍者如斯
-lisol - <2>：malisomol ko faloco'：悲傷的心，內心傷痛的 - “I gata no malisomolay a faloco' a tamdaw ko Tapag”(詩：32,19)“上主極救內心傷痛的人”
+lisol - <1> malisomol：把某物弄得成糊狀侍者如斯
+lisol - <2> malisomol ko faloco'：悲傷的心，內心傷痛的 - “I gata no malisomolay a faloco' a tamdaw ko Tapag”(詩：32,19)“上主極救內心傷痛的人”
 lisomol - palisomol to faloco'：使悲傷，使憂愁；使傷痛某人的心
 lison - malison：沸騰前水響了
 lisor - lisol：有空的條播裡加移植
 lita’ag - <1> = lata’ag：自負；傲慢的；驕傲 - a ka to pisalita’ata’ag a somowal：停止你高傲的言論
-lita'ag - <2>：自豪：o saka lita'ag ako：這是我引以自豪的事 - malita'ag kako to wawa ako：我以孩子為榮
+lita'ag - <2>：自豪 - o saka lita'ag ako：這是我引以自豪的事 - malita'ag kako to wawa ako：我以孩子為榮
 lita'ag - kalita'ag：珍貴的；寶貴的物品
 litagah - militagah {Z} = mifitagal：獵人頭
 litahfod - militahfod {S}：找灰塵(儀式的)
@@ -9651,13 +9651,13 @@ ltep - maltep = takop = rpet：追上，趕上；追趕時達到 - maltep ako ko
 ltep - miltep：撞見某人；愛現；找到
 lto：竹子：Spinners
 ltoh = lifafoy = 'owag = pakeg：喊叫；獅吼 - “Matiya o piltoh no koyo”(米：1,8)“像野狗悲號”
-M = me = mo：前綴：古詞，發音ㄇㄜ - mger：居往 - mkal：呼叫一個名字
-ma - <1>：前綴：用為前有 mi 的動詞，指示被動式的方式
-ma - <2>：變成 ka… 指示：否定詞，命令，禁止
+M = me = mo：前綴: 古詞，發音ㄇㄜ - mger：居往 - mkal：呼叫一個名字
+ma - <1>：前綴: 用為前有 mi 的動詞，指示被動式的方式
+ma - <2>：變成 ka… 指示；否定詞，命令，禁止
 ma - <3> (ma…ay)：現在分詞 - maolahay：多情的 - matayalay：勒勞的人
-ma - <4>：前綴，指示無人稱動詞，例 - ma'deg：夠了
-ma - <5>：前綴，指示感覺，狀態的動詞，例 - macahiw：我餓了
-ma - <6>：加名詞 = 形容詞，例：maacek：污穢的，maacag：怏樂的，maagagil：桔萎的，ma’alol：溺斃的，ma’anof：貪心的，ma’anal：禿頭的
+ma - <4>：前綴: 指示無人稱動詞 - ma'deg：夠了
+ma - <5>：前綴: 指示感覺，狀態的動詞 - macahiw：我餓了
+ma - <6>：加名詞等於形容詞 - maacek：污穢的 - maacag：怏樂的 - maagagil：桔萎的 - ma’alol：溺斃的 - ma’anof：貪心的 - ma’anal：禿頭的
 maad = mad：故事
 maad - cimaaday = pakinaliay：說更多，外加的話
 maad - pacimaad to pacfaay a sowal：假見證
@@ -9665,7 +9665,7 @@ maad - pacimaad：評論；翻譯時評論
 maagag = mihcek：巫師團巡迴禮
 maagagay - {S}：巫師
 ma'aido - {F}：始祖的女人(光復鄉的傳說)
-maan：形容詞；泛指代詞：(某事，某物)：什麼，如何東西，怎麼樣？ - maan han ako：我說，怎麼辦？
+maan：形容詞；泛指代詞: (某事，某物)；什麼，如何東西，怎麼樣？ - maan han ako：我說，怎麼辦？
 maan - a simaan：隨便；自原地；沒有什麼關係
 maan - caay ka sasimaan a misawi：沒問題；大致地；不可勝數
 maan - hamaan：為什麼？，做什麼用？，引申為毫無用處
@@ -9674,9 +9674,9 @@ maan - kalimaan = malimaan = malimanan：不必，不需，沒必要 - malimaana
 maan - kalimaanay：癈棄物
 maan - lamaan {F} = alimaan：有時候 - lamaanan taini cigra a miliso'：他有時候回來
 maan - maanan：什麼類，什麼樣
-maan - mamaan - manaanay：肯定詞：怎麼辦？；可以；否…如何 - mamaan kiso anini：你今天怎麼了？
+maan - mamaan - manaanay：肯定詞: 怎麼辦？；可以；否…如何 - mamaan kiso anini：你今天怎麼了？
 maan - malomaan：不需要；有什麼用處？；沒有興趣
-maan - masamaan：疑問詞：那種？；怎麼樣？ - masamaan kamo？：你們怎麼樣？；如何：masamaan ko rakat namo anini？：你們的行程，如何？
+maan - masamaan：疑問詞: 那種？；怎麼樣？ - masamaan kamo？：你們怎麼樣？；如何：masamaan ko rakat namo anini？：你們的行程，如何？
 maan - masamaanay - masamaamaanay：各種，各類；住何的物品；結果如何
 maan - mimaan - mimaanay：怎麼辦？ - mimaan kiso？：你趕什麼？ - kiso ko mimaanay saw？：這不關你的事
 maan - misamaan：做什麼
@@ -9760,7 +9760,7 @@ mahki matini {F}：今後，此後
 mahko：每一個，各個
 mahod：氣息
 mahod = lalidigan：木蒸籠，蒸桶(為木製器用，用來蒸煮糯米等)
-mahod - pakamahod：萬物有靈論的儀式：一個孩子瀕臨死亡的危險時新誕生儀式：巫放這個孩子在水蒸汽上面
+mahod - pakamahod：萬物有靈論的儀一個孩子瀕臨死亡的危險時新誕生儀巫放這個孩子在水蒸汽上面
 mahod - pakimahod：蒸糯米
 mahofin - {J}：熱水瓶
 mahsad：小塌方
@@ -9774,7 +9774,7 @@ ma'inal：羨慕，嫉妒
 ma'inap：夫婦的嫉妒
 ma'inayam - {N}：公雞
 maiyak：喉嚨梗塞
-maka：前綴：跟隨一個動詞表示 開始做某事
+maka：前綴: 跟隨一個動詞表示 開始做某事
 makadofah - {S}：遺產
 makahil：用光了，糧食用盡
 makalaway - {N}：視證明人
@@ -9800,7 +9800,7 @@ Makota：花蓮縣豐濱鄉港口村 - 花蓮縣玉里鎭宮前里
 makotaay：混亂；瀾泥；泥漿水
 makotloc：兩端(開始和終)
 Makrahay：台東縣長濱鄉真柄村
-mala：前綴：變為，變成，成為；(主動形式是"pala"：還)
+mala：前綴: 變為，變成，成為；(主動形式是"pala"：還)
 malaafo：把…弄成粉來的
 mala'alip：人的交尾
 mala'anin：年輕動物的玩耍；摔角
@@ -9867,7 +9867,7 @@ malcawi = cawi：一雙，一對；相互對答
 malfet - {N} = patek：一千；刀柄
 mali {J}：球
 mali - mimali：玩球，打球
-mali：前綴：看來是 mala 的音形式同可能一細徵差別當 mili 的陰性形時式時 如：尋找；還有 - malikolog：還有水牛；同樣的：埸地是同樣的
+mali：前綴: 看來是 mala 的音形式同可能一細徵差別當 mili 的陰性形時式時 如：尋找；還有 - malikolog：還有水牛；同樣的：埸地是同樣的
 malicagay = fta'：毒蛇：龜殼花(淡紅色的，約 60 到 80 公分張)：Taiwan Habu
 malika - {N}：每一個…，各個…
 Malike'log：花蓮縣光復鄉富田村 = Tafalog
@@ -9904,8 +9904,8 @@ malosaot = malisaot：隼合
 malosimpo niyam：他是我們的神父
 ma’ma’：給…；送上；贈送 - palima’ma’an ita to kaso’so’ay a kakaenen：我們要送好的食物 - patalima’ma’ a pakaen’i, maonic iho：送好吃的，還縑不好
 ma’ma’ - palima’ma’ = cimil：綽號
-mama - <1>：前綴：與就有"ma"形的動詞；這前綴"mama"和"mami"是相符的造身分或職業的名字 - mamatayal：工人
-mama - <2>：前綴：要是被詞根連的有 可能性 的意思 這些形容詞和 o …to 或 caay ko’ (否定詞)搭配，如：mama’ari：能打碎的
+mama - <1>：前綴: 與就有"ma"形的動詞；這前綴"mama"和"mami"是相符的造身分或職業的名字 - mamatayal：工人
+mama - <2>：前綴: 要是被詞根連的有 可能性 的意思 這些形容詞和 o …to 或 caay ko’ (否定詞)搭配 - mama’ari：能打碎的
 mama = wama = ama：父，父親，爸爸；主人 - mama no loma'：家長，主人
 mama - cimamaay：孩子們
 mama - halimama：親附於父親
@@ -9942,7 +9942,7 @@ mamet - mamamamet：握手
 mami - {S}：橘子
 mami’ - <1> = asiro’：柑樹，桔樹
 mami' - <2> {N}{Z} = mami = kamoraw：柚樹，柚子
-mami - <3>：前綴，和一個詞根造職業的名字
+mami - <3>：前綴: 和一個詞根造職業的名字
 mamidafo'：家庭儲備糧的負責人
 mamidodoc = mamidotoc：斷承人
 mamidopo：支持者，擁護者
@@ -9986,7 +9986,7 @@ manay - {N}：這就是為什麼，因此；怎麼樣
 manay - {S} = mamanay = maman：沒什麼，沒關係 - mamanay cigra iro tano rmes saan ko riko'nira？：他的衣服都是血，他發生了什麼事？
 manay - asimanay：沒關係
 mancel - <1>：小鹿，花鹿，山羌；住在山上的野動物；黃鹿：Cervulus muntjac - Barking dear
-mancel - <2>：硃砂根：Ardisia cornudentata
+mancel - <2>：硃砂根 Ardisia cornudentata
 Mancelan：花蓮縣玉里鎭松浦里
 manihot = 'alida：木薯
 manikaway = ca'gootay：有生理缺陷的人；缺少，不足
@@ -10018,7 +10018,7 @@ maparpar = malepar：脫落
 ma'piay - <1>：雙胞胎，孿生
 ma'piay - <2> - {S}：麻痺的；患麻痺的人
 mapohaway - <1>：瞎子
-mapohaway - <2>：洞蛇，蟒蛇：Russel's viper
+mapohaway - <2>：洞蛇，蟒蛇 Russel's viper
 mapolog：共同，一起，一塊兒
 maponegay = madaponohay：寡居的，寡婦
 maporahaw = kadipohaw：視力不好
@@ -10039,7 +10039,7 @@ marec - misamarec：保存新鮮物
 mar'fot - {N} = sasiwan：千足蟲( 蜈蚣，…)
 marir：螻蛄
 maro - <1> = malo：變成，變得
-maro’ - <2> = aro’：住所，居住；坐下  - pakamaro’：請別人坐下或停留
+maro’ - <2> = aro’：住所，居住；坐下 - pakamaro’：請別人坐下或停留
 maro’ - kamaro’：請坐！
 maro’ - kamaro’an：座位，椅子；長椅；居住的地方
 maro’ - mikamaro’ {S}：有目地而坐的過程；時間；結果
@@ -10047,7 +10047,7 @@ maroda'ci：蘭嶼八角金盤(樹)：Lanyu boerlagiodendron
 maroray = magro' {N}：疲乏的，疲勞的
 marpi' - {N} = macici：被扯破的
 masa - <1>：大約，差不多，左右
-masa - <2>：前綴，經常有"形式"或"方式"的意思
+masa - <2>：前綴: 經常有"形式"或"方式"的意思
 masa 'i：也許，恐怕
 masa no：如同；按照 - masa no sowal iso：按照你說的話 - masa no topi：像鴿子形
 masa no tiregay：有形體的，肉體的
@@ -10215,7 +10215,7 @@ matini - sakamatini：這事的理由就是這樣
 matini - tahmatini = tahamatini：直到現在；至今
 matira：就那樣
 matira ko sowal nira：他是這樣說的
-matiya - <1>：比較副詞：好像，如同 - matiya o wawa ako cigra a halateg：我看他和我自己的孩子一樣 - matiya o ina ako cigra ’i, ’arawhani aca caay to：酷似我我自己的母親，其實不是 - aka pisamatiyatiya o mafana’ay：不要自作聰明的人
+matiya - <1>：比較副詞: 好像，如同 - matiya o wawa ako cigra a halateg：我看他和我自己的孩子一樣 - matiya o ina ako cigra ’i, ’arawhani aca caay to：酷似我我自己的母親，其實不是 - aka pisamatiyatiya o mafana’ay：不要自作聰明的人
 matiya - <2>：好像，可以說 (可以放 matiya 在比較部後面) - adada kiso matiya：好像你生病了
 matiya - samatiyaen nira, o so'linay：他做得像真的一樣
 matiya - samatiyaen o dmak ako：你要作跟我同樣的
@@ -10265,7 +10265,7 @@ metmet - mamametmet = masasimetmet：握緊手掌，握別人的手
 metmet - mimetmet：握緊拳頭
 metmet - nimametmetan a saskog (skog)：用握手拳頭威脅打某人
 mger：住，停留
-mi：前綴；前有 mi 的動詞被連一個名詞注出關於某某名詞的動作 - miicep：嚼檳榔 - minanom：喝水 - mitamako：抽煙；處擬式時(否定詞，命令詞，從句的動詞) mi…變 pi… ’mi {Tw} = ’did：大麥 ’mi - kalo’mi = tada’mi：小麥
+mi：前綴: 前有 mi 的動詞被連一個名詞注出關於某某名詞的動作 - miicep：嚼檳榔 - minanom：喝水 - mitamako：抽煙；處擬式時(否定詞，命令詞，從句的動詞) mi…變 pi… ’mi {Tw} = ’did：大麥 ’mi - kalo’mi = tada’mi：小麥
 miaca = mihca：年，年齡 ’mic - mi’mic = ’atem：扣住，釣住，夾住 ’mic - sa’mic a talakal：捕野豬器 ’mic - sa’mic：鋏子；釣子，夾子；鉗子，夾鉗
 micadogag = nisariko'an：所穿的衣服
 mi’cag = mercag = ma’cem：耀眼的
@@ -10328,7 +10328,8 @@ militafad：獵人頭
 militapag：開始
 militigas：剔牙
 milmil - mimilmil：手指摸摸看；仔細地檢察某事物；和不熱悉的人取的聯繫
-mimi - <1>：mimimi = mimo’mo’：方麵團球形的 ’mi’mi - <2>：ma’mi’mi：產後併發痛
+mimi - <1>：mimimi = mimo’mo’：方麵團球形的
+’mi’mi - <2>：ma’mi’mi：產後併發痛
 mi’mi’ - <3> mimi’mi’：摸；按摩；觸摸 - “Mi’mi’en kako a mipalita hana”(路： 24,39)“摸于摸我，你們就知道”
 mimig = ma'mag：少，小，幼
 mimik = mimit：割稻時用的小鐮刀
@@ -10351,8 +10352,8 @@ miradom：挑水
 miramir：衣服的流蘇 - “Sa kakaya’en nagra ko miramir no riko’”(瑪：23,5)“他們加長了衣裳的繸子”
 mirmir - mamirmir：發抖，怕得直哆嗦
 misa' - <1> {Tw}：使蔬菜燙在開水中
-misa - <2> {中文}：[天主教] 彌撒 - mimisa：參加彌撒 - caay pimisa：缺彌撒
-misa - <3>：前綴，指出一個比較或一個後果，重要的意思是：把…變…的形式；還有另外的意思如：裝作，從事，做…
+misa - <2> {Ch}：[天主教] 彌撒 - mimisa：參加彌撒 - caay pimisa：缺彌撒
+misa - <3>：前綴: 指出一個比較或一個後果，重要的意思是"把…變…的形式"；還有另外的意思，如裝作，從事，做…
 misa'adapaw：陰謀
 misa’alima’alimacan a dita：用為做磚的土
 misa’alinawnaw a ma’fer：飛時成一個圓子
@@ -10562,7 +10563,9 @@ mnafaw - {N} = nawnaw：淹沒
 mnah - {N} = hmot：肛門
 mnaw - mamnaw {N}：角膜翳；-葉障目；一些帳目
 mno - mamno {Z}：瞎的 - mimno：閉眼
-mo：前綴，用代替 ma，常變成 om 例：komaen, toma’i 有時候 "o"是取消的和在前面的輔音：ta’i = toma’i = ma’i / rakat = romakat = rakat ’mo - <1>：年糕 ’mo - <2>：竹的一種
+mo：前綴，用代替 ma，常變成 om 例：komaen, toma’i 有時候 "o"是取消的和在前面的輔音：ta’i = toma’i = ma’i / rakat = romakat = rakat
+’mo - <1>：年糕
+’mo - <2>：竹的一種
 moagic - {Z}：哭，哭泣
 moamo = moamo’ = miso’em：口吃得滿滿的
 moamo' = moed：把…溶解在口理
@@ -10884,7 +10887,7 @@ nani tira i：從某地方來的 - nanitira i Ligacay kiso a taini haw？：你�
 nani' - {N}：貓
 nani'ol：小蝌蚪
 naniwac - {S}{F} = aniras = aniwac：綠豆：Phaseohis radiatus
-nano：語助詞：按照，因為；如果有關於人的行動，要用 nano 的字
+nano：語助詞: 按照，因為；如果有關於人的行動，要用 nano 的字
 nano carnel a wawa：混血的
 nano dmak nira：因為他的行動…
 nano - o nano loma' niyam konini：這是我們曾經住過的家
@@ -10966,9 +10969,16 @@ negneg - negnegan = tatirian：樣品，榜樣，模範
 neknek：沉澱；沉掅物
 neknek - kalineknek：集結處，集合的地點 - o kalineknekan no nokay no nanom：各方之水集中之處
 neknek - mineknek：沉掅；澄清 - mineknek cigra a pasowal i takowanan：他只對我說
-neknek - palinekneken：全部沉澱 - “Nipahalineknekan a ’pah”(賽：25,6)“酵美的陣酒” - palinekneken ho kora tfon ta mihacol：水池的水充分給予沉澱然後再舀出來 ’nem：六，陸，6；六個，六位 ’nem - a’nemay：有六個人
+neknek - palinekneken：全部沉澱 - “Nipahalineknekan a ’pah”(賽：25,6)“酵美的陣酒” - palinekneken ho kora tfon ta mihacol：水池的水充分給予沉澱然後再舀出來
+’nem：六，陸，6；六個，六位
+’nem - a’nemay：有六個人
 nemnem - <1> = nemen {S}：泉，泉水，水源
-nemnem - <2>：第二個收穫的節日 ’nep：幸福的，快樂的，高興的；有習慣：在村理，新來的飲和新朋友之間，感覺他不是外來的；魔法的飲料 ’nep - ma’nep：發瘋般地愛上某人；迷惑 - ma’nep a mitgil：使聽人聽得出神了 ’nep - mipasa’nepan：迷惑的；魔法害的人 ’nep - pasa’nep：用 魔法害的人，迷惑 ’nep - sapa’nep：迷惑的，迷住的 - ci sa’nepay a ’pah, tafako, ’icep：酒，煙，檳榔…迷惑的
+nemnem - <2>：第二個收穫的節日
+’nep：幸福的，快樂的，高興的；有習慣：在村理，新來的飲和新朋友之間，感覺他不是外來的；魔法的飲料
+’nep - ma’nep：發瘋般地愛上某人；迷惑 - ma’nep a mitgil：使聽人聽得出神了
+’nep - mipasa’nepan：迷惑的；魔法害的人
+’nep - pasa’nep：用 魔法害的人，迷惑
+’nep - sapa’nep：迷惑的，迷住的 - ci sa’nepay a ’pah, tafako, ’icep：酒，煙，檳榔…迷惑的
 nerner - {F} = decdec：勒痕，緊繃的傷痕
 nfa - mahinfa, mihinfa：俯伏，拜倒
 nfak = dfak = rinafo：埂；犁溝 - “Pananom to 'orad ko Tapag no nikagkgan a nfak”(詩：61,11)“上主使耕地雨水充足”
@@ -11067,7 +11077,7 @@ niyor - {N} = 'ros：河的水流
 niza - {Z} = cagra：他們
 nkaw - minkaw {S} = micgaw：打開眼睛
 nker - minker：壓，壓制，倒塌；克制；壓迫
-no：語法小品詞：從，經過 - no focod a wawa：從罪的孩子； = no tked =
+no：語法小品詞: 從，經過 - no focod a wawa：從罪的孩子； = no tked =
 noniyah：自己的，自我的
 no - 'aywan {Z}：向前
 no - {S} = naw：為什麼，為何
@@ -11129,7 +11139,8 @@ nonor - minonor：延長期限，延期
 nonor - panonor：讓與時限
 nonot - minonot：擾亂
 nonot - {S}：混亂，糾紛；羞愧
-nood - cinoodan：出生前，子宮出水 ’nor = enor = tnol = sapa’nor：船的錨 - “Onini a kacifaloco’an ita ’i, o masogilaay, tanektekay a mala’nor no faloco’ita”(希：6,19)“我們有這盼望，正像生命之錨”
+nood - cinoodan：出生前，子宮出水
+’nor = enor = tnol = sapa’nor：船的錨 - “Onini a kacifaloco’an ita ’i, o masogilaay, tanektekay a mala’nor no faloco’ita”(希：6,19)“我們有這盼望，正像生命之錨”
 nora = norira：這個的；那個的 - o wawa noranan a tamdaw cigra：他是那個人的孩子 - “O Hibray a tamdaw cagra saw？ O noranan to kako；o Israel a tamdaw saw？ O noranan kako”(林下：11,22)“他們是"希伯來"人嗎？我也是；他們是"以色列"人嗎？我也是”
 norini = nonini：那事物的
 nornor = nirnir：在進口中 - “Manornor to a malasawad ko hkal”(約壹：2,17)“這世界和他的慾望都在消逝”；漸漸地邋；變老的；逐漸地做；逐步的走路 - minornor to rarakaten：先走因為有人用小涉 ’norog - ci ’norog = ci ’inorog：戴一個重負
@@ -11150,24 +11161,40 @@ o latosa：半，一半
 o maan konian？：那是什麼？
 o roma 'i：有時候；而且，還；還有，換句話
 o roma sato 'i：另一方面，此外
-oal - mioal {Z}：用槓桿打開 ’oc - ma’oc = la’oc：小組討論，會議；枝葉的未端
-ocanan - {Z}：什麼事？ ’oca’ocaay - misa’oca’ocaay：小孩子的移動在他母親的腹部，依偎在懷裡 ’ocil - mi’ocil：緊跟；陪同；在一起 - mi’ocil ko faloco’ ako：我心與你同往；想陪同父母，再裝哭 ’ocia {J}：茶，茶葉 = ociaya：茶館；娼妓
+oal - mioal {Z}：用槓桿打開
+’oc - ma’oc = la’oc：小組討論，會議；枝葉的未端
+ocanan - {Z}：什麼事？
+’oca’ocaay - misa’oca’ocaay：小孩子的移動在他母親的腹部，依偎在懷裡
+’ocil - mi’ocil：緊跟；陪同；在一起 - mi’ocil ko faloco’ ako：我心與你同往；想陪同父母，再裝哭
+’ocia {J}：茶，茶葉 = ociaya：茶館；娼妓
 ociya - misaociyaay：娼妓，妓女
 ocog - {F}：大量地，豐富；很多，許多
 ocoli {J} = coflis：零錢，一毛錢；找錢；小益處
 ocor - aocoren = aocoran：使徒
 ocor - maocor：派出的 - maocor no Pa'oripay ci Yiso：上主派追了耶穌
 ocor - miocor：安排，命令；差派，派出 - ocoren no Pa'oripay ci Yiso：上主派送耶穌 - ocoren ko wawa iso：命令你的孩子去 - o nipiocor to wawa iso ko ga'ay：你最好派送你的孩子
-ocor - niocoran：代表；使者，派遣人員 ’odac - mi’odac = so’ac：擦亮
-odad - {Z}：下雨 ’odag：通姦；私通 ’odag - ma’odagay：頭腦較簡單的；愚本的 ’odal：蜜蜂 ’odal - waneg no ’odal：蜂蜜 ’odawis - mi’odawis = adawis：採果的竹桿 - piadawis to ’icep：採檳榔 ’odax - {S} = odah = waneg：糖，糖果，蜂蜜
+ocor - niocoran：代表；使者，派遣人員
+’odac - mi’odac = so’ac：擦亮
+odad - {Z}：下雨 ’odag：通姦；私通
+’odag - ma’odagay：頭腦較簡單的；愚本的
+’odal：蜜蜂 ’odal - waneg no ’odal：蜂蜜
+’odawis - mi’odawis = adawis：採果的竹桿 - piadawis to ’icep：採檳榔
+’odax - {S} = odah = waneg：糖，糖果，蜂蜜
 odeg - {S} = 'deg：滿足，足夠
-odepa - ciodepa：病的一種 ’odet - mi’odet：進攻 - ’odeten nira koya tamdaw a mipolin：他進攻那個人宜到他趺倒 ’odidal = odidah {S}：有刺的木；多刺灌木叢
+odepa - ciodepa：病的一種
+’odet - mi’odet：進攻 - ’odeten nira koya tamdaw a mipolin：他進攻那個人宜到他趺倒
+’odidal = odidah {S}：有刺的木；多刺灌木叢
 odo - <1> = 'do：老鼠
 odo’ - <2> misaodo’：收蘑菇的巫術
-odo’ - sasaodo’en a fokloh：寶石
 odo' - <3>：琥珀；玉石，瑪瑙；項鍊珠；念珠
+odo’ - sasaodo’en a fokloh：寶石
 odo' no fidac：珍珠
-odok - {S}：皮膚病 ’odot - mala’odotay = ’odet：吵架，打架，孚架 ’odot - mala’odo’odot：作戰，打仗；兩人互相打鬥；處於戰爭狀態 ’odot - mi’odot：博鬥；進攻；掙扎 ’ofad - ccay a ’ofad：萬，一萬，10.000 ’ofad - ma’ofad：白髲
+odok - {S}：皮膚病
+’odot - mala’odotay = ’odet：吵架，打架，孚架
+’odot - mala’odo’odot：作戰，打仗；兩人互相打鬥；處於戰爭狀態
+’odot - mi’odot：博鬥；進攻；掙扎
+’ofad - ccay a ’ofad：萬，一萬，10.000
+’ofad - ma’ofad：白髲
 ofag：洞口；懸崖；裂口，破裂 - tata’ag ko ofag no riko’ nira：他的衣服有大裂口
 ofar - paofar {N}：古怪的；對開車入迷；對騎著車入迷
 ofaw = lohfaw：香芹；雪維菜：Petrolium sativum ’ofcag = ’ifcag：僵硬的；硬直的；不容易彎曲
@@ -11175,28 +11202,45 @@ ofific - miofific：扯頭髮
 ofil = ofel：外面的層(一層雪)，一層薄皮(如麵包皮)；霜，霧淞 - “Makirad sato koya’an ’i, ira ko mimigay hato flacay, matiya o ofil no so’da i togroh no sra”(出： 16,14)“露水一蒸發，在他面上有一層薄薄像霜一類的東西”
 ofil - ciofil：有瘢痕皮
 ofnac - {T}：老人的苧麻作的上衣
-ofor - paofor = paofar：他快飛向前走，像瘋子開車 ’ogag - ’ogagay {Z}：瘋子，狂人 ’ogag - ma’ogag {N} = ’odag：通姦 ’ogaget - {N}：可以捆(綁，繫)一個東西的地方；捲曲的；頭燙髮 ’ogagil：軟骨；筋
-ogalay - {F}：希望，期望，指望 ’ogaog - mi’ogaog = logalog：點頭，搖頭
+ofor - paofor = paofar：他快飛向前走，像瘋子開車
+’ogag - ’ogagay {Z}：瘋子，狂人
+’ogag - ma’ogag {N} = ’odag：通姦
+’ogaget - {N}：可以捆(綁，繫)一個東西的地方；捲曲的；頭燙髮
+’ogagil：軟骨；筋
+ogalay - {F}：希望，期望，指望
+’ogaog - mi’ogaog = logalog：點頭，搖頭
 ogato - {N}：雪茄
 ogay = lotog：猴類的名字
 ogcog = 'ogcoy：巖石，巨石，岩石，懸石
 ogiog = ogog：哭泣；吼叫, 怒吼 - “Katomagic kamo a paogig”(雅：5,1)“你們要痛哭哀號”
 ogiog - paogiog：嗚咽；哀喊；悲嘆，大聲的哭
-ogog：哭泣聲，嗚咽 ’og’og = ’adi：焦的，燒焦的
+ogog：哭泣聲，嗚咽
+’og’og = ’adi：焦的，燒焦的
 Ogsig - {J}：花蓮縣瑞穗鄉瑞西村
-ogsoya - {J}：貨運站；運輸工人 ’ogto - {Tw} = sisipan = koako’ {N}：煙斗
+ogsoya - {J}：貨運站；運輸工人
+’ogto - {Tw} = sisipan = koako’ {N}：煙斗
 ohin - anahin：歡慶和舞蹈
-ohin - miohin：跳舞 ’ohit - ma’ohit {S}：想，渴望
+ohin - miohin：跳舞
+’ohit - ma’ohit {S}：想，渴望
 ohot：發困，發怔，心懶；愣住，傻住 - o maan ko kaohotan iso hani？：你發什麼呆？
 ohot - maohot：懶惰的；打耰 - maohot ako ko lalowaden iso, ano mimaan kako sa kiso anini：我打擾了你的工作，不知你今天有何打算
 ohot - pakaohot：弄亂
-okag - {Tw}：公 (牛，水牛，羊) ’okak：骨，骨頭 ’okak - ma’okakay：瘦的 - tano’oka’okak sato：骨瘦如柴，瘦得皮包骨
+okag - {Tw}：公 (牛，水牛，羊)
+’okak：骨，骨頭 ’okak - ma’okakay：瘦的 - tano’oka’okak sato：骨瘦如柴，瘦得皮包骨
 o'kak - {S} = tamod：酵母
-oked - misaoked：安靜的 ’okem - ma’okem = ma’cag：枯乾；乾而脆落
-okik = ’akik：虛弱的，嬌弱的；曬乾 - pawalien ko kakahon a mi’akik：把飛魚曬乾 ’ok’ok - mi’ok’ok：吞飲水；牛飲 ’ok’okay - {S}：大蛙(牛蛙？)
+oked - misaoked：安靜的
+’okem - ma’okem = ma’cag：枯乾；乾而脆落
+okik = ’akik：虛弱的，嬌弱的；曬乾 - pawalien ko kakahon a mi’akik：把飛魚曬乾
+’ok’ok - mi’ok’ok：吞飲水；牛飲
+’ok’okay - {S}：大蛙(牛蛙？)
 okos：發生的，明亮的
-okos - miokos：誇耀；自吹自擂，吹牛；表明，揭示 ’okot - ma’okot：感到冷；導冷而使身體縮起來 ’okot - mi’okot：蜷縮；躲避
-okoy = toto’：蔥屬植物；南瓜(？) ’olac - ma’olac：純的 - o ma’olacay ko faloco’：純心的人 ’olac - mi’olac ko tireg：儀式的淨禮 ’olac - mi’olac：提純；精煉；淬火.
+okos - miokos：誇耀；自吹自擂，吹牛；表明，揭示
+’okot - ma’okot：感到冷；導冷而使身體縮起來
+’okot - mi’okot：蜷縮；躲避
+okoy = toto’：蔥屬植物；南瓜(？)
+’olac - ma’olac：純的 - o ma’olacay ko faloco’：純心的人
+’olac - mi’olac ko tireg：儀式的淨禮
+’olac - mi’olac：提純；精煉；淬火
 olah：愛，喜歡；仁慈
 olah - kakaolahan：心愛的人
 olah - maolah：重愛，熱愛；想，願望；覬覦；愛，喜歡 - maolah kako a tayra a misalama：我喜歡走那裡玩 - olahen ko wawa：請愛孩子們 - o a olahen a wawa cigra：這個孩子是好可愛
@@ -11209,14 +11253,28 @@ olami - {N}{J}：仇恨，積恨
 olaol - {T}：喉部
 olat：筋腱，神經；血管，靜脈
 olatek：過分；太硬；寬厚的，大方的
-olatek - maolatek：誇大，過分；超過，超越 - maolatek ko pisti’ to wawa：他沒有適度的打孩子 - “Maolatek ko adada, ta mitrep ko sla’ noya wawa”(王上：17,17)“兒子生病，越來越重，最後病死了” - “Pakaini tonini ko saka maolatek a mapafli i takowanan”(彼後：1,11)“這樣，你們會得以進入永恆的國度裡” ’olaw：煙灰，黑 ’Olaw：花蓮縣瑞穗鄉鶴岡北村 ’olaw - ma’olaw：被陽光曝晒或被煙弄黑的 ’olaw - misa’olaway：氏族的名字(祭祀) ’olaw - pa’olaw：用煙弄黑
+olatek - maolatek：誇大，過分；超過，超越 - maolatek ko pisti’ to wawa：他沒有適度的打孩子 - “Maolatek ko adada, ta mitrep ko sla’ noya wawa”(王上：17,17)“兒子生病，越來越重，最後病死了” - “Pakaini tonini ko saka maolatek a mapafli i takowanan”(彼後：1,11)“這樣，你們會得以進入永恆的國度裡”
+’olaw：煙灰，黑 ’Olaw：花蓮縣瑞穗鄉鶴岡北村
+’olaw - ma’olaw：被陽光曝晒或被煙弄黑的
+’olaw - misa’olaway：氏族的名字(祭祀)
+’olaw - pa’olaw：用煙弄黑
 olep：贊賞，欽佩
-olep - maolep：嫉妒；羨慕，如：maolep ko tao：變成羨慕，因為別人的孩子可以進入高等的學校
-oles：狐的種類；野狼；狼狗頭軍師 ’olic：歌曲；詩篇，吟唱，聖詩 ’olic - m’aolicay：歌曲作者 ’olic - pa’olic：為某吟唱 ’olid - mi’olid = miholol：拜訪；談戀愛；約會；密談 ’olid - pa’oliday a fo’is：流星 ’olid - {F} = moki：小麥
+olep - maolep：嫉妒；羨慕 - maolep ko tao：變成羨慕，因為別人的孩子可以進入高等的學校
+oles：狐的種類；野狼；狼狗頭軍師
+’olic：歌曲；詩篇，吟唱，聖詩
+’olic - m’aolicay：歌曲作者
+’olic - pa’olic：為某吟唱
+’olid - mi’olid = miholol：拜訪；談戀愛；約會；密談
+’olid - pa’oliday a fo’is：流星
+’olid - {F} = moki：小麥
 olidog - {N}：雨衣，雨傘，保護傘
 olif：油橄欖樹(katop？)
-olili = oli！ oli！ to：去罷！去吧！ ’oliyat = ’oriyat：端正的，有禮貌的
-ologan - miologan {J}：管風琴；彈管風琴 ’olol - mi’olol = molamol：含在口理直到容解 ’omac = ’onac = ’ahac：沒有滋味的；變得不鮮艷的 ’omac - ma’omac：凋謝；褪色
+olili = oli！ oli！ to：去罷！去吧！
+’oliyat = ’oriyat：端正的，有禮貌的
+ologan - miologan {J}：管風琴；彈管風琴
+’olol - mi’olol = molamol：含在口理直到容解
+’omac = ’onac = ’ahac：沒有滋味的；變得不鮮艷的
+’omac - ma’omac：凋謝；褪色
 omah：田地，耕地，水田，土地；地產 - pakaomahen cigra to omah ako：叫他在我的田地工作
 omah - kaliomahan：農忙時期 - o kaliomahan to iromatini, pacomoden to ko nanom no omah, hai tkaen to a mikagkag：現在是耕作期了，將水引進田理以便開始犁田
 omah - liomah：所有土地
@@ -11228,30 +11286,54 @@ omay - {F}：人的姓氏
 omei - {J}：烏梅；梅花
 omi' - <1>：可折疊，柔軟的；甜的，溫柔的，順從的
 omi' - <2>：衰落；枯萎；凋謝；弱的
-omi’ - maomi’：慈悲的；愛 - maomi’ ko faloco’：仁慈的心；親熱的，多情的 ’omla - {F} = limla：很可惜！ ’omlig = ’amlig：閃閃發亮
-ona - onini：這是，這個 ’onac = ’omac = ’ahac：沒有滋味的；褪色
-onak：狡猾的人，頭腦較簡單的人 ’onanip：種子：sapaloma no ’icep ’onanip - misa’onanipay = misasapalay：做播種為樹苗(苗木) ’onanip - namisa’onanipay = dpag：神(男神)
+omi’ - maomi’：慈悲的；愛 - maomi’ ko faloco’：仁慈的心；親熱的，多情的
+’omla - {F} = limla：很可惜！
+’omlig = ’amlig：閃閃發亮
+ona - onini：這是，這個
+’onac = ’omac = ’ahac：沒有滋味的；褪色
+onak：狡猾的人，頭腦較簡單的人
+’onanip：種子：sapaloma no ’icep ’onanip - misa’onanipay = misasapalay：做播種為樹苗(苗木)
+’onanip - namisa’onanipay = dpag：神(男神)
 onaon - maonaon：輕輕流的水 - “Caay ka olah konini a finawlan to maonaonay a nanom no Siloe a 'alo”(賽：6,6)“因為那些人不喜歡"西羅亞"溪的涭流”
-onaw = ’olaw：用顏色畫；塗柏油 ’once：大竹子以前用為肩上一個棺材
-ondokay - {J}：運動會 'oner：蛇
-onian - onian ko saka：因為這事… ’onig - ma’onig：污垢，髒 - ci ’onig：髒(身體，衣服)；弄污的；被弄髒的 ’onig - pa’onig：弄髒；弄黑
+onaw = ’olaw：用顏色畫；塗柏油
+’once：大竹子以前用為肩上一個棺材
+ondokay - {J}：運動會
+'oner：蛇
+onian - onian ko saka：因為這事…
+’onig - ma’onig：污垢，髒 - ci
+’onig：髒(身體，衣服)；弄污的；被弄髒的
+’onig - pa’onig：弄髒；弄黑
 onigasifon {N}：閞水
 onih = fao：昆蟲 (所有蟲和爬行動物)
-onih：有時用來罵人的話，例 - waco ko onih：不如狗的東西
-onini：這個 ’onip = ’anip：稻的播種 ’onoc：扁擔 - “Sa ’onocen ko ’onoc ako”：“你們要扁我的扁擔”
+onih：有時用來罵人的話 - waco ko onih：不如狗的東西
+onini：這個 ’onip = ’anip：稻的播種
+’onoc：扁擔 - “Sa ’onocen ko ’onoc ako”：“你們要扁我的扁擔”
 onog - pionog {N}：水牛的鼻環
 onol - paonol = pakonira：讓某人任意去做；不干涉；派出，遣出
 onter：破壞
-oo’ = wa’ay：腳，下肢 ’o’ol：霞；雲 - nanom no ’o’ol：露珠 ’o’ol - pa’o’ol：下雨；生產雲
-oper：小黑蚊子；氏族的名字(祭祀) ’opic = sger = cpa’：溼的，潮溼的 ’opic - ma’opic = masger：溼的，溼透明 ’opic - ma’opic {T} = mitolipes：使沾溼，潤溼
+oo’ = wa’ay：腳，下肢 ’o’ol：霞；雲 - nanom no ’o’ol：露珠
+’o’ol - pa’o’ol：下雨；生產雲
+oper：小黑蚊子；氏族的名字(祭祀)
+’opic = sger = cpa’：溼的，潮溼的
+’opic - ma’opic = masger：溼的，溼透明
+’opic - ma’opic {T} = mitolipes：使沾溼，潤溼
 opig - maopig：有青塊，青腫，有血腫；一種裝飾用的舞衣
 opih：羽毛
 opih - ci opihay：青年人的組 (pakalogay 和 takolol 之間)
-opihinen：估價 ’opir：髮辮，束髮；繩子 ’opir - mi’opir：編成辮子 ’opo = tarig：丘；堆 (木材，土，稻) ’opo - masa’opo：隼合的；開會時 ’opo - misa’opo：隼合，聚集
+opihinen：估價 ’opir：髮辮，束髮；繩子
+’opir - mi’opir：編成辮子
+’opo = tarig：丘；堆 (木材，土，稻)
+’opo - masa’opo：隼合的；開會時
+’opo - misa’opo：隼合，聚集
 opoh：勤勞；勤快
 opoh - maopoh = madopoh：急急忙忙的；作快，立即 - maopoh a komaen：極快吃飯 - maopoh cigra：他工作得快也好
-opohen：你立刻(馬上)做…；即刻做 ’op’op = ’op’opay：田雞，牛蛙
-oraan - {N}：同樣的 ’orac - mi’orac = ’roc：摩擦為變平滑的；磨削，銼 ’orac - {F} = ma’omac：變得不鮮艷的 ’orad：雨，下雨 ’orad - ma’orad：下雨 ’orad - paka’orad = misa’orad：乞雨，祈禱向上主(或做迷信向神)再會下雨
+opohen：你立刻(馬上)做…；即刻做
+’op’op = ’op’opay：田雞，牛蛙
+oraan - {N}：同樣的
+’orac - mi’orac = ’roc：摩擦為變平滑的；磨削，銼
+’orac - {F} = ma’omac：變得不鮮艷的
+’orad：雨，下雨 ’orad - ma’orad：下雨
+’orad - paka’orad = misa’orad：乞雨，祈禱向上主(或做迷信向神)再會下雨
 oraf = patlas = patdo：虛假地說話，亂說話；不承擔工作的責任 - 不正確地工作；隨便
 orafi - {Z} = lafii：夜，夜間
 orag = 'orag {S}：蝦，龍蝦
@@ -11278,35 +11360,73 @@ orohan - {F}：米的一類
 oron = 'ilol：因遠離某人而痛苦；希望某人
 oror - <1> maoror：匆忙地行動；催促，唆嗦
 oror - <1> mioror：吹火
-oror - <1> paoror：浪濤搖動；說服，使相信；強某人做 - 強迫吁某人做壞事 ’or’or - <2>：滿石頭的筐，為造水壩 ’or’or - misa’or’oran：用滿石頭的筐為丁壩 ’or’or - nisa’or’oran：滿石頭的筐用為丁壩 ’orsap：虱子，小虱子，雞的虱
+oror - <1> paoror：浪濤搖動；說服，使相信；強某人做 - 強迫吁某人做壞事
+’or’or - <2>：滿石頭的筐，為造水壩
+’or’or - misa’or’oran：用滿石頭的筐為丁壩
+’or’or - nisa’or’oran：滿石頭的筐用為丁壩
+’orsap：虱子，小虱子，雞的虱
 osa：走近，接近，靠近
 osa - miosa：走近，靠近
-osa - paosa：供給食物，向送食物給在田裡工作者 ’osac - ma’osac = osas {F} = ma’omac：變得鮮艷的
+osa - paosa：供給食物，向送食物給在田裡工作者
+’osac - ma’osac = osas {F} = ma’omac：變得鮮艷的
 osagi - {J}：野兔；兔子 'osal：濃密的青菜和他的根
 osama - {J}：國王
 osa’os - maosa’os：再生毛
-osa’os - miosa’os：向…擦自己 ’osaw：剰餘部分，其餘的人，其餘，其他 ’osaw - ma’osaw：保存的，保持的，遺留的 ’osaw - mi’osaw：保留，保存
+osa’os - miosa’os：向…擦自己 ’osaw：剰餘部分，其餘的人，其餘，其他
+’osaw - ma’osaw：保存的，保持的，遺留的
+’osaw - mi’osaw：保留，保存
 osay - miosay：做針綿活
 osay - {J}：縫線
 osed - maosed：失去的，安喪失的；未使用的，未被利用的 - “Sa’opoen ko ’osaw, a mikimit to saka’ca kalaosed”(若：6,16)“把剩下的零破都收合起來，不可糟蹋”；亂化錢 ’osget - ma’osget = gotfol：倨傲的；不高興地，臉臭臭的；拉長著臉 - “Mipa’araw to ma’osgetay a laway, papinegneg i taowanan to nipisaliway nagra”(太：6,16)“他們裝出一副苦相，好讓別人看出他們正在禁食” - sa’osget san cigra a ocoren a pakatayal：叫他工作他很不樂意
 osi - <1>：看(書，等)；唸；計質 - misa'osi {S}：擬訂計劃；唸，朗讀，讀書
-osi - <2>：公正的；真實的；好的，良好的 - o ’osi a tamdaw cigra：他是正直的人 ’osi - <3>：仇恨；厭惡；嫌惡某人；憎惡的 - ka’osian ko dmak nira：他的行為好可鄙的 ’osi - misa’osi’osi：倨傲；輕視
+osi - <2>：公正的；真實的；好的，良好的 - o ’osi a tamdaw cigra：他是正直的人
+’osi - <3>：仇恨；厭惡；嫌惡某人；憎惡的 - ka’osian ko dmak nira：他的行為好可鄙的
+’osi - misa’osi’osi：倨傲；輕視
 osiyot = ariyot：一成圓的綹亂頭髮；頭髻 ’os’os = os’os = is’is = osa’os：向…摩擦
 osoy - maosoy {J}：遲到了，緩慢的 = pac = 'otag
 ota’ - maota’：吐，嘔吐 - ota’en：吐出來！
-ota’ - sakaota’an：想吐，惡心；使…厭惡 ’ota’ - {S} mi’ota’：使破碎，打破，打碎 ’otag - {N} = otah {Z}：糠秕 ’oteg：魚網的鉛片 ’oteg - <1> ma’oteg：降級的；毀壤；腐爛的 ’oteg - <2> ma’oteg：囝惑時，留下在家理 ’oteg - <2> ma’otegay：麻痺患者 - “Ma’adah ko ’alomanay a ma’otegay ato mapi’iway”(徒：8,7)“許多癱瘓的，瘸子都獲得醫治”；瘸腿的 - “A matiya o malonem no cikay no ma’otegay”(賽：35,6)“那時，瘸子必要跳躍如鹿” ’oteg - <3> ma’oteg：被捕獸器捕捉的 ’oteg - sa’oteg：捕獸器
+ota’ - sakaota’an：想吐，惡心；使…厭惡
+’ota’ - {S} mi’ota’：使破碎，打破，打碎
+’otag - {N} = otah {Z}：糠秕
+’oteg：魚網的鉛片
+’oteg - <1> ma’oteg：降級的；毀壤；腐爛的
+’oteg - <2> ma’oteg：囝惑時，留下在家理
+’oteg - <2> ma’otegay：麻痺患者 - “Ma’adah ko ’alomanay a ma’otegay ato mapi’iway”(徒：8,7)“許多癱瘓的，瘸子都獲得醫治”；瘸腿的 - “A matiya o malonem no cikay no ma’otegay”(賽：35,6)“那時，瘸子必要跳躍如鹿”
+’oteg - <3> ma’oteg：被捕獸器捕捉的
+’oteg - sa’oteg：捕獸器
 oteg - {Z}：為捕魚的壩
-otel = ’oter：障礙 ’oter - mi’oter：留住，拘留
-oti’ih - {N}：容易的 - caay ko oti’il：不容易 ’otit：邪惡的；性行為；不端行為 - “O na i laloma’ay no faloco’ no tamdaw a masadak ko tatiihay a harateg, o ma’otitay”(可：7,21)“從人心裡出來的有種種惡念不端行為”；放蕩，荒淫 - “Haklog han nagra ko ’anof a ma’otit a midmak to kaacekan”(弗：4,19)“他們喪盡了羞恥之心，縱情恣慾，無拘束他做各種敗德的事” ’otkok - ma’otkok = ’okot：寒冬時緊靠 ’otkoy - <1>：發熱，發燒，熱病 ’otkoy - <2> = co’koy：垂頭喪氣，低頭 ’otoc：土城的界石；公里里程碑：木椿；支住；墓碑；石碑 - “Patireg ni Moysi ko tosa ko safaw a fokloh to malo ’otoc a palarocek to tosa ko safaw a gasaw no Israil”(出：24,4)“"摩西"豎立十二根石柱, 每一石柱代表"以色列"十二族的一族”；
+otel = ’oter：障礙
+’oter - mi’oter：留住，拘留
+oti’ih - {N}：容易的 - caay ko oti’il：不容易
+’otit：邪惡的；性行為；不端行為 - “O na i laloma’ay no faloco’ no tamdaw a masadak ko tatiihay a harateg, o ma’otitay”(可：7,21)“從人心裡出來的有種種惡念不端行為”；放蕩，荒淫 - “Haklog han nagra ko ’anof a ma’otit a midmak to kaacekan”(弗：4,19)“他們喪盡了羞恥之心，縱情恣慾，無拘束他做各種敗德的事”
+’otkok - ma’otkok = ’okot：寒冬時緊靠
+’otkoy - <1>：發熱，發燒，熱病
+’otkoy - <2> = co’koy：垂頭喪氣，低頭
+’otoc：土城的界石；公里里程碑：木椿；支住；墓碑；石碑 - “Patireg ni Moysi ko tosa ko safaw a fokloh to malo ’otoc a palarocek to tosa ko safaw a gasaw no Israil”(出：24,4)“"摩西"豎立十二根石柱, 每一石柱代表"以色列"十二族的一族”
 otofay - {J}：摩托車
 otog - {J}：麵粉
 otok - {S}：短；不大遼闊的
-otonasi - {J}：適合的；性情好的人，可愛的；中規中矩 ’ot’ot - mi’ot’ot：農人用手或小鋤頭除草；切割，剪，割 (’ot’ot：用刀向自己剪；to’to’用雕刻刀向外刻) - “Tiliden ko nika’arawan, ’ot’oten i sapad konini”(哈： 2,2)“你要把我所啓示你的清楚地割在版上” ’ot’ot - {S}：小弟弟
+otonasi - {J}：適合的；性情好的人，可愛的；中規中矩 ’ot’ot - mi’ot’ot：農人用手或小鋤頭除草；切割，剪，割 (’ot’ot：用刀向自己剪；to’to’用雕刻刀向外刻) - “Tiliden ko nika’arawan, ’ot’oten i sapad konini”(哈： 2,2)“你要把我所啓示你的清楚地割在版上”
+’ot’ot - {S}：小弟弟
 otoy：弘通
-otoy - maotoyay：淫蕩，好色 - 輕俳的女人 ’owac：四季的循環；間隔 - o ’owac no anip：秧與秧的間距 ’owac - kasa’owa’owac：差別，不同
-owad - niowad = miowid：稍稍提起(木，石頭，等) ’owag：強烈地呼聲 ’owag - mi’owa = miltoh = milifahoy：吼叫；吠 ’owak - mi’owak：用杯子(瓶子)一口喝乾，乾杯，一仰而盡 ’owak - pa’owak：倒入 ’owak - ta’owak：一口喝；乾杯 ’owal = ’iwal：橇 ’owal - mi’owal：在橇或小般上運輸；使倒轉
+otoy - otoyan：公的動物
+otoy - maotoyay：淫蕩，好色，輕俳的女人
+otrak - miotrak = tomra：一滴一滴的倒下
+’owac：四季的循環；間隔 - o ’owac no anip：秧與秧的間距
+’owac - kasa’owa’owac：差別，不同
+owad - niowad = miowid：稍稍提起(木，石頭，等)
+’owag：強烈地呼聲
+’owag - mi’owa = miltoh = milifahoy：吼叫；吠
+’owak - mi’owak：用杯子(瓶子)一口喝乾，乾杯，一仰而盡
+’owak - pa’owak：倒入
+’owak - ta’owak：一口喝；乾杯
+’owal = ’iwal：橇
+’owal - mi’owal：在橇或小般上運輸；使倒轉
 oway - {S}：對男孩子的昵稱；owayaw：好孩子，好小子
-oway：籐，籐條 - o oway no lotog：沒有刺的籐 = anomailay ’owid - ma’owid = owad：稍稍提起一件重物時，不平衡的 ’owid - sa’owid：鐵槓 ’oxit = ’ohit：想，渴望
+oway：籐，籐條 - o oway no lotog：沒有刺的籐 = anomailay
+’owid - ma’owid = owad：稍稍提起一件重物時，不平衡的
+’owid - sa’owid：鐵槓
+’oxit = ’ohit：想，渴望
 oy：歎呼，呼喊引某人的主意
 oy - mioyoy：呼喊為共同的工作
 oya：那，那個 - oyaan to ko dmak nira：還是那樣子，他的工作依然不變
@@ -11314,14 +11434,15 @@ oya - oyanan = oranan：就是那個
 oya - oyanan ho：依照，依舊
 oya - misaoyaoyan {N}：輕視，無視
 oyas - masaoyas：不利於
+oyas - misaoyas：偏心的；不利於某人
 oyat - maoyat：疲勞，酸痛
 ozag - {Z} = afar：蝦
 ozip = ozig - {Z} = 'orpi：生命；身體
-Pa - <1>：前綴；pa 通常和前綴 mi 或 ma 組合起來；mipa 或 mapa 向行動給別人(mipa)；mapa 表示行動的成果向別人 全形式是現在分詷和過去分詷的基礎 - pafli：給’，有 mipafliay：送給’為現在分詞， nipaflian：送給’為過去分詞 - pa’dil：照亮’可以講 - mipa’dil，過去詞 - mapa’dil：照亮的，被照亮的’；現在分詞 - mipa’dilay：照亮的’；過去分詞 - nipa’dilan：被照亮的’
-pa - <2>：前詞；pa…的形式使用為命令或"必要"意思的動形容詞和敘事形式 - paflien nira kako to ccay a codad：他給了我一本書 - paflien kami：請給我們 - pa'dilen kami：請給我們照路 - painien kami：請給我們看 - pacakayen：請出賣 - pawalien to panay：請把稻子乾燥 - papacakayen：必須賣 - papaflien：必要給
-pa - <3>：前綴； pa 用和 ci 的動詞，常變 si - fana’：科學 - ci fana’：他有學問 - pasifana’：教授，給學問
-pa - <4>：作形容詞的動詞現在分詞：再加一個 pa 和後詞 en ，我們有"必要"的意思 pa 動詞的敘事形式 如：papatalomaen：他們必要結婚
-pa - <5>：表示工作的名字 如 - papatagasa：先知 - papatorod：預報者
+Pa - <1>：前綴: pa 通常和前綴 mi 或 ma 組合起來；mipa 或 mapa 向行動給別人(mipa)；mapa 表示行動的成果向別人 全形式是現在分詷和過去分詷的基礎 - pafli：給’，有 mipafliay：送給為現在分詞， nipaflian：送給為過去分詞 - pa’dil：照亮’可以講 - mipa’dil，過去詞 - mapa’dil：照亮的，被照亮的；現在分詞 - mipa’dilay：照亮的；過去分詞 - nipa’dilan：被照亮的
+pa - <2>：前詞: pa…的形式使用為命令或"必要"意思的動形容詞和敘事形式 - paflien nira kako to ccay a codad：他給了我一本書 - paflien kami：請給我們 - pa'dilen kami：請給我們照路 - painien kami：請給我們看 - pacakayen：請出賣 - pawalien to panay：請把稻子乾燥 - papacakayen：必須賣 - papaflien：必要給
+pa - <3>：前綴: pa 用和 ci 的動詞，常變 si - fana’：科學 - ci fana’：他有學問 - pasifana’：教授，給學問
+pa - <4>：作形容詞的動詞現在分詞: 再加一個 pa 和後詞 en ，我們有"必要"的意思 pa 動詞的敘事形式 如：papatalomaen：他們必要結婚
+pa - <5>：表示工作的名字 - papatagasa：先知 - papatorod：預報者
 pa - mapa：亙相性；pa 再有 pa 的動詞前面表示亙相關係，如：(ma)papadapadag：亙相幫助 - (ma)papaladalada：交換禮物 - (ma)papaliw：交換體力勞動 - (ma)papanofonofo：交換禮物 - (ma)papatay：互相殺戮 - (ma)papatdi'：亙相鼓勵
 pa’aagaag - mapa’aagaag {T}：禮物的交換
 pa'aca：付錢；賣，出售
@@ -11674,7 +11795,7 @@ pait - mipait = mipa'et：用鑿子挖木材
 pait - papait：送給一個木工的鏨子
 pait - sapait：木工的鏨子，鑿子
 paitkek = paitmek = paytmek：自由的；任意，隨意
-paka - <1>：前綴：有 ma 前的動詞，paka 這前綴意即行動的成就 - mafana’ ：知識 > pakafana’(pasifana’)：教 - matoor：追趕的 > pakatoor：追上，趕上 - matama：拾到的 > pakatama：找到
+paka - <1>：前綴: 有 ma 前的動詞，paka 這前綴意即行動的成就 - mafana’ ：知識 > pakafana’(pasifana’)：教 - matoor：追趕的 > pakatoor：追上，趕上 - matama：拾到的 > pakatama：找到
 paka - <2>：地點副詞，表示從那裡過去 - pakacowa？：從那裡？ - paka timor：從南部 - paka X a tayra Y：想去 Y 要過 X
 paka - <3>：差不多；幾乎，大致 - paka ccay no’li’：差不多一白 - paka ccay han no：丟下(某人)
 pakacaw - {S} pakacawan：祭祖靈
@@ -11733,7 +11854,7 @@ Pakara'ac：台東縣長濱鄕竹湖村，南竹湖 - 台東縣鹿野鄕瑞豐�
 pakaranih：加速，加強；吸收，消耗 - caay pakaranih toni tayalan：工作一直末完成
 pakararid：增加，增多
 pakarawraw：激起，引起；促使騷動
-pakarog：萬物有靈論的儀式：豐年祭的第二天，為開始新的一年，巫洗淨人民和村
+pakarog：萬物有靈論的儀豐年祭的第二天，為開始新的一年，巫洗淨人民和村
 pakarogay：青年的隼團，比"lahcic"團上面一使者，信使：有承擔使命的責任的青年
 pakasafaloco'：想起，記得
 pakasaw - {N} = saliway：[宗]齋戒；守齋
@@ -11750,7 +11871,7 @@ pakawanan - mipakawanan = mipasifana'：指引；助一臂之力；教導；照�
 pakawas - {F} = papikacaw：奧義的傳授，接納參加祭禮；裝神弄鬼 - milimek cigra i to’manay a mipakawas to romakatay：他躲在暗處，裝神弄鬼來嚇路人；暗示 - pakawas a somowal ci… to kacitama’ nira：…有沒有暗示他得了獵物
 pakawihan - {S}：落成禮
 pakawil：裝木柄 - pakawil to pitaw：給鋤頭裝木柄
-pakayat：豐年祭的儀式：被 mama no kapah 或 cipo'otay(青年的首長)向一個青年引見一位女兒
+pakayat：豐年祭的儀被 mama no kapah 或 cipo'otay(青年的首長)向一個青年引見一位女兒
 paka’yit - {S} = mipataloma’：結婚
 pakayni：經過，通過，經過這邊；關於；從 - pakayni kita a romakat：我們從這邊走 - pakayni i patay ni Yiso a mahpol ko raraw：經過死亡，耶穌赦免我們的罪 - pakaynien tona tamdow ko pipasowal：經過那個人送一個使命；關於…，對於至於… - awaay ko sowal nira to pakayniay tonini a dmak：對他來說，沒有話講
 pakayra：用這個方法；從由那邊 - pakayra kita a romakat：我們從那邊走路；關於… - pakayra tona dmak a masalof cigra：關於這件事使他回心轉意
@@ -11761,7 +11882,7 @@ pa’kel = paker (mapa’kel)：壓，壓制 - mapa’kel noya tamdaw kako：我
 pa’kel - mipa’kel：欺壓
 pakemelan a oo'：兩腿乏力
 pakfat - {F}：增加，增大
-paki：前綴：放在，上，用 的意思 - pakisofok：訪在布背包理 - pakitagolan：訪在保險箱理
+paki：前綴: 放在，上，用 的意思 - pakisofok：訪在布背包理 - pakitagolan：訪在保險箱理
 paki'ayaw：從…開始
 pakico - {J} = fakici：小木桶，水桶
 pakido = patdo：做與規則相反(與端正地相反)的事，例：把垃圾放在鄰居的地， - 把有病的丈夫(太太)送走；欺騙；隨便
@@ -11792,7 +11913,7 @@ paklagan - {S}：脫聖禮
 paklog：把門砰地一聲關上(表示不滿)
 paklot = pakokot：供出，告發
 pakmeg = pakmo：打 - mipakmeg：打一拳 - pakmo to falohag：自打胸脯
-pako：疑問句的前置詞：認為，如何；懂得，明白，了解 (常有否定的意思) - pako magah cigra to sowal ako：他想我說的話是假的 - pako cima kiso to tireg iso？：按你的看法，你是誰？ - “Pako cima ko tamtamdaw to Wawa no tamdaw”(太 16,13)“一般人說人子是誰？”
+pako：疑問句的前置詞: 認為，如何；懂得，明白，了解 (常有否定的意思) - pako magah cigra to sowal ako：他想我說的話是假的 - pako cima kiso to tireg iso？：按你的看法，你是誰？ - “Pako cima ko tamtamdaw to Wawa no tamdaw”(太 16,13)“一般人說人子是誰？”
 pako cimacima to tamdaw：不把人看待；辱罵某人
 pakowanan - {F} = pakokoan：舞的帽子(節日時)
 pakociko = tatla'an = lintac：爆竹，炸藥包，鞭炮
@@ -11824,7 +11945,7 @@ paktid = paytked：自由的，自顧
 paktig = pasteg：拴牲畜
 pakto - {S} = panco：襯褲；褲子
 pala - <1> = omah：田地，耕地；區 - i palaay no…：在…的地方 - tala pala：到田裡去工作 - i palapalaan：在田地 - {N} nikasapalapala：從每個地方
-pala - <2>：前綴：改變，變更… mala 的主動形式 - pala’pah to nanom：把水改為酒 (mala’pah ko nanom：水變成酒) - pala’pagen kina fokloh：改這些石頭變麵包；palasoor：熔化(金屬)
+pala - <2>：前綴: 改變，變更… mala 的主動形式 - pala’pah to nanom：把水改為酒 (mala’pah ko nanom：水變成酒) - pala’pagen kina fokloh：改這些石頭變麵包；palasoor：熔化(金屬)
 pala - <3>：在數字之前：分為… - pala spat：分成四塊
 pala no tireg：把別人的事物成為自己的 - “Haenen no Kawas ko nipikorac a misogila' tamowanan to saka caay ka pastek namo i raraw a pala no tireg a milayap tamowanan”(西：1,22)“為了要你們在上主面前聖潔，沒有缺點，無可指責”
 palaapian：配對的
@@ -11910,7 +12031,7 @@ palimangta’ - (從 magta’：生的，未煮熟的)：死亡(意外的)；尖
 palimeken = pakalimek：偷偷地，藏匿的
 palimleg：河
 palimlim = pa'araw sanay：公開地做某事；炫耀
-palimo：豐年祭的儀式： 1> 領入青年的儀式 - 2> 介紹青年和最虔誠的負責人 - 3> 按照別外的村，豐年祭時，固定的那一天，婦女們贈送酒給她們氏族的趺無人
+palimo：豐年祭的儀 1> 領入青年的儀式 - 2> 介紹青年和最虔誠的負責人 - 3> 按照別外的村，豐年祭時，固定的那一天，婦女們贈送酒給她們氏族的趺無人
 palimo’otay - mapalimo’otay：吩咐者 - cima ko palimo’otay i tisowanan：誰吩咐你呢？
 palineknek：沉澱
 palion - {Z}：換(衣服)
@@ -12069,7 +12190,7 @@ papatik：(肉部的)踝
 papdek：眨眼
 papdek - sapapdek：上部的眼皮
 papeg = pacpac：打(稻)；打殼具
-papi：介詞：在"pa…"前面或只在詞根前，表示"使"，"讓…做"的意思；在這種情況下句法結構是特有的：兩個賓格，一個是動詞的補語，另一個是"pa"的補語 - magalay ci Yiso papipatireg to Kyokay ci Pitroan：耶穌願意讓彼得建立教會
+papi：介詞: 在"pa…"前面或只在詞根前，表示"使"，"讓…做"的意思；在這種情況下句法結構是特有的：兩個賓格，一個是動詞的補語，另一個是"pa"的補語 - magalay ci Yiso papipatireg to Kyokay ci Pitroan：耶穌願意讓彼得建立教會
 pa'pian：氏族的名字(祭祀)
 papicakay：派人去買 - papipacakay：派人去賣
 papidaan：保險箱
@@ -12077,7 +12198,10 @@ papig：懸垂的
 papig - papigpigan：衣角
 papig - mapapig：轉變處，彎子
 papikacaw = papilataw：奧義傳授儀式
-papikdan = piko <1>：轉彎處 - <2>：氏族的名字(祭祀) - <3>：mama no kapah：青年人的首長 - <4>：35 - 40 歲的同年隼團(他們快要惠老人)
+papikdan = piko - <1>：轉彎處
+papikdan = piko - <2>：氏族的名字(祭祀)
+papikdan = piko - <3>：mama no kapah：青年人的首長
+papikdan = piko - <4>：35 - 40 歲的同年隼團(他們快要惠老人)
 papiliyaw：重新開始 - moraraw ko pitolik ako, papiliyawen hca no Sensei kako a misaga'：我的編織不對，老師要我重新做過；再接再勵；鼓勵某人
 papina？：幾個人？ - papito：七個人
 papinegneg：出示；給…看
@@ -12186,8 +12310,8 @@ parpar = pacpac：篩莢殼；打殼粒；碾米，打碎外殼 - niparparan：�
 parso - {T} = halo：和…一起，和，同，跟，與；和…一樣，和…同樣
 partatega - {Z}：相信，信任，認為
 pas = cipas：支流的；分叉，分路 - dadipasan：樹枝，總狀花序，串
-pasa - <1>：前綴，表示方向 - pasa amis kako：我向北方去；思想的趨向
-pasa - <2>：前綴："pa"的主動形為"misa"，"masa"的動詞；對某人的影響
+pasa - <1>：前綴: 表示方向 - pasa amis kako：我向北方去；思想的趨向
+pasa - <2>：前綴: "pa"的主動形為"misa"，"masa"的動詞；對某人的影響
 pasac：惹討厭 = logoc = gitagit：懇求，麻煩別人 - “Caay ko sapidipotay to widag ko sakalomowad no ciwidagay, nika o nikapasac nira ko sakalomowad a pafli”(路 11,8)“他不因為那個人是他的朋友而起來，也要因為那人一再地懇求他而起來”
 pasaciricirid：沒有一定的目的漂泊
 pasado'do：順序地；連貫，連接
@@ -12548,7 +12672,11 @@ pespes：眾人責罵一個人，責難，怒斥
 pespes - mipespes：公然地譴責 - “Mali'oc ci Yiso pamotek nisawawaan a mipespes ci Pitroan！”(谷：8,33)“耶穌轉過身來，看看門徒，責備彼得”
 pgec - sapgec：(男人用的)髮網，髮夾，夾緊
 phed - maphed = pohed：腐爛的
-pi - <1>：前置詞， mi 動詞的虛擬形式(否定詞，命令或禁止，從句的動詞) - (mipalo：打)，aka pipalo to wawa：不要打孩子們 - (mipatay；殺死)，aka pipatay to i tiyaday a wawa：不要殺死在母親腹理的孩子 - (mitgil：聽)，aka pitgil：不要聽 ’pi - <1>：麻痺的人 ’pi - <2>：(動物的)皮，表皮；用野獸皮做的雨衣 ’pi - <3>：折邊(衣服等的) - masa’pi’pi ko riko’ nira：她的裙子是打褶的 ’pi - ma’pi：連體的，雙胞胎
+pi - <1>：前置詞， mi 動詞的虛擬形式(否定詞，命令或禁止，從句的動詞) - (mipalo：打)，aka pipalo to wawa：不要打孩子們 - (mipatay；殺死)，aka pipatay to i tiyaday a wawa：不要殺死在母親腹理的孩子 - (mitgil：聽)，aka pitgil：不要聽
+’pi - <1>：麻痺的人
+’pi - <2>：(動物的)皮，表皮；用野獸皮做的雨衣
+’pi - <3>：折邊(衣服等的) - masa’pi’pi ko riko’ nira：她的裙子是打褶的
+’pi - ma’pi：連體的，雙胞胎
 pi…an：地方名字或時間的動詞詞根 - piciglayan：靠手 - pilafinan：庇護所，旅館
 piag - {Tw}：甜食；糖果
 piah - {S}：具穀
@@ -12664,7 +12792,7 @@ pi'lokan - {F} = aenocan：喉嚨
 piloplopan = pilolopan：家禽的圍場所
 pi’men = mi’met：忍受
 pina - <1>：多少？(指物)；幾個，好幾個 - pina a fotig ko maalaay namo？ 你們抓了幾條魚？ - caay ka papina ko maalaay niam：沒有多少
-pina - <2>：前詞；有問題：是不是 pi ＋ na 式倒轉的 nipa？ 為幾個，前 ma 的動詞表示行動的結果？如：paloma：栽種，mipalomaan：種的，pinaloma：栽植，種植 - pa’orip：使復活者，pina’orip：飼養 - miparo：放在，裝滿，pinaro：裝的東西 - mipawali：弄乾，pinawali：在打殼場要弄乾殼粒
+pina - <2>：前詞；有問題；是不是 pi ＋ na 式倒轉的 nipa？ 為幾個，前 ma 的動詞表示行動的結果？ - paloma：栽種，mipalomaan：種的，pinaloma：栽植，種植 - pa’orip：使復活者，pina’orip：飼養 - miparo：放在，裝滿，pinaro：裝的東西 - mipawali：弄乾，pinawali：在打殼場要弄乾殼粒
 pina - kina pina：幾次？
 pina - kinapinapina：經常，常常 - kinapinapina kako a milicay cigranan？我問了他好幾次？
 pina - papina：多少？(指人，動物) - papina ko paro no loma' namo？：你們家庭有幾口人？ - tayra ko papinapina ita miholol：在我們之中了多少要去玩？
@@ -12778,7 +12906,7 @@ pitiw：閘板，閘門
 pitiw - malapitiway：水利局督察
 pitkeran = tker：活結，套索；陷阱
 pito' - <1>：(葉子…)夾住為切，掐斷
-pito - <2>：七；papito：七位(人) - papito kita a tayra：我們共有七位要去
+pito - <2>：七 - papito：七位(人) - papito kita a tayra：我們共有七位要去
 pito - sakapito：第七 - sakapito a romi'ad i, pahanhan to ko Kawas：在七天，上主就休息了
 pito'asan：家世，世系；家族的始祖
 pitokaran：忠誠的；可靠的
@@ -12886,7 +13014,7 @@ podoh - {Z}：螞蟻
 podok - <1>：皮膚的章狀贅生物；白癬
 podok - <2> = podas：白皮
 podok - <3>：白化病患者
-podok - <4> {Tingalaw}：米酒
+podok - <4> {豐濱豐富部落}：米酒
 podok - <5> {N}：瓶子
 podpod - mipodpod：拾取，撿 - mipodpod to lakaw：撿垃圾
 podti'：紅色的香蕉
@@ -13036,7 +13164,7 @@ porot - maporot = posot：截去肢體的人；掉肢的人
 porpor - maporpor：尖峰不利，鈍銳 - maporpor to ko'idoc ako：我的長矛鈍鋒了 ；腐爛的，分解的
 posak：飯粒 - paposakan：一小鬼
 posi = nani {N}：貓
-posi - {中文} miposi：跟某教師學個別授課
+posi - {Ch} miposi：跟某教師學個別授課
 posir：易扯破的薄皮；分裂…：maposir ko fages no tarodo' ako：我的手(腳)指脫皮
 posisir - {N}：側滑；滑崩滑；滑溜
 Posko：花蓮縣玉里市
@@ -13669,7 +13797,7 @@ rnem - {F} = lneg：深陷
 rnet - marnet {Z}：感到惡心的
 rnok = raod：接近，移近，使靠近；去向…
 rnokan - tarnokan = rarnokan = pirnokan：吸引的；有趣的；目標，目的 - o pirnokan ita ko Wama a Kawas：天父是我們的歸屬
-ro = ho = iro：點綴詞，用作為關聯詞：即，何不… - ro hatini：立刻
+ro = ho = iro：點綴詞，用作為關聯詞: 即，何不… - ro hatini：立刻
 roak：鯉魚(黑色的，像七鰓鰻) ’roc = ’orac：磨滑；摩光
 rocek = rocok：天賦；恩賜；才能，份
 rocek - ci rocek to：得到；參與，分享
@@ -13830,9 +13958,9 @@ sa - <2>：sa 和虛擬式，有時候 sa 和 aw 的後詞，有結束的意思�
 sa - <3>：後果從句或比較級： sa 造副詰或副詞的形容詞和與 an - sato 後綴合作 - sa romi’ad kako a mafoti’：我整天睡覺
 sa - <4>：sa 加名字，加 an，有"地方用爲"的意思 - sa dategan：要栽種的地方 =園子 - sa holoan：廚房
 sa - <5>：動力 - ira sa… = iranesa：因此
-sa - <6>：sa-ca：自然地，自己的
-sa - <7>：masa：因此
-sa - <8>：masa, misa, pasa：看像子表示比較或結果
+sa - <6> sa-ca：自然地，自己的
+sa - <7> masa：因此
+sa - <8> masa, misa, pasa：看像子表示比較或結果
 sa - masa：sa 經常有"形的"，"如同"的意思，如：masaaporawporaw：小堆形的 - masaaporoporo：小山容狀的 - masafokifokil：充不知道的 - masamaan to kamo？：你們好嗎？ - masa no sowal i to'as：如同為老輩說的話 - masa no tiregay：有形體的
 sa - misa："各種，各樣"的意思，例：misafafoy：好好的照顧豬 - misakolog：殺牛 - misalafag：招待顧客 - misalafii：整夜工作 - misaloma'：建造一個房子 - misaopo = misaporaw：堆成堆，做一堆(opo)，做一小堆(poraw) - misatmotmok感到心跳
 sa’ - misa’：煮熟(在水裡面，然後投這個水)
@@ -14007,7 +14135,7 @@ sagaw - {Z}：橋
 sagayagay = gayagay：帳篷；營地
 sagayagay - misagayagay：搭帳篷
 sagdef：深夜，漆黑的夜
-sa’ged - <l> 或 sa’ger？？：站立，站著；單一的，沒剩餘的 - awa ko sasa’ged a
+sa’ged - <1> = sa’ger：站立，站著；單一的，沒剩餘的 - awa ko sasa’ged a
 sapatisod a riko'：沒有多餘的衣服可換
 sa'ged - <2>：把一條布打結頭上爲帶一個壇；把髮辮圈住頭
 sa'gedan：花冠，葉冠
@@ -14067,8 +14195,8 @@ saitaw - {Tw} = saytaw：紅皮白蘿蔔
 sa’iyot：鑽床(mi’iyot：打穿)
 sak - malasak = saksak = sakasak：跌倒從有洞的袋子
 sak - palasak：揭發，公開 - palasak to nisalinikan a sowal：公開地講秘密
-saka - <1>：前錣：第… - o saka pins？：第幾個？
-saka - <2> 前綴：常給被動態一個最後意義 (saka…aw) - mihilateg cagra to sakapolinaw nira：他們計劃殺他
+saka - <1>：前綴: 第… - o saka pins？：第幾個？
+saka - <2> 前綴: 常給被動態一個最後意義 (saka…aw) - mihilateg cagra to sakapolinaw nira：他們計劃殺他
 saka - <3>：由於，因為 - o nisawawaan ni Yiso saka…：因為我們是耶穌的門徒…
 saka - <4> = orasaka：所以…；因此…-ska mitagic kami：所以我們請求 - saka matini：之所以這樣
 saka…an：像一個後果從句 - sakapatayan：以致到死
@@ -14117,8 +14245,8 @@ sakaw - {Z}：橋
 sakawihay - ci sakawihay：奧義傳授儀式
 sakayakay - misakayakay {Z} = macakat：上去，上樓；階梯
 sakciih = sackik = sackih：(動物的)蹄
-saki - <1>：前綴：和動詞詞根指示病或病器官，生產藥的名字，如：mafaha：咳嗽 / sakifaha：咳嗽藥 - fitoka：胃 / saki fitoka：胃藥 - mapias：腹瀉 / sakipias：腹瀉藥 - malalisan：發燒 / sakilalisan：退熱藥 - tagal：頭 / sakitagal：反頭痛藥
-saki - <2> ： 為了... saki 後有待詞或賓格名字, 表示 ; 為了..., 因...的緣故...,如：mitolon kako to saki ci Kacawan：我為 Kacaw 祈禱
+saki - <1>：前綴: 和動詞詞根指示病或病器官，生產藥的名字，如：mafaha：咳嗽 / sakifaha：咳嗽藥 - fitoka：胃 / saki fitoka：胃藥 - mapias：腹瀉 / sakipias：腹瀉藥 - malalisan：發燒 / sakilalisan：退熱藥 - tagal：頭 / sakitagal：反頭痛藥
+saki - <2>：為了... saki 後有待詞或賓格名字, 表示 ; 為了..., 因...的緣故...,如：mitolon kako to saki ci Kacawan：我為 Kacaw 祈禱
 saki - <3> = caki：竹鏟
 sa'kih = sakciih：(動物的)的蹄
 sakikamay - {N} = takamayan：手套，手籠
@@ -14162,7 +14290,7 @@ saladek = saldek = saradek：中指；補缺；支柱
 sala’edan no niyaro’ = kalala’edan：邊境；疆界，界線
 salafag - {S}：東西，事物
 salag：液；果汁；漿汁；肥皂泡 {N}
-salagsag = sala’sa’：像聲詞：雨聲，瀑布聲；雜聲
+salagsag = sala’sa’：像聲詞: 雨聲，瀑布聲；雜聲
 salakec：可涉水而過的地方；涉水物
 salakoit：山口
 salalat = salitek = saditek：測量儀器，公尺
@@ -14188,7 +14316,7 @@ sa’let - kasasa’let：互相誓言；盟約 = tatlek
 sa’let - masasa’let：混亂不堪的；打結 - masasa’let ko tatnooyen a kliw：織機的線弄亂的
 salgad = sargad：野生棕樹：Phoenix silvestris
 salged = sa'ged：把頭髮編辮子
-sali：前綴：價格，如：salicilah：鹽的價格 - salidateg：菜賈的錢 - sali'pah：賈酒的錢
+sali：前綴: 價格，如：salicilah：鹽的價格 - salidateg：菜賈的錢 - sali'pah：賈酒的錢
 sali - malosali = mamotagay：變老的，上了年紀的
 sa’li - misa’li：祈禱，懇求；請求，乞求
 salicikid - {Z} = saliki'：小指
@@ -14533,7 +14661,7 @@ saritrit：小鐮刀
 sariwsiw = sriw：輕的微風 - sariwsiwen：使涼爽
 sarkec = sarikec = sapirkec：法律，戒律
 sarkiki = salikiki'：小指
-sarko - <l> = sarikec：法律，戒律
+sarko - <1> = sarikec：法律，戒律
 sarko - <2>：頭緒，結論 - masarko to ko dmak = salko：事情有結果了
 sarnaf：油漆
 sarnaf - misarnaf：粉刷，漆
@@ -14682,14 +14810,14 @@ satkek no 'ayam：鳥嘴
 satkor - {S}：投射路頭
 satnok：後腳跟，踵
 satnoon：織布的工具；織機的零件
-sato - <1>：詞綴：在行動的順序表示一個回答關於時間的一點 - yo matgil ako ko sowal nira 'i, kter sato kako：當我聽到他說話後，我很生氣 - sato 與 sa意思一樣，但 sato 有加強語氣
-sato - <2>：諧音 如：o roma sato！：然後 - oyaan sato a tamdaw：這個人
+sato - <1>：詞綴: 在行動的順序表示一個回答關於時間的一點 - yo matgil ako ko sowal nira 'i, kter sato kako：當我聽到他說話後，我很生氣 - sato 與 sa意思一樣，但 sato 有加強語氣
+sato - <2>：諧音 如: o roma sato！：然後 - oyaan sato a tamdaw：這個人
 sato = tpeg：稱量器，量杯，斗量
 sato imo - {N} = tali：芋
 sato iri - {N}：當…時(過去)
 satoka’：支主，支架 - sagaen ko satoka’ no gayagay：做涼亭的支架
 satoker = sato'kor：帶勾的篙，撓勾；支撐點子
-satoko - <l>：房間中間的柱
+satoko - <1>：房間中間的柱
 satoko - <2>：[船的] 桅，桅桿
 satoko - {N} masatoko：停，停止，中斷 - caay ka satoko：永遠
 satoktok = samokon：錘子；榔頭
@@ -15297,7 +15425,7 @@ somad - pasomad to sowal：翻譯
 somad - paisomad：悔改
 somad - palisomad：使溫和；使性格變得溫和 - palisomaden ko faloco'：請改變你的態度，你要悔改
 somawad - {F} = misawad ： 離職.
-so’met - <l> paso’met：使潮溼，弄溼；溼的 - paso’meten ko riko’, ta miaylog：燙這個衣服前須要給他弄濕 - paso’meten ko tamako：把煙草弄濕 - pasometen ko sra：你弄溼土地
+so’met - <1> paso’met：使潮溼，弄溼；溼的 - paso’meten ko riko’, ta miaylog：燙這個衣服前須要給他弄濕 - paso’meten ko tamako：把煙草弄濕 - pasometen ko sra：你弄溼土地
 so’met - <2> masomet：使溫和，有禮貌的…；謙遜的 - masomet ko faloco’ nira：他的性情很溫和
 somogasig - masomogasig：折斷，插入，放指頭(手)在某事物(口，洞)
 somol - palisomol = somad：使緩和，使溫和 - palisomol to faloco'：使心弄緩和
@@ -15317,7 +15445,7 @@ sonor - masonor：鬆脫自己，解開自己；擺脫；弄清楚自己 - mason
 soo’：插入；伸指頭(手)進去探東西(口，洞) - soo’en koya ofag：放你的手在這洞裡面
 sool = so’ol = so’or = s’er = lasinol：雨水成流水 - ci sool kona ’orad
 so’or - malaso’or, milaso’or, palaso’or：使熔化；溶解 - malaso’or to soya so’da：這雪曬化了 - malaso’or to ko waneg i goyos nira：糖溶化在他口裡 - “Samatiyaen iso o nika romakat no so’or no ’orad i ma’icagay a ’alo ko nipikrid i tamianan a panokay i sra niam”(詩 125,4)“把我們帶回故土，像雨把水帶回乾涸的河道”；破壞
-so’ot (so’et) - <1> = smoot：百個的疊 - pina a so’ot ko aalaen：我們拿了幾百個疊？
+so’ot - <1> = so’et = smoot：百個的疊 - pina a so’ot ko aalaen：我們拿了幾百個疊？
 so'ot - <2>：做小包；堆積
 so’ot - <3>：miso’ot：拴，給…；綁；用鏈銷住；關閉，監禁 - so’oten ko panay：你把稻草捆成束 - so’oten ko fokes：請綁你的頭髮 - so’oten ko waco：你栓這隻狗
 so’ot - <4> maso’ot：堵塞
@@ -15471,8 +15599,8 @@ swic - {S}：碎竹片
 syataw {Tw}：車站
 syogac - {J}：新年
 syoni - (中文)：修女；尼姑
-ta - <1>：連詞：轉接詞 - ta taira kita：走吧！- ta…：然後
-ta - <2>：動詞的前綴：像 ma 動詞的行為 - tayni：來 - tayra：去 - ta！ta！ta！ ：走吧！ - ta ta 'i toan to kita：咱們走了
+ta - <1>：連詞: 轉接詞 - ta taira kita：走吧！- ta…：然後
+ta - <2>：動詞的前綴: 像 ma 動詞的行為 - tayni：來 - tayra：去 - ta！ta！ta！ ：走吧！ - ta ta 'i toan to kita：咱們走了
 ta…an：和 pi…an 相等的，用為地方和東西的名字 - tatai'an：廁所
 ta’ag = tata’ag = tata’ak：大
 ta’ag - lata’ag：光榮
@@ -15482,7 +15610,7 @@ ta’arawan = tarinian = tatiri’an：模範；副本
 taaw - {S}：(巫師做的)靈魂的召回
 ta’ayawan = pa’ayaw：給… = 圍帕，先前，預先，預備 - pa’ayawan (聲音拉長意思不同)：無所謂，不關心
 tacolay - {Z}：幫助
-tada - <1>：最高級的前綴詞："很"，"非常的"的意思，放在形容詞前面
+tada - <1>：最高級的前綴詞: "很"，"非常的"的意思，放在形容詞前面
 tada - <2>：墊子，馬鞍；椅墊
 tada - <2> patada：放下面，裝鞍
 tada - <2> sapatada：盾牌，保護物 - “Matiya o sapatada cigra a midipot takowanan saka lihaday kako”(詩 18,2)“上主是衛護我的盾牌，因此我得平安” - “Mala no Tapag to ko palog no sapatada no sofitay no kasakitakit”(詩 47,9)“所有戰士的盾牌都屬上主”
@@ -15750,7 +15878,7 @@ ta’ig - misata’ig：村民的宴會(那天他們殺水牛)；節日
 ta'ilag：磨坊的石磨
 tailin - {Tw} = tayrig：警察
 taini = tayni：來，來到
-taipiyaw - {中文}：代表
+taipiyaw - {Ch}：代表
 taira = tayra：去，走
 ta’irag - misata’irag {F}：恨自己的罪；懊悔，後悔
 ta’is：縫合 - mata’is ko ina ko riko’ ako：我母親縫製了我的衣服
@@ -16605,7 +16733,7 @@ tigasod = tigasot：分開的，不整齊，不類似的 - matatigasod ko rakat 
 tigdahan：雌的動物 - tigdahan a kolog：小牝牛
 tiged - {T} = mo'od：刺
 tighoy - {Tw} = dawdaw：燈
-tigki - <1> {J} (denki)：電
+tigki - <1> {J}：電(denki)
 tigki - <2> {Tw}：土地所有權狀
 tiglel：腳掌上的裂口
 tigpo - {F} = timpo = caklis：斧頭
@@ -16740,7 +16868,10 @@ tintin - matintin：被壓碎的
 tiog - satiotiog sa {Z} = satfitfig sa：模時…；觸模一下
 tiol = tior = tiyol：再一次
 tioy - {N} = kifsiw = rafay = lafay：煮茶的水壺
-t’ip - <1> {S} = tipolo：汽笛 ’tip = <2>：西，西方，西邊，西部(ka’tip) ’tip - pasa’tip：向西面 - pasa’tip a romakat：向西行走 ’tip - sa’tip：在西面 - i sa’tipay a tamdaw：西部人，住在花蓮-台東谷的人 (對於住東海岸的人 “i sawaliay a tamdaw”來講)
+t’ip - <1> {S} = tipolo：汽笛
+’tip = <2>：西，西方，西邊，西部(ka’tip)
+’tip - pasa’tip：向西面 - pasa’tip a romakat：向西行走
+’tip - sa’tip：在西面 - i sa’tipay a tamdaw：西部人，住在花蓮-台東谷的人 (對於住東海岸的人 “i sawaliay a tamdaw”來講)
 tipatip：裝得滿到齊口；漫溢的；上漲的(河流)
 tipaw：沒有穀粒的稻稈
 tiped - hatiped = pahatiped：一次的
@@ -16766,7 +16897,7 @@ ti'raw：打著呵欠伸懶腰；踮著腳想看
 tiraw = itiraw：那邊；在…以外；在…外面
 tireg - <1> tatiregan：身體；體形；體格 - nima a tireg ko madoka’ay？：誰的身體受傷了？ - adada ma’min ko tatiregan ako：我身體都酸痛
 tireg - <2>：個人的；自己；個人，私人 - o no tireg a harateg ko tatooren：安照己的意思去做 - micomod ko tireg nira toya pakayraan：他自己願走這條路線； …no tireg：自己，本人，本身；自己的
-tireg - <3>：停止；站立{光復鄉}；站起 - katomireg han ako cigra 'i, tireg sa cigra：我請了他站起來他就站起來了
+tireg - <3>：{光復鄉} 停止；站立；站起 - katomireg han ako cigra 'i, tireg sa cigra：我請了他站起來他就站起來了
 tireg - malotireg = masa no tireg：有形體的；肉體的
 tireg - patireg：建築，建立；豎起來
 tiregay - pasatiregay：肉體的… (no 'adigoay a tireg：神靈的身體 - no hciay a tireg：肉體的)
@@ -17014,16 +17145,16 @@ tnoon - satnoon：織布機
 tnor = tnod：泡在水裡，浸在水裡 - aka to pitatnor a migigoy o saka ala no adada ：洗澡不要泡水太多，以免受涼而感冒
 tnor - sapatnor = 'nor：船錨
 tnos = tayhaw = popot：用竹筒製成的盛水器
-to - <l>：賓格的符號
-to - <2>：(在句子後面) 後綴：標出過去時的動詞 - ci wawa to cigra：她已經有孩子 - ci wawaay to：他有了孩子
-to - <3>：前綴"ma"加後綴"to"：補動詞為表達過去時 - mahrek to = mahrekay to ：結束了 - mafoti' to：他已經睡覺了 - na maroray to ci Yiso a romakat 'i, maro' cigra：耶穌因趕路疲倦，就坐下來
+to - <1>：賓格的符號
+to - <2>：(在句子後面) 後綴: 標出過去時的動詞 - ci wawa to cigra：她已經有孩子 - ci wawaay to：他有了孩子
+to - <3>：前綴"ma"加後綴"to": 補動詞為表達過去時 - mahrek to = mahrekay to ：結束了 - mafoti' to：他已經睡覺了 - na maroray to ci Yiso a romakat 'i, maro' cigra：耶穌因趕路疲倦，就坐下來
 to - <4>：行動的完成 - oyaan to a widi ko na somowal ci Yiso：就那時間耶穌說了關於那事 - na somowal to kako：我已經說了 - na tayra to kako：我已經去了
 to da'oc：永遠
 to nika：引出從句：視主句中的動詞或表達的語氣而定 - mafana' ci Yiso to nika tagasa ko widi nira：耶穌知道他時刻到了，他…
 to saka…aw：主動態的目的分句
 to sapi…aw：被動的目的分句 'to：桌子
 toa - mitoa {Z} = motoa = towa'：開口
-toa - {N}{T} = ta：聯誦虛詞：和，及，與，而，因此，所以
+toa - {N}{T} = ta：聯誦虛詞: 和，及，與，而，因此，所以
 to'ag：懶惰；失去勇氣而想停止工作
 toah - ci toah {F} = soto no kilag：樹膠
 toakot (twakot) (towakot) - {Tw} = towasig：十字鍋，鶴嘴鍋
@@ -17561,7 +17692,7 @@ wa’cik - paciko wa’cik = wa’cik a paciko = wa’cik to ciko：從人群中
 waciwac - <1> miwaciwac：分開人群；擠出一條路；驅逐鬼 - miwaciwac to lakaw：挖掘垃圾
 waciwac - <2> miwaciwac：灑水；洗淨(禮)
 waco - <1>：狗；罵人的話
-waco - <2> malawaco = nacobs ： 貪食 - matiya o waco cagra a komaen ： 他們吃飯好像拘 - malawaco a kaen：貪食的 - malawaco：如同一隻拘 - mapalawaco nira ko 'orip ako：他糟蹋了我的一生
+waco - <2> malawaco = nacobs：貪食 - matiya o waco cagra a komaen ： 他們吃飯好像拘 - malawaco a kaen：貪食的 - malawaco：如同一隻拘 - mapalawaco nira ko 'orip ako：他糟蹋了我的一生
 waco - misawaco：嘲笑；說褻瀆神明的話
 waco - {N} parowaco：虐待，侮辱
 wacwac - {Z}：擠出一條路
@@ -17596,7 +17727,7 @@ waka’ = waa’：角
 wakag = polin：仆倒，休克
 wakag = ska'：暫時躺下；無知覺的
 wakag = ti'nag：仰臥；直臂地躺著的；衣冠不整的
-Wakah：專有名詞；Kafid 的孩子，大(鬼)主人, 住在奇美附近 阿美人想 Kafid和 Wakah 的關係是像天父和耶穌一樣的關係
+Wakah：專有名詞: Kafid 的孩子，大(鬼)主人, 住在奇美附近 阿美人想 Kafid和 Wakah 的關係是像天父和耶穌一樣的關係
 wakah - maliwakah = malipakah：髖痛，臀部疼痛
 wakawak - <1>：邁步而行
 wakawak - <2>：徒手，空手 - pawakawak aka haenen kako a papinokay：請你不要讓我空手回家 - “O cidafogay a tamdaw 'i, pawakawak han nira a panokay” (路 1,53)“他叫富足的人空手回去”
