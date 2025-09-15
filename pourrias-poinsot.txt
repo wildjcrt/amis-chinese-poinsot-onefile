@@ -4675,7 +4675,7 @@ hacinar - mihacinar：坐下來在地上
 hacinar - pahacinar：請一個人坐下
 hacinin - {N}：灌漑渠
 haciriwan：八彎曲的；八個縱橫；野地瓜(不能吃)
-Haciriwan - 花蓮縣豐濱鄉八里彎村 (阿美語：Faliyol)
+Haciriwan：花蓮縣豐濱鄉八里彎村 (阿美語: Faliyol)
 haciw - mihaciw：購買；去買菜
 haciw - pahaciw ： 作買賣 ; 商店, 店鋪
 haciw - {F} = 'aca：價格，價錢
@@ -5656,7 +5656,7 @@ impi - {Tw} (inpi)：鍬；鏟
 impic - {J} = igpic：鉛筆
 ina = wina：媽媽，母親
 ina - haliina：對母親很親熱的孩子
-ina - malaina (同住的) 一家人：母和孩子
+ina - malaina：(同住的) 一家人；母和孩子
 ina - malainaay = malininaay：親屬關係
 ina - maloina：家人和母親
 ina - maninaay = malinaay：親屬關係
@@ -7493,7 +7493,7 @@ koco - {J} = cokap：鞋；靴
 kocosta - {J}：短統襪
 kodafes = kiyafes：番石榴
 kodait：忍耐；強壯的；堅稱固；有勇氣的
-kodait - mikodait 耐心地輕受；加固，加強 - “Sakodaiten nira ko caniker no 'adawag”(詩：147,13)“他使你的城門鞏固”
+kodait - mikodait：耐心地輕受；加固，加強 - “Sakodaiten nira ko caniker no 'adawag”(詩 147,13)“他使你的城門鞏固”
 kodakoda - misakodakoda：猶豫
 kodakoda - sakodakoda saan：支吾
 kodasig = kalitag = tilafos：花生，長生果：Arachis hypogea
@@ -7783,7 +7783,7 @@ koharot = mikoharot = koharos：釣；放一個帶釣螺釘；放一個鐵釣
 korakor - mikorakor {S}：走路；離開；快動作
 koramet - mikoramet = kolamet：抓傷
 koramet - sakoramet：扣釘，鐵釣
-koraro = konahraw (醉的爛泥)口乾嘴黏 - makoraro no 'pah cigra：飲酒過量而傷身(沒有力氣)
+koraro = konahraw：(醉的爛泥)口乾嘴黏 - makoraro no 'pah cigra：飲酒過量而傷身(沒有力氣)
 korawit - mikorawit：鉤；鉤住東西
 korawit - sakorawit：大掛鉤
 korced - makorced：減少(煮或洗時)
@@ -9584,7 +9584,7 @@ lotlot：損傷很嚴重 - lotlot han no palidig ko tireg nira a mistol；損壞
 lotlot - malotlot：皺折，揉縐 - malotlot ko wawa ko tatiplok：紙張被小孩弄皺皽；損壞的；弄壞的：malotlot no palidig ko nipalomaan niyam a tfos：我們的甘蔗被車子壓扁了
 lotlot - milotlot = miricaric：轉動時弄皺的；使易皺；揉；碎裂 = salotlotan
 loto’ - miloto’ {Z}：使果子跌下來
-lotoc - 新枝 - “Palotoc ko rgos”(詩：64,12)“草重新生出”
+lotoc：新枝 - “Palotoc ko rgos”(詩：64,12)“草重新生出”
 lotog = salo {J}：猴子 - kalotogan：猴子住的地方 - Kalotogan：花蓮縣光復鄉東富村加利洞
 lotogay - {N}{Z}：新生的
 lotok：山，高山，峻嶺 - i tokos no lotok：在山頂；山的森林 {S}；山嶺
@@ -11151,7 +11151,7 @@ Nowalian：台東縣長濱鄉三仙台
 noya：他的
 noya - sanoyaan：他的；因為他；那個的
 noya - sanoyanan：非有不可嗎 - sanoyanan saw？ Ano awa awa ho kora’an i ma’ - deg kita a ma’orip：我們雖少拿些工資，我們的生活費已足夠了
-nsor - mansor 揭發的，公開的；坦白地，開誠布公地 - “Mansor ni Yiso ko tatiih no faloco' nagra”(太：22,18)“耶穌，知道他們的惡意”；透明的，一個情外露的人
+nsor - mansor：揭發的，公開的；坦白地，開誠布公地 - “Mansor ni Yiso ko tatiih no faloco' nagra”(太：22,18)“耶穌，知道他們的惡意”；透明的，一個情外露的人
 nsor - minsor：猜測，推測
 nsor - pansor：使透明的
 o - <1>：指示均等主語和表語之間：是 -；"o"是放在分句前面 - o tireg ako konini：這就是我的身體
@@ -14209,7 +14209,7 @@ sa’iyot：鑽床(mi’iyot：打穿)
 sak - malasak = saksak = sakasak：跌倒從有洞的袋子
 sak - palasak：揭發，公開 - palasak to nisalinikan a sowal：公開地講秘密
 saka - <1>：前綴: 第… - o saka pins？：第幾個？
-saka - <2> 前綴: 常給被動態一個最後意義 (saka…aw) - mihilateg cagra to sakapolinaw nira：他們計劃殺他
+saka - <2>：前綴: 常給被動態一個最後意義 (saka…aw) - mihilateg cagra to sakapolinaw nira：他們計劃殺他
 saka - <3>：由於，因為 - o nisawawaan ni Yiso saka…：因為我們是耶穌的門徒…
 saka - <4> = orasaka：所以…；因此…-ska mitagic kami：所以我們請求 - saka matini：之所以這樣
 saka…an：像一個後果從句 - sakapatayan：以致到死
@@ -14684,7 +14684,7 @@ sarocor = marikec：團結一致的；想一致；互相了解；同意
 sarof - masarof：糾正，矯正，改正
 sarohof - {F} = i rohof：戴小
 sarokod - {N} = satnoh：腳後跟；踵
-saroma(rarom) - <I> = somad：悲傷的，傷心的；感到厭倦的
+saroma(rarom) - <1> = somad：悲傷的，傷心的；感到厭倦的
 saroma - <2>：不一樣
 saromod = saan a miala：整個拿走
 sarono - {S}：只吃一種食物
@@ -15559,7 +15559,7 @@ sowik：一種竹子的名字
 sowiked - misowiked：(幾個人)離開大家另處一方；折返
 spat：四 - sa spat：四個 - makasaspat：排四個四個的 - makila (malali, lipala, mila) spat：四除四 - mikispat = nikilaspatan：四分之一 - saka spat：第四 - spat
 saka lima：45 - sa spat kita a tayra：我們四個人要去 - spat ko waco ita：我們有
-spay - (英文：spy)：間謀
+spay - ：間謀(英文: spy)
 sped - {F} = masopet：隼合
 spel - {F} = sfel：堤
 spen = mi’pec = mi’prec：不敬重；輕視；失禮
@@ -17546,7 +17546,7 @@ torod - patatorod {F}：腳手架
 torodan - tatorotorodan a lkakawa：傳統，風俗
 torohiyac - {F} = tahoriyac：滑而跌倒
 torok：光葉饅頭粿：Glochidion lancenlatum
-toron - {N} patoron (見 tolon)：下命令
+toron - {N} patoron：下命令 (見 tolon)
 toron：糯米糕 - misatoron：製作糯米糕
 toronan - tatoronan：蒸飯陶甗
 toronos：特別的工作；不停地做 {N}
