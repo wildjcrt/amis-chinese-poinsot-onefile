@@ -4823,7 +4823,8 @@ hakno - hakeno：否認，不承認
 hako - mahako = kalo：每一個 - hako romiad：每天；hako...hako...：從各處
 hako - {J}：貨物箱；匣，盒子，箱子；棺材(普通話)
 hakofoko - {J}：粉筆
-hakowa = hacowa：若干，多少，幾個：hakowa ko adihay？：有多少：很多： caay ka hakowa：沒有很多 - caay ka hakowa ko payso ako：我沒有很多錢
+hakowa = hacowa：若干，多少，幾個 - hakowa ko adihay？：有多少
+hakowa = hacowa：很多 - caay ka hakowa：沒有很多 - caay ka hakowa ko payso ako：我沒有很多錢
 hakowa - ano hakowa：什麼時候？(將來時)；ano hakowa a ira？：他什麼時候會到？
 hakowa - i hakowa：什麼時候？(過去時)；i hakowa a mafana' kiso？：你什麼時候再知道？
 hala：捕魚簍；陷阱為捕被激流帶走的魚
@@ -11349,9 +11350,21 @@ oray = kafag = pada：棉被，毛毯
 oray - cioray：有棉被的
 oray - paoray：給棉被為某人穿
 ored：生的麵團；糯米糕，麵包
-orepan - {Z}：檳榔花的鞘 'oret：貝殼製的項鍊
+orepan - {Z}：檳榔花的鞘
+'oret：貝殼製的項鍊
 ori’ - haliori’ = kasaori’：習慣於吐的
-ori’ - maori’ = mori’：吐，嘔吐 ’orip：生命，生涯 ’orip - ci’orip：活者；生存 ’orip - kalo’orip：平常的生活 - o ma’araway i kalo’orip a tinako konini：這插圖出示日常的生活 ’orip - ma’orip haca：復活 ’orip - ma’orip：活著，生活，生存 ’orip - ma’oripay：活的，活著的，活著的人 ’orip - mipa’orip：救命 ’orip - pa’orip：使有生氣，使具有火力；生下一個孩子；救某人的生命 - pa’oripen nira kako：他救我的命 ’orip - pina’orip：飼養的動物或種植的植物 ’orip - sapa’orip：為給生命；安全的儲備；聖化恩寵(？) ’oripay - Pa’oripay：救主：祂給生命 - 祂釋放；選的詞為指天主(上主)，有人更喜歡 Wama 那個字，又人喜歡 Tadakawas 或 Kawas 的名字
+ori’ - maori’ = mori’：吐，嘔吐
+’orip：生命，生涯
+’orip - ci’orip：活者；生存
+’orip - kalo’orip：平常的生活 - o ma’araway i kalo’orip a tinako konini：這插圖出示日常的生活
+’orip - ma’orip haca：復活
+’orip - ma’orip：活著，生活，生存
+’orip - ma’oripay：活的，活著的，活著的人
+’orip - mipa’orip：救命
+’orip - pa’orip：使有生氣，使具有火力；生下一個孩子；救某人的生命 - pa’oripen nira kako：他救我的命
+’orip - pina’orip：飼養的動物或種植的植物
+’orip - sapa’orip：為給生命；安全的儲備；聖化恩寵(？)
+’oripay - Pa’oripay：救主：祂給生命 - 祂釋放；選的詞為指天主(上主)，有人更喜歡 Wama 那個字，又人喜歡 Tadakawas 或 Kawas 的名字
 orira：那個 - onini ko dadmaken, orira ko caay ko lalawaen：必須做這事，不忘記這個
 orira - orira’i：是，可是，但是；那個 = orira：那是 ’oriyat = miroyat：伸展四肢，腥鬆不振的神情，想打嗑唾的動作
 oro’ - maoro’：朱音 ’orog - a’orogen：要肩的東西，扛肩 ’orog - ma’orog：載荷的 - ma’orog nira ko kartegay a ’inorog：他載著很重的負荷 ’orog - maka’orog：開始肩一個負荷 ’orog - mi’orog：肩一個負荷 ’orog - mipa’orog：使負載某人(某物) - mipa’orog to palidig：裝車 ’orog - pasa’orogen：巫術向一個病人為回復健康
@@ -14257,7 +14270,7 @@ sakinkin - {F} = sakigkig = takigkigan：鈴，鈴鐺
 saki'olit：興奮劑；開胃的
 sakiraya - {S}：寬大的路 - Sakiraya：阿美的小姐(住在左倉，新社村…)，族氏名稱.
 sakirti’ - misakirti’：敲肩的
-sakiyami：後詞(在句子後面)：用在講出別人的話後，如：kataini, sakyami：他向給你說："來吧"
+sakiyami：後詞(在句子後面): 用在講出別人的話後 - kataini, sakyami：他像給你說"來吧"
 saklot - {N}：長柄杓形的鏟，用來搯挖的鏟具；手把
 sakmot：臨時的
 sakmot - malasakmot：愛開玩笑的人；騙人，吹牛
@@ -17860,7 +17873,10 @@ yaca：當時；否則
 yadah - {Z} = adihay：很，很多；非常
 yafayaf：在同時有不同的事要做
 yafayaf - mayafayaf ko rakat：並肩走路佔滿整個道路
-yah：駁斥 ’yak = maco’os：受吃佳肴的 ’yak - ma’yak：無法入吞，反吐 - ma’yak cigra no fotig：因貪食而吞到魚刺反吐 ’yak - mi’ yak：窒息；吃得(喝得)喘不過氣來
+yah：駁斥
+’yak = maco’os：受吃佳肴的
+’yak - ma’yak：無法入吞，反吐 - ma’yak cigra no fotig：因貪食而吞到魚刺反吐
+’yak - mi’ yak：窒息；吃得(喝得)喘不過氣來
 yakag - {Tw}：燒開水的壺
 yakiw - {J}：棒球
 yakiyak = yakyak = palosiyag：散播謠言；大聲地宣佈 - “Aka ka somowal to cimacima 'i, han no Yiso. Hinam hanen, galegalef ko nipayakiyat nagra”(可 7,36)“耶穌吩咐大家千萬不要像人提這件事，可是他越是叮嚀，他們越是傳揚” 透露；公佈；宣傳閑話，亂話
@@ -17890,7 +17906,12 @@ yolinohana {J} = arifoag = takokan：百合花
 yom - yomyom：合併，聯合；匯集，集會
 yomayom - mayomayom：彈性 - myomayom ko onoc ako：我的扁擔有彈性
 yop = 'yof：吹
-yos：我們去吧！；好吧！ ’yot = ’yor：打一個洞；打開…；形成旋風 ’yot = miki’yot, maki’yot, paki’yot：放指在… ’yot - sa’yot：木鑿；鑽孔機 ’yot - sapi’yot：鑽 ’yot - {F} = tiol：打旋的水
+yos：我們去吧！；好吧！
+’yot = ’yor：打一個洞；打開…；形成旋風
+’yot = miki’yot, maki’yot, paki’yot：放指在…
+’yot - sa’yot：木鑿；鑽孔機
+’yot - sapi’yot：鑽
+’yot - {F} = tiol：打旋的水
 yoyag - kalayoyag：易怒的；個性不好
 yoyag - mayoyag {F}{T} = mafirag：發怒；侮辱
 yoyat - mayoyat {T}：重新引起疼痛 ’yo’yo - mi’yo’yo {F}：重新豎直一倨傾斜的房屋
