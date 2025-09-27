@@ -178,7 +178,7 @@ class AmisDictionaryParser
       desc_text = quote_match[1].strip
       amis_example = quote_match[2].strip
       reference = quote_match[3].strip
-      zh_translation = "#{reference}#{quote_match[4].strip}"
+      zh_translation = "(#{reference})#{quote_match[4].strip}"
 
       result[:descriptions] = parse_descriptions(desc_text)
       result[:examples] << { amis: amis_example, zh: zh_translation }
