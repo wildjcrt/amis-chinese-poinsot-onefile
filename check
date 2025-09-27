@@ -127,3 +127,82 @@ Processing: "'atilis：出血；月經過多 - “Ira ko ccay a fafahian, o ma'a
 term="'atilis"
 description=["出血", "月經過多"]
 example={:amis=>"Ira ko ccay a fafahian, o ma'atalisay", :zh=>"(可 5,25)有了一個女人患了十二年的血崩"}
+================================================
+Processing: "rcad - {T} = lcad - rcad ko ocog：同樣多"
+---
+term="rcad"
+dialet=["富田語"]
+description=""
+example={:amis=>"rcad ko ocog", :zh=>"同樣多"}
+synonym=["lcad"]
+---
+term="lcad"
+description=""
+example={:amis=>"rcad ko ocog", :zh=>"同樣多"}
+synonym=["rcad"]
+================================================
+Processing: "cacnag - micacnag - {N} = cacgag：吵架；爭吵"
+---
+term="micacnag"
+stem="cacnag"
+dialet=["北方話"]
+description=["吵架", "爭吵"]
+synonym=["cacgag"]
+---
+term="cacgag"
+description=["吵架", "爭吵"]
+synonym=["micacnag"]
+================================================
+Processing: "sagolanay - {N} = salonganay - kapah：美麗的，好看的，漂亮的"
+---
+term="sagolanay"
+dialet=["北方話"]
+description=""
+example={:amis=>"kapah", :zh=>"美麗的，好看的，漂亮的"}
+synonym=["salonganay"]
+---
+term="salonganay"
+description=""
+example={:amis=>"kapah", :zh=>"美麗的，好看的，漂亮的"}
+synonym=["sagolanay"]
+================================================
+Processing: "tito - {J} - satito = titog：抵押 - titoboc：抵押物"
+---
+term="satito"
+stem="tito"
+dialet=["日語"]
+description="抵押"
+example={:amis=>"titoboc", :zh=>"抵押物"}
+synonym=["titog"]
+---
+term="titog"
+description="抵押"
+example={:amis=>"titoboc", :zh=>"抵押物"}
+synonym=["satito"]
+================================================
+Processing: "'alafo - sapa'alofo：送禮物為感謝；賄賂 - caay piala cigra to sapa'alafo to todog o sapawacay to pakainiay i awaay ko raraw a tamdaw (詩：15,5) 他不受賄賂來陷害無辜"
+---
+term="sapa'alofo"
+stem="'alafo"
+description=["送禮物為感謝", "賄賂"]
+example={:amis=>"caay piala cigra to sapa'alafo to todog o sapawacay to pakainiay i awaay ko raraw a tamdaw (詩", :zh=>"15,5) 他不受賄賂來陷害無辜"}
+================================================
+Processing: "lalacegan = lalecegan {Z} = nalecegan {N} = o pasa'saan：屋頂的突出部分"
+---
+term="lalacegan"
+description="屋頂的突出部分"
+synonym=["lalecegan", "nalecegan", "o pasa'saan"]
+---
+term="lalecegan"
+dialet=["撒奇萊雅語"]
+description="屋頂的突出部分"
+synonym=["lalacegan", "nalecegan", "o pasa'saan"]
+---
+term="nalecegan"
+dialet=["北方話"]
+description="屋頂的突出部分"
+synonym=["lalacegan", "lalecegan", "o pasa'saan"]
+---
+term="o pasa'saan"
+description="屋頂的突出部分"
+synonym=["lalacegan", "lalecegan", "nalecegan"]

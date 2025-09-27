@@ -24,8 +24,38 @@ class AmisDictionaryParser
   def parse_line(line)
     return [] if line.strip.empty?
 
+    # Pre-process to extract examples that might be embedded in term part
+    # Look for pattern: "term_structure - example_phrase：translation"
+    extracted_example = nil
+    processed_line = line
+
+    # Pattern: anything - simple_phrase：translation (where simple_phrase doesn't contain = or {})
+    if line.match(/^(.+?)\s*-\s*([^：={}]+)：(.+)$/)
+      # Check if this looks like an example pattern
+      potential_match = line.match(/^(.+?)\s*-\s*([^：={}]+)：(.+)$/)
+      if potential_match
+        main_part = potential_match[1].strip
+        potential_amis = potential_match[2].strip
+        potential_zh = potential_match[3].strip
+
+        # Only treat as example if:
+        # 1. Main part contains term structure indicators (= or {})
+        # 2. Potential amis is simple (no complex punctuation)
+        # 3. Main part doesn't already have a colon
+        if !main_part.include?('：') &&
+           (main_part.include?(' = ') || main_part.include?('{')) &&
+           !potential_amis.include?('=') &&
+           !potential_amis.include?('{') &&
+           potential_amis.split.length <= 4 # Simple phrase
+
+          extracted_example = { amis: potential_amis, zh: potential_zh }
+          processed_line = main_part + '：' # Add empty description
+        end
+      end
+    end
+
     # Split on the main colon separator
-    parts = line.split('：', 2)
+    parts = processed_line.split('：', 2)
     return [] if parts.length < 2
 
     term_part = parts[0].strip
@@ -54,8 +84,8 @@ class AmisDictionaryParser
       # Add synonyms from description part to term structure
       synonym_parts.each do |syn_part|
         term, dialects = extract_term_and_dialects(syn_part)
-        term_info[:terms] << term
-        term_info[:dialects][term] = dialects if dialects && !dialects.empty?
+        term_info[:terms] << term if term
+        term_info[:dialects][term] = dialects if term && dialects && !dialects.empty?
       end
 
       # Create synonym groups including all terms
@@ -69,6 +99,9 @@ class AmisDictionaryParser
         parenthetical_part: nil
       }
 
+      # Add extracted example if any
+      desc_info[:examples] << extracted_example if extracted_example
+
       # Generate results
       return generate_results(term_info, desc_info)
     end
@@ -76,6 +109,9 @@ class AmisDictionaryParser
     # Regular parsing for other cases
     term_info = parse_term_part(term_part)
     desc_info = parse_description_part(description_part)
+
+    # Add extracted example if any
+    desc_info[:examples] << extracted_example if extracted_example
 
     generate_results(term_info, desc_info)
   end
@@ -98,16 +134,104 @@ class AmisDictionaryParser
     # Split by ' - ' to handle stem relationships and ' = ' for synonyms
     # First handle the case where we have both stems and synonyms
     if term_part.include?(' - ') && term_part.include?(' = ')
-      # Pattern like: "stem - term1 {dialect} = term2"
+      # Pattern like: "stem - term1 {dialect} = term2" or "stem - {dialect} = term2" or "stem - term - {dialect} = synonym"
       dash_parts = term_part.split(' - ', 2)
       stem = dash_parts[0].strip
       rest = dash_parts[1].strip
 
+      # Check if the rest starts with just dialect codes followed by =
+      dialect_only_match = rest.match(/^\s*(\{[^}]+\})\s*=\s*(.+)$/)
+      if dialect_only_match
+        # Pattern: "stem - {dialect} = synonyms"
+        # The dialect applies to the stem, not a separate term
+        dialect_part = dialect_only_match[1]
+        synonyms_part = dialect_only_match[2].strip
+
+        # Extract dialect for the stem
+        dialects = extract_dialects(dialect_part)
+
+        # Add stem as main term with dialect
+        result[:terms] << stem
+        result[:dialects][stem] = dialects if dialects && !dialects.empty?
+
+        # Parse synonyms - just take the main synonym term, not additional words
+        synonym_terms = synonyms_part.split(/[\s=]+/).reject(&:empty?).reject { |t| t.match(/[{}]/) }
+        # Only take the first term as synonym to avoid parsing structural elements
+        if synonym_terms.length > 0
+          result[:terms] << synonym_terms[0]
+        end
+
+        # Create synonym group
+        result[:synonyms_groups] = [result[:terms]] if result[:terms].length > 1
+        return result
+      end
+
+      # Check for pattern: "stem - term - {dialect} = synonym"
+      term_dialect_synonym_match = rest.match(/^(.+?)\s*-\s*(\{[^}]+\})\s*=\s*(.+)$/)
+      if term_dialect_synonym_match
+        term_part_inner = term_dialect_synonym_match[1].strip
+        dialect_part = term_dialect_synonym_match[2]
+        synonyms_part = term_dialect_synonym_match[3].strip
+
+        # Extract dialect
+        dialects = extract_dialects(dialect_part)
+
+        # Add stem
+        result[:stems] << stem
+
+        # Add derived term with dialect
+        result[:terms] << term_part_inner
+        result[:stem_derived_terms] << term_part_inner
+        result[:dialects][term_part_inner] = dialects if dialects && !dialects.empty?
+
+        # Parse synonyms
+        synonym_terms = synonyms_part.split(/[\s=]+/).reject(&:empty?).reject { |t| t.match(/[{}]/) }
+        if synonym_terms.length > 0
+          result[:terms] << synonym_terms[0]
+        end
+
+        # Create synonym group with derived term and synonym
+        result[:synonyms_groups] = [[term_part_inner, synonym_terms[0]].compact] if synonym_terms.length > 0
+        return result
+      end
+
+      # Check for pattern: "stem - {dialect} - term = synonym"
+      dialect_term_synonym_match = rest.match(/^(\{[^}]+\})\s*-\s*(.+?)\s*=\s*(.+)$/)
+      if dialect_term_synonym_match
+        dialect_part = dialect_term_synonym_match[1]
+        term_part_inner = dialect_term_synonym_match[2].strip
+        synonyms_part = dialect_term_synonym_match[3].strip
+
+        # Extract dialect
+        dialects = extract_dialects(dialect_part)
+
+        # Add stem
+        result[:stems] << stem
+
+        # Add derived term with dialect
+        result[:terms] << term_part_inner
+        result[:stem_derived_terms] << term_part_inner
+        result[:dialects][term_part_inner] = dialects if dialects && !dialects.empty?
+
+        # Parse synonyms
+        synonym_terms = synonyms_part.split(/[\s=]+/).reject(&:empty?).reject { |t| t.match(/[{}]/) }
+        if synonym_terms.length > 0
+          result[:terms] << synonym_terms[0]
+        end
+
+        # Create synonym group with derived term and synonym
+        result[:synonyms_groups] = [[term_part_inner, synonym_terms[0]].compact] if synonym_terms.length > 0
+        return result
+      end
+
+      # Original logic for other cases
+      result[:stems] << stem
+
       # Parse the rest for synonyms and dialects
       synonym_info = parse_synonyms_and_dialects(rest)
 
-      result[:stems] << stem
       synonym_info[:terms].each_with_index do |term, index|
+        next if term.nil? # Skip nil terms
         result[:terms] << term
         if synonym_info[:dialects][index] && !synonym_info[:dialects][index].empty?
           result[:dialects][term] = synonym_info[:dialects][index]
@@ -118,7 +242,7 @@ class AmisDictionaryParser
           result[:stem_derived_terms] << term
         end
       end
-      result[:synonyms_groups] = [synonym_info[:terms]]
+      result[:synonyms_groups] = [synonym_info[:terms].compact] if synonym_info[:terms].compact.length > 1
 
     elsif term_part.include?(' - ')
       # Pattern like: "stem - term1 - term2" or "stem - term {dialect}" or "term - {dialect}"
@@ -136,8 +260,8 @@ class AmisDictionaryParser
           # This is "term - {dialect}" pattern
           combined_term_with_dialect = "#{first_part} #{second_part}".strip
           term, dialects = extract_term_and_dialects(combined_term_with_dialect)
-          result[:terms] << term
-          result[:dialects][term] = dialects if dialects && !dialects.empty?
+          result[:terms] << term if term
+          result[:dialects][term] = dialects if term && dialects && !dialects.empty?
           return result
         end
       end
@@ -151,6 +275,7 @@ class AmisDictionaryParser
         # Handle case like "stem - term1 = term2"
         synonym_info = parse_synonyms_and_dialects(terms_part)
         synonym_info[:terms].each_with_index do |term, index|
+          next if term.nil? # Skip nil terms
           result[:terms] << term
           if synonym_info[:dialects][index] && !synonym_info[:dialects][index].empty?
             result[:dialects][term] = synonym_info[:dialects][index]
@@ -161,11 +286,12 @@ class AmisDictionaryParser
             result[:stem_derived_terms] << term
           end
         end
-        result[:synonyms_groups] = [synonym_info[:terms]]
+        result[:synonyms_groups] = [synonym_info[:terms].compact] if synonym_info[:terms].compact.length > 1
       else
         # Multiple terms from same stem: "stem - term1 - term2"
         parts[1..-1].each do |term_with_dialect|
           term, dialects = extract_term_and_dialects(term_with_dialect.strip)
+          next if term.nil? # Skip nil terms
           result[:terms] << term
           result[:stem_derived_terms] << term # All are stem-derived in this case
           result[:dialects][term] = dialects if dialects && !dialects.empty?
@@ -176,18 +302,19 @@ class AmisDictionaryParser
       # Pattern like: "term1 = term2 = term3"
       synonym_info = parse_synonyms_and_dialects(term_part)
       synonym_info[:terms].each_with_index do |term, index|
+        next if term.nil? # Skip nil terms
         result[:terms] << term
         if synonym_info[:dialects][index] && !synonym_info[:dialects][index].empty?
           result[:dialects][term] = synonym_info[:dialects][index]
         end
       end
-      result[:synonyms_groups] = [synonym_info[:terms]]
+      result[:synonyms_groups] = [synonym_info[:terms].compact] if synonym_info[:terms].compact.length > 1
 
     else
       # Single term, possibly with dialect
       term, dialects = extract_term_and_dialects(term_part)
-      result[:terms] << term
-      result[:dialects][term] = dialects if dialects && !dialects.empty?
+      result[:terms] << term if term
+      result[:dialects][term] = dialects if term && dialects && !dialects.empty?
     end
 
     result
@@ -201,7 +328,7 @@ class AmisDictionaryParser
 
     parts.each do |part|
       term, term_dialects = extract_term_and_dialects(part.strip)
-      terms << term
+      terms << term # Can be nil
       dialects << term_dialects
     end
 
@@ -216,9 +343,9 @@ class AmisDictionaryParser
     # Remove dialect codes from term
     clean_term = text.gsub(/\s*\{[^}]+\}/, '').strip
 
-    # Check for empty term after cleaning
+    # If term is empty after removing dialect codes, return nil for term
     if clean_term.empty?
-      raise ArgumentError, "Empty term after removing dialect codes from: #{text.inspect}"
+      return [nil, dialects]
     end
 
     [clean_term, dialects]
@@ -340,6 +467,7 @@ class AmisDictionaryParser
 
       # Create entries for main descriptions (excluding parenthetical)
       term_info[:terms].each do |term|
+        next unless term # Skip nil terms
         next if term_info[:dialects][term] # Skip terms that already have dialects from parenthetical
 
         # Only assign stem if this term is stem-derived
@@ -362,6 +490,8 @@ class AmisDictionaryParser
       if desc_info[:parenthetical_part]
         # Create main entry with main descriptions
         term_info[:terms].each do |term|
+          next unless term # Skip nil terms
+
           if !desc_info[:descriptions].empty?
             # Only assign stem if this term is stem-derived
             stem_to_assign = if term_info[:stem_derived_terms].include?(term)
@@ -399,6 +529,8 @@ class AmisDictionaryParser
       else
         # No parenthetical content - regular processing
         term_info[:terms].each do |term|
+          next unless term # Skip nil terms
+
           # Only assign stem if this term is stem-derived
           stem_to_assign = if term_info[:stem_derived_terms].include?(term)
                             term_info[:stems].first
@@ -433,10 +565,13 @@ class AmisDictionaryParser
     entry[:term] = term
     entry[:dialects] = dialects if dialects && !dialects.empty?
 
-    if descriptions.length == 1
+    # Handle descriptions - set to empty string if no meaningful description
+    if descriptions.length == 1 && !descriptions.first.nil? && !descriptions.first.strip.empty?
       entry[:description] = descriptions.first
     elsif descriptions.length > 1
       entry[:description] = descriptions
+    else
+      entry[:description] = ""
     end
 
     entry[:examples] = examples.first if examples && !examples.empty?
