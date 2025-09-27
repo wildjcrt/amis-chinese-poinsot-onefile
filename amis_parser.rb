@@ -31,13 +31,47 @@ class AmisDictionaryParser
     term_part = parts[0].strip
     description_part = parts[1].strip
 
-    # Parse the term part to extract terms, stems, dialects, and synonyms
-    term_info = parse_term_part(term_part)
+    # Check if description part contains synonyms (indicated by = signs)
+    # This needs to be handled specially for cases like example 12
+    # Only apply this logic when:
+    # - Description part has = but no - (synonyms, not examples)
+    # - Term part has - but no = (stem relationship, not synonyms in term part)
+    if description_part.include?(' = ') && !description_part.include?(' - ') &&
+       term_part.include?(' - ') && !term_part.include?(' = ')
+      # Split description part into actual description and synonyms
+      desc_synonym_parts = description_part.split(' = ').map(&:strip)
+      actual_description = desc_synonym_parts[0]
+      synonym_parts = desc_synonym_parts[1..-1]
 
-    # Parse the description part to extract descriptions and examples
+      # Parse the term part normally
+      term_info = parse_term_part(term_part)
+
+      # Add synonyms from description part to term structure
+      synonym_parts.each do |syn_part|
+        term, dialects = extract_term_and_dialects(syn_part)
+        term_info[:terms] << term
+        term_info[:dialects][term] = dialects if dialects && !dialects.empty?
+      end
+
+      # Create synonym groups including all terms
+      all_terms = term_info[:terms]
+      term_info[:synonyms_groups] = [all_terms] if all_terms.length > 1
+
+      # Create description info with just the actual description
+      desc_info = {
+        descriptions: [actual_description],
+        examples: [],
+        parenthetical_part: nil
+      }
+
+      # Generate results
+      return generate_results(term_info, desc_info)
+    end
+
+    # Regular parsing for other cases
+    term_info = parse_term_part(term_part)
     desc_info = parse_description_part(description_part)
 
-    # Generate results based on the parsed information
     generate_results(term_info, desc_info)
   end
 

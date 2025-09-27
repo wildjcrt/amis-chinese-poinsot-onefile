@@ -111,7 +111,17 @@ Processing: "'alol - ma'alolay a fo'is： 流星 = mikadafo a fo'is = {N} pawlid
 ---
 term="ma'alolay a fo'is"
 stem="'alol"
-description=["流星", "mikadafo a fo'is", "{N} pawliday a fo'is"]
+description="流星"
+synonym=["mikadafo a fo'is", "pawliday a fo'is"]
+---
+term="mikadafo a fo'is"
+description="流星"
+synonym=["ma'alolay a fo'is", "pawliday a fo'is"]
+---
+term="pawliday a fo'is"
+dialet=["北方話"]
+description="流星"
+synonym=["ma'alolay a fo'is", "mikadafo a fo'is"]
 ================================================
 Processing: "'atilis：出血；月經過多 - “Ira ko ccay a fafahian, o ma'atalisay”(可 5,25)“有了一個女人患了十二年的血崩”"
 ---
