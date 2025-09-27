@@ -7,7 +7,11 @@ description="獵物，可以打獵的野生動物"
 Processing: "a'ayaw：前面；前頭；有…在場區時；(用心名予)招呼一個人 {Z}"
 ---
 term="a'ayaw"
-description=["前面", "前頭", "有…在場區時", "(用心名予)招呼一個人 {Z}"]
+description=["前面", "前頭", "有…在場區時"]
+---
+term="a'ayaw"
+dialet=["撒奇萊雅語"]
+description="(用心名予)招呼一個人"
 ================================================
 Processing: "alokikaw - {S}：淫樂"
 ---

@@ -160,30 +160,7 @@ class AmisDictionaryParser
       parenthetical_part: nil
     }
 
-    # Check for parenthetical content at the end
-    parenthetical_match = description_part.match(/^(.+?)\s*\(([^)]+)\)\s*(\{[^}]+\})(.*)$/)
-    if parenthetical_match
-      main_desc = parenthetical_match[1].strip
-      parenthetical_desc = parenthetical_match[2].strip
-      dialect_part = parenthetical_match[3]
-      remaining = parenthetical_match[4].strip
-
-      # Remove the parenthetical part from main descriptions
-      result[:descriptions] = parse_descriptions(main_desc)
-
-      if dialect_part
-        dialects = extract_dialects(dialect_part)
-        result[:parenthetical_part] = {
-          description: parenthetical_desc,
-          dialects: dialects
-        }
-      end
-
-      # Continue processing any remaining content after the parenthetical
-      description_part = remaining if !remaining.empty?
-    end
-
-    # Check for examples with quotes
+    # First check for examples with quotes (highest priority)
     quote_match = description_part.match(/^(.+?)\s*-\s*"([^"]+)"\s*\(([^)]+)\)\s*"([^"]+)"$/)
     if quote_match
       desc_text = quote_match[1].strip
@@ -191,9 +168,7 @@ class AmisDictionaryParser
       reference = quote_match[3].strip
       zh_translation = "#{reference}#{quote_match[4].strip}"
 
-      if result[:descriptions].empty?
-        result[:descriptions] = parse_descriptions(desc_text)
-      end
+      result[:descriptions] = parse_descriptions(desc_text)
       result[:examples] << { amis: amis_example, zh: zh_translation }
       return result
     end
@@ -205,17 +180,53 @@ class AmisDictionaryParser
       amis_example = example_match[2].strip
       zh_translation = example_match[3].strip
 
-      if result[:descriptions].empty?
-        result[:descriptions] = parse_descriptions(desc_text)
-      end
+      result[:descriptions] = parse_descriptions(desc_text)
       result[:examples] << { amis: amis_example, zh: zh_translation }
       return result
     end
 
-    # No examples, just descriptions (if not already parsed)
-    if result[:descriptions].empty?
-      result[:descriptions] = parse_descriptions(description_part)
+    # Parse descriptions and check for parenthetical content with dialect
+    # Split by ；and check if last part has parenthetical + dialect pattern
+    desc_parts = description_part.split('；').map(&:strip)
+
+    # Check if the last part has parenthetical content with dialect
+    if desc_parts.length > 1
+      last_part = desc_parts.last
+      # Pattern: (parenthetical)additional_text {dialect}
+      parenthetical_match = last_part.match(/^\(([^)]+)\)(.+?)\s*(\{[^}]+\})$/)
+
+      if parenthetical_match
+        # Found parenthetical with dialect in last part
+        parenthetical_part = parenthetical_match[1].strip
+        additional_text = parenthetical_match[2].strip
+        dialect_part = parenthetical_match[3]
+
+        # Full description is parenthetical + additional text
+        full_desc = "(#{parenthetical_part})#{additional_text}"
+
+        # Main descriptions are all parts except the last one
+        result[:descriptions] = desc_parts[0..-2]
+
+        # Extract dialects and store parenthetical info
+        if dialect_part
+          dialects = extract_dialects(dialect_part)
+          result[:parenthetical_part] = {
+            description: full_desc,
+            dialects: dialects
+          }
+        end
+
+        return result
+      end
     end
+
+    # No parenthetical content, just regular descriptions
+    if description_part.include?(' = ')
+      result[:descriptions] = description_part.split(' = ').map(&:strip)
+    else
+      result[:descriptions] = desc_parts
+    end
+
     result
   end
 
@@ -256,21 +267,23 @@ class AmisDictionaryParser
         )
       end
     else
-      # Regular processing
-      term_info[:terms].each do |term|
-        # Create main entry
-        entry = create_entry(
-          term: term,
-          descriptions: desc_info[:descriptions],
-          examples: desc_info[:examples],
-          dialects: term_info[:dialects][term],
-          synonyms: get_synonyms_for_term(term, term_info[:synonyms_groups]),
-          stem: term_info[:stems].first
-        )
-        results << entry
+      # Regular processing - handle parenthetical from description part
+      if desc_info[:parenthetical_part]
+        # Create main entry with main descriptions
+        term_info[:terms].each do |term|
+          if !desc_info[:descriptions].empty?
+            entry = create_entry(
+              term: term,
+              descriptions: desc_info[:descriptions],
+              examples: desc_info[:examples],
+              dialects: term_info[:dialects][term],
+              synonyms: get_synonyms_for_term(term, term_info[:synonyms_groups]),
+              stem: term_info[:stems].first
+            )
+            results << entry
+          end
 
-        # Handle parenthetical part from description if present
-        if desc_info[:parenthetical_part]
+          # Create separate entry for parenthetical part
           parenthetical_entry = create_entry(
             term: term,
             descriptions: [desc_info[:parenthetical_part][:description]],
@@ -278,6 +291,19 @@ class AmisDictionaryParser
             stem: term_info[:stems].first
           )
           results << parenthetical_entry
+        end
+      else
+        # No parenthetical content - regular processing
+        term_info[:terms].each do |term|
+          entry = create_entry(
+            term: term,
+            descriptions: desc_info[:descriptions],
+            examples: desc_info[:examples],
+            dialects: term_info[:dialects][term],
+            synonyms: get_synonyms_for_term(term, term_info[:synonyms_groups]),
+            stem: term_info[:stems].first
+          )
+          results << entry
         end
       end
     end
