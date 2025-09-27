@@ -52,7 +52,8 @@ class AmisDictionaryParser
       stems: [],
       terms: [],
       synonyms_groups: [],
-      dialects: {}
+      dialects: {},
+      stem_derived_terms: [] # Track which terms are directly derived from stems
     }
 
     # Split by ' - ' to handle stem relationships and ' = ' for synonyms
@@ -72,6 +73,11 @@ class AmisDictionaryParser
         if synonym_info[:dialects][index] && !synonym_info[:dialects][index].empty?
           result[:dialects][term] = synonym_info[:dialects][index]
         end
+
+        # Only the first term is stem-derived
+        if index == 0
+          result[:stem_derived_terms] << term
+        end
       end
       result[:synonyms_groups] = [synonym_info[:terms]]
 
@@ -90,6 +96,11 @@ class AmisDictionaryParser
           if synonym_info[:dialects][index] && !synonym_info[:dialects][index].empty?
             result[:dialects][term] = synonym_info[:dialects][index]
           end
+
+          # Only the first term is stem-derived
+          if index == 0
+            result[:stem_derived_terms] << term
+          end
         end
         result[:synonyms_groups] = [synonym_info[:terms]]
       else
@@ -97,6 +108,7 @@ class AmisDictionaryParser
         parts[1..-1].each do |term_with_dialect|
           term, dialects = extract_term_and_dialects(term_with_dialect.strip)
           result[:terms] << term
+          result[:stem_derived_terms] << term # All are stem-derived in this case
           result[:dialects][term] = dialects if dialects && !dialects.empty?
         end
       end
@@ -247,10 +259,18 @@ class AmisDictionaryParser
       # Create entry for the main term with parenthetical description
       main_term = term_info[:terms].first
       if main_term
+        # Only assign stem if this term is stem-derived
+        stem_to_assign = if term_info[:stem_derived_terms].include?(main_term)
+                          term_info[:stems].first
+                        else
+                          nil
+                        end
+
         results << create_entry(
           term: main_term,
           dialects: term_info[:parenthetical][:dialects],
-          descriptions: [term_info[:parenthetical][:description]]
+          descriptions: [term_info[:parenthetical][:description]],
+          stem: stem_to_assign
         )
       end
 
@@ -258,12 +278,19 @@ class AmisDictionaryParser
       term_info[:terms].each do |term|
         next if term_info[:dialects][term] # Skip terms that already have dialects from parenthetical
 
+        # Only assign stem if this term is stem-derived
+        stem_to_assign = if term_info[:stem_derived_terms].include?(term)
+                          term_info[:stems].first
+                        else
+                          nil
+                        end
+
         results << create_entry(
           term: term,
           descriptions: desc_info[:descriptions],
           examples: desc_info[:examples],
           synonyms: get_synonyms_for_term(term, term_info[:synonyms_groups]),
-          stem: term_info[:stems].first
+          stem: stem_to_assign
         )
       end
     else
@@ -272,36 +299,56 @@ class AmisDictionaryParser
         # Create main entry with main descriptions
         term_info[:terms].each do |term|
           if !desc_info[:descriptions].empty?
+            # Only assign stem if this term is stem-derived
+            stem_to_assign = if term_info[:stem_derived_terms].include?(term)
+                              term_info[:stems].first
+                            else
+                              nil
+                            end
+
             entry = create_entry(
               term: term,
               descriptions: desc_info[:descriptions],
               examples: desc_info[:examples],
               dialects: term_info[:dialects][term],
               synonyms: get_synonyms_for_term(term, term_info[:synonyms_groups]),
-              stem: term_info[:stems].first
+              stem: stem_to_assign
             )
             results << entry
           end
 
           # Create separate entry for parenthetical part
+          stem_to_assign = if term_info[:stem_derived_terms].include?(term)
+                            term_info[:stems].first
+                          else
+                            nil
+                          end
+
           parenthetical_entry = create_entry(
             term: term,
             descriptions: [desc_info[:parenthetical_part][:description]],
             dialects: desc_info[:parenthetical_part][:dialects],
-            stem: term_info[:stems].first
+            stem: stem_to_assign
           )
           results << parenthetical_entry
         end
       else
         # No parenthetical content - regular processing
         term_info[:terms].each do |term|
+          # Only assign stem if this term is stem-derived
+          stem_to_assign = if term_info[:stem_derived_terms].include?(term)
+                            term_info[:stems].first
+                          else
+                            nil
+                          end
+
           entry = create_entry(
             term: term,
             descriptions: desc_info[:descriptions],
             examples: desc_info[:examples],
             dialects: term_info[:dialects][term],
             synonyms: get_synonyms_for_term(term, term_info[:synonyms_groups]),
-            stem: term_info[:stems].first
+            stem: stem_to_assign
           )
           results << entry
         end

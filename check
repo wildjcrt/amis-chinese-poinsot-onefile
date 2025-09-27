@@ -75,7 +75,6 @@ description="固定的，不動的"
 synonym=["masager"]
 ---
 term="masager"
-stem="'a'ager"
 description="固定的，不動的"
 synonym=["ma'a'ager"]
 ================================================
@@ -88,7 +87,6 @@ description=["發怒", "侮辱"]
 synonym=["mafirag"]
 ---
 term="mafirag"
-stem="yoyag"
 description=["發怒", "侮辱"]
 synonym=["mayoyag"]
 ================================================
