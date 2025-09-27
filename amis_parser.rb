@@ -121,9 +121,29 @@ class AmisDictionaryParser
       result[:synonyms_groups] = [synonym_info[:terms]]
 
     elsif term_part.include?(' - ')
-      # Pattern like: "stem - term1 - term2" or "stem - term {dialect}"
+      # Pattern like: "stem - term1 - term2" or "stem - term {dialect}" or "term - {dialect}"
       parts = term_part.split(' - ')
-      stem = parts[0].strip
+      first_part = parts[0].strip
+
+      # Check if this is just "term - {dialect}" pattern
+      if parts.length == 2
+        second_part = parts[1].strip
+        # If the second part becomes empty after removing dialect codes,
+        # then this is a "term - {dialect}" pattern, not a stem-term relationship
+        clean_second_part = second_part.gsub(/\s*\{[^}]+\}/, '').strip
+
+        if clean_second_part.empty?
+          # This is "term - {dialect}" pattern
+          combined_term_with_dialect = "#{first_part} #{second_part}".strip
+          term, dialects = extract_term_and_dialects(combined_term_with_dialect)
+          result[:terms] << term
+          result[:dialects][term] = dialects if dialects && !dialects.empty?
+          return result
+        end
+      end
+
+      # Regular stem-term relationship processing
+      stem = first_part
       result[:stems] << stem
 
       terms_part = parts[1..-1].join(' - ')
