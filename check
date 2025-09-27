@@ -1,0 +1,117 @@
+================================================
+Processing: "'a'adopen：獵物，可以打獵的野生動物"
+---
+term="'a'adopen"
+description="獵物，可以打獵的野生動物"
+================================================
+Processing: "a'ayaw：前面；前頭；有…在場區時；(用心名予)招呼一個人 {Z}"
+---
+term="a'ayaw"
+description=["前面", "前頭", "有…在場區時", "(用心名予)招呼一個人 {Z}"]
+================================================
+Processing: "alokikaw - {S}：淫樂"
+---
+term=""
+stem="alokikaw"
+dialet=["南方話"]
+description="淫樂"
+================================================
+Processing: "aag - mapaag：給某人一份禮物，交換禮物"
+---
+term="mapaag"
+stem="aag"
+description="給某人一份禮物，交換禮物"
+================================================
+Processing: "aat - miaat - miaet：表明"
+---
+term="miaat"
+stem="aat"
+description="表明"
+---
+term="miaet"
+stem="aat"
+description="表明"
+================================================
+Processing: "aanag - miaanag {F}：藏，隱藏"
+---
+term="miaanag"
+stem="aanag"
+dialet=["鳳林話"]
+description="藏，隱藏"
+================================================
+Processing: "aaw = a'aw：鰓灰色的角金龜；金龜子；傳奇人物 髹"
+---
+term="aaw"
+description=["鰓灰色的角金龜", "金龜子", "傳奇人物 髹"]
+synonym=["a'aw"]
+---
+term="a'aw"
+description=["鰓灰色的角金龜", "金龜子", "傳奇人物 髹"]
+synonym=["aaw"]
+================================================
+Processing: "'a'ad = 'ad'ad = wadwad：陳列 (為使乾) = 翻亂 (如 小孩子亂翻)"
+---
+term="'a'ad"
+description=["陳列 (為使乾)", "翻亂 (如 小孩子亂翻)"]
+synonym=["'ad'ad", "wadwad"]
+---
+term="'ad'ad"
+description=["陳列 (為使乾)", "翻亂 (如 小孩子亂翻)"]
+synonym=["'a'ad", "wadwad"]
+---
+term="wadwad"
+description=["陳列 (為使乾)", "翻亂 (如 小孩子亂翻)"]
+synonym=["'a'ad", "'ad'ad"]
+================================================
+Processing: "'a'ager - ma'a'ager = masager：固定的，不動的"
+---
+term="ma'a'ager"
+stem="'a'ager"
+description="固定的，不動的"
+synonym=["masager"]
+---
+term="masager"
+stem="'a'ager"
+description="固定的，不動的"
+synonym=["ma'a'ager"]
+================================================
+Processing: "yoyag - mayoyag {F}{T} = mafirag：發怒；侮辱"
+---
+term="mayoyag"
+stem="yoyag"
+dialet=["鳳林話", "富田語"]
+description=["發怒", "侮辱"]
+synonym=["mafirag"]
+---
+term="mafirag"
+stem="yoyag"
+description=["發怒", "侮辱"]
+synonym=["mayoyag"]
+================================================
+Processing: "fisal = 'sal = final：掉太緊密的秧 - mifisal to sapal no dateg：菜苗移植"
+---
+term="fisal"
+description="掉太緊密的秧"
+example={:amis=>"mifisal to sapal no dateg", :zh=>"菜苗移植"}
+synonym=["'sal", "final"]
+---
+term="'sal"
+description="掉太緊密的秧"
+example={:amis=>"mifisal to sapal no dateg", :zh=>"菜苗移植"}
+synonym=["fisal", "final"]
+---
+term="final"
+description="掉太緊密的秧"
+example={:amis=>"mifisal to sapal no dateg", :zh=>"菜苗移植"}
+synonym=["fisal", "'sal"]
+================================================
+Processing: "'alol - ma'alolay a fo'is： 流星 = mikadafo a fo'is = {N} pawliday a fo'is"
+---
+term="ma'alolay a fo'is"
+stem="'alol"
+description=["流星", "mikadafo a fo'is", "{N} pawliday a fo'is"]
+================================================
+Processing: "'atilis：出血；月經過多 - “Ira ko ccay a fafahian, o ma'atalisay”(可 5,25)“有了一個女人患了十二年的血崩”"
+---
+term="'atilis"
+description=["出血", "月經過多 - “Ira ko ccay a fafahian, o ma'atalisay”(可 5,25)“有了一個女人患了十二年的血崩”"]
