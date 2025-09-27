@@ -31,6 +31,11 @@ class AmisDictionaryParser
     term_part = parts[0].strip
     description_part = parts[1].strip
 
+    # Check for empty term part
+    if term_part.empty?
+      raise ArgumentError, "Empty term part in line: #{line.inspect}"
+    end
+
     # Check if description part contains synonyms (indicated by = signs)
     # This needs to be handled specially for cases like example 12
     # Only apply this logic when:
@@ -190,6 +195,11 @@ class AmisDictionaryParser
 
     # Remove dialect codes from term
     clean_term = text.gsub(/\s*\{[^}]+\}/, '').strip
+
+    # Check for empty term after cleaning
+    if clean_term.empty?
+      raise ArgumentError, "Empty term after removing dialect codes from: #{text.inspect}"
+    end
 
     [clean_term, dialects]
   end
@@ -393,6 +403,11 @@ class AmisDictionaryParser
   end
 
   def create_entry(term:, descriptions: [], examples: [], dialects: nil, synonyms: nil, stem: nil)
+    # Check for empty term
+    if term.nil? || term.strip.empty?
+      raise ArgumentError, "Cannot create entry with empty term"
+    end
+
     entry = {}
     entry[:stem] = stem if stem && stem != term
     entry[:term] = term
