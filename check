@@ -116,4 +116,5 @@ description=["流星", "mikadafo a fo'is", "{N} pawliday a fo'is"]
 Processing: "'atilis：出血；月經過多 - “Ira ko ccay a fafahian, o ma'atalisay”(可 5,25)“有了一個女人患了十二年的血崩”"
 ---
 term="'atilis"
-description=["出血", "月經過多 - “Ira ko ccay a fafahian, o ma'atalisay”(可 5,25)“有了一個女人患了十二年的血崩”"]
+description=["出血", "月經過多"]
+example={:amis=>"Ira ko ccay a fafahian, o ma'atalisay", :zh=>"可 5,25有了一個女人患了十二年的血崩"}

@@ -173,7 +173,7 @@ class AmisDictionaryParser
     }
 
     # First check for examples with quotes (highest priority)
-    quote_match = description_part.match(/^(.+?)\s*-\s*"([^"]+)"\s*\(([^)]+)\)\s*"([^"]+)"$/)
+    quote_match = description_part.match(/^(.+?)\s*-\s*“([^"]+)”\s*\(([^)]+)\)\s*“([^"]+)”$/)
     if quote_match
       desc_text = quote_match[1].strip
       amis_example = quote_match[2].strip
