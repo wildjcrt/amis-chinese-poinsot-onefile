@@ -2692,7 +2692,7 @@ dayna：杆；蘆葦草支架，架柵
 dayom：感輕痛苦的事物；輕便的；安慰；鼓勵
 dayom - caay ka dayom：困難的
 daypay = dahpay：晾布製品
-daysag - (J？ - S) = kakitaan：首領；村長；區長；里長
+daysag {S} = kakitaan：日語（？）首領；村長；區長；里長
 dcag = dfit：使人厭倦的；令人厭煩的
 dcag - madcag：厭煩的；感到惡心的；煩惱的
 dco' - (dcoh) = dicoh：拔出；拔掉
