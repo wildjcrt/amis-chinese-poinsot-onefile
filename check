@@ -236,3 +236,38 @@ Processing: "cacipa' - (cipa')：小道的夜叉；十字路口；交叉口"
 term="cacipa'"
 stem="cipa'"
 description=["小道的夜叉", "十字路口", "交叉口"]
+================================================
+Processing: "awid = slal (idag, pado)：朋友，同年，儕輩；當然，一定的(指驚訝)；說明"
+---
+term="awid"
+description=["朋友，同年，儕輩", "當然，一定的(指驚訝)", "說明"]
+synonym=["slal", "idag", "pado"]
+---
+term="slal"
+description=["朋友，同年，儕輩", "當然，一定的(指驚訝)", "說明"]
+synonym=["awid", "idag", "pado"]
+---
+term="idag"
+description=["朋友，同年，儕輩", "當然，一定的(指驚訝)", "說明"]
+synonym=["awid", "slal", "pado"]
+---
+term="pado"
+description=["朋友，同年，儕輩", "當然，一定的(指驚訝)", "說明"]
+synonym=["awid", "slal", "idag"]
+================================================
+Processing: "faloco' - masafaloco', misafaloco', pasafaloco'：思想；想起，記得；作計劃"
+---
+term="masafaloco'"
+stem="faloco'"
+description=["思想", "想起，記得", "作計劃"]
+synonym=["misafaloco'", "pasafaloco'"]
+---
+term="misafaloco'"
+stem="faloco'"
+description=["思想", "想起，記得", "作計劃"]
+synonym=["masafaloco'", "pasafaloco'"]
+---
+term="pasafaloco'"
+stem="faloco'"
+description=["思想", "想起，記得", "作計劃"]
+synonym=["masafaloco'", "misafaloco'"]

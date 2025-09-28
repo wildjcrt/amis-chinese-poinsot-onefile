@@ -292,8 +292,46 @@ class AmisDictionaryParser
         parts[1..-1].each do |term_with_dialect|
           term_text = term_with_dialect.strip
 
+          # Check if this contains comma-separated terms
+          if term_text.include?(',')
+            # Split by comma and process each term
+            comma_separated_terms = term_text.split(',').map(&:strip)
+            comma_separated_terms.each do |single_term_text|
+              single_term_text = single_term_text.strip
+              next if single_term_text.empty?
+
+              # Check if this is just parenthetical content: "(stem)"
+              if single_term_text.match(/^\s*\(([^)]+)\)\s*$/)
+                # Pattern: "term - (stem)" - parenthetical content is the actual stem
+                stem_content = single_term_text.match(/^\s*\(([^)]+)\)\s*$/)[1].strip
+                actual_term = stem # The original "stem" is actually the term
+
+                # Clear previous data and set correct structure
+                result[:stems] = [stem_content]
+                result[:terms] = [actual_term]
+                result[:stem_derived_terms] = [actual_term]
+              else
+                # Regular term processing
+                term, dialects = extract_term_and_dialects(single_term_text)
+                next if term.nil? # Skip nil terms
+                result[:terms] << term
+                result[:stem_derived_terms] << term # All are stem-derived in this case
+                result[:dialects][term] = dialects if dialects && !dialects.empty?
+              end
+            end
+
+            # Create synonym relationships between all comma-separated terms
+            valid_terms = comma_separated_terms.map { |t|
+              term, _ = extract_term_and_dialects(t.strip)
+              term
+            }.compact
+
+            if valid_terms.length > 1
+              result[:synonyms_groups] << valid_terms
+            end
+
           # Check if this is just parenthetical content: "(stem)"
-          if term_text.match(/^\s*\(([^)]+)\)\s*$/)
+          elsif term_text.match(/^\s*\(([^)]+)\)\s*$/)
             # Pattern: "term - (stem)" - parenthetical content is the actual stem
             stem_content = term_text.match(/^\s*\(([^)]+)\)\s*$/)[1].strip
             actual_term = stem # The original "stem" is actually the term
@@ -370,9 +408,37 @@ class AmisDictionaryParser
     dialects = []
 
     parts.each do |part|
-      term, term_dialects = extract_term_and_dialects(part.strip)
-      terms << term # Can be nil
-      dialects << term_dialects
+      part = part.strip
+
+      # Check if this part contains parenthetical comma-separated terms
+      # Pattern: "term (term1, term2, term3)"
+      parenthetical_match = part.match(/^(.+?)\s*\(([^)]+)\)\s*(.*)$/)
+      if parenthetical_match
+        main_term = parenthetical_match[1].strip
+        parenthetical_content = parenthetical_match[2].strip
+        remaining_part = parenthetical_match[3].strip
+
+        # Add the main term
+        if !main_term.empty?
+          main_term_with_remaining = "#{main_term} #{remaining_part}".strip
+          term, term_dialects = extract_term_and_dialects(main_term_with_remaining)
+          terms << term
+          dialects << term_dialects
+        end
+
+        # Add the comma-separated terms from parentheses
+        parenthetical_terms = parenthetical_content.split(',').map(&:strip)
+        parenthetical_terms.each do |pterm|
+          term, term_dialects = extract_term_and_dialects(pterm)
+          terms << term
+          dialects << term_dialects
+        end
+      else
+        # Regular term processing
+        term, term_dialects = extract_term_and_dialects(part)
+        terms << term # Can be nil
+        dialects << term_dialects
+      end
     end
 
     { terms: terms, dialects: dialects }
