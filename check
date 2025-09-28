@@ -180,12 +180,12 @@ description="抵押"
 example={:amis=>"titoboc", :zh=>"抵押物"}
 synonym=["satito"]
 ================================================
-Processing: "'alafo - sapa'alofo：送禮物為感謝；賄賂 - caay piala cigra to sapa'alafo to todog o sapawacay to pakainiay i awaay ko raraw a tamdaw (詩：15,5) 他不受賄賂來陷害無辜"
+Processing: "'alafo - sapa'alofo：送禮物為感謝；賄賂 - caay piala cigra to sapa'alafo to todog o sapawacay to pakainiay i awaay ko raraw a tamdaw (詩 15,5) 他不受賄賂來陷害無辜"
 ---
 term="sapa'alofo"
 stem="'alafo"
 description=["送禮物為感謝", "賄賂"]
-example={:amis=>"caay piala cigra to sapa'alafo to todog o sapawacay to pakainiay i awaay ko raraw a tamdaw (詩", :zh=>"15,5) 他不受賄賂來陷害無辜"}
+example={:amis=>"caay piala cigra to sapa'alafo to todog o sapawacay to pakainiay i awaay ko raraw a tamdaw", :zh=>"(詩 15,5) 他不受賄賂來陷害無辜"}
 ================================================
 Processing: "lalacegan = lalecegan {Z} = nalecegan {N} = o pasa'saan：屋頂的突出部分"
 ---
@@ -206,3 +206,10 @@ synonym=["lalacegan", "lalecegan", "o pasa'saan"]
 term="o pasa'saan"
 description="屋頂的突出部分"
 synonym=["lalacegan", "lalecegan", "nalecegan"]
+================================================
+Processing: "co'ed - kasaco'edco'ed：屋脊；頂；侮個角落 - “Miti'er ko tamdaw no kasafinawlan 'i, kasaco'eco'ed no hkal ato riyar i Tisowanan”(詩 64,5 和 詩 71,8)“世上萬民和天涯海角的人都信靠你”"
+---
+term="kasaco'edco'ed"
+stem="co'ed"
+description=["屋脊", "頂", "侮個角落"]
+example={:amis=>"Miti'er ko tamdaw no kasafinawlan 'i, kasaco'eco'ed no hkal ato riyar i Tisowanan", :zh=>"(詩 64,5 和 詩 71,8)世上萬民和天涯海角的人都信靠你"}

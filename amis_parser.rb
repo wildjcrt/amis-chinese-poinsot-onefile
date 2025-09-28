@@ -376,6 +376,20 @@ class AmisDictionaryParser
       return result
     end
 
+    # Check for examples with parenthetical reference (no quotes)
+    # Pattern: "description - amis_text (reference) chinese_translation"
+    parenthetical_example_match = description_part.match(/^(.+?)\s*-\s*(.+?)\s*\(([^)]+)\)\s*(.+)$/)
+    if parenthetical_example_match
+      desc_text = parenthetical_example_match[1].strip
+      amis_example = parenthetical_example_match[2].strip
+      reference = parenthetical_example_match[3].strip
+      zh_translation = "(#{reference}) #{parenthetical_example_match[4].strip}"
+
+      result[:descriptions] = parse_descriptions(desc_text)
+      result[:examples] << { amis: amis_example, zh: zh_translation }
+      return result
+    end
+
     # Check for simple examples
     example_match = description_part.match(/^(.+?)\s*-\s*([^：]+)：(.+)$/)
     if example_match
