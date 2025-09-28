@@ -290,11 +290,54 @@ class AmisDictionaryParser
       else
         # Multiple terms from same stem: "stem - term1 - term2"
         parts[1..-1].each do |term_with_dialect|
-          term, dialects = extract_term_and_dialects(term_with_dialect.strip)
-          next if term.nil? # Skip nil terms
-          result[:terms] << term
-          result[:stem_derived_terms] << term # All are stem-derived in this case
-          result[:dialects][term] = dialects if dialects && !dialects.empty?
+          term_text = term_with_dialect.strip
+
+          # Check if this is just parenthetical content: "(stem)"
+          if term_text.match(/^\s*\(([^)]+)\)\s*$/)
+            # Pattern: "term - (stem)" - parenthetical content is the actual stem
+            stem_content = term_text.match(/^\s*\(([^)]+)\)\s*$/)[1].strip
+            actual_term = stem # The original "stem" is actually the term
+
+            # Clear previous data and set correct structure
+            result[:stems] = [stem_content]
+            result[:terms] = [actual_term]
+            result[:stem_derived_terms] = [actual_term]
+
+          # Check for parenthetical content with other text: "term (synonym)"
+          elsif term_text.match(/^(.+?)\s*\(([^)]+)\)\s*(.*)$/)
+            parenthetical_match = term_text.match(/^(.+?)\s*\(([^)]+)\)\s*(.*)$/)
+            main_part = parenthetical_match[1].strip
+            parenthetical_content = parenthetical_match[2].strip
+            remaining_part = parenthetical_match[3].strip
+
+            # Pattern: "stem - term (synonym)" - parenthetical content is a synonym
+            combined_main = "#{main_part} #{remaining_part}".strip
+            main_term, main_dialects = extract_term_and_dialects(combined_main)
+
+            # Extract synonym (assume no dialects in synonym for now)
+            synonym_term, synonym_dialects = extract_term_and_dialects(parenthetical_content)
+
+            if main_term && synonym_term
+              # Add both terms
+              result[:terms] << main_term
+              result[:terms] << synonym_term
+              result[:stem_derived_terms] << main_term # Only main term is stem-derived
+
+              # Add dialects
+              result[:dialects][main_term] = main_dialects if main_dialects && !main_dialects.empty?
+              result[:dialects][synonym_term] = synonym_dialects if synonym_dialects && !synonym_dialects.empty?
+
+              # Create synonym relationship
+              result[:synonyms_groups] << [main_term, synonym_term]
+            end
+          else
+            # Original logic
+            term, dialects = extract_term_and_dialects(term_text)
+            next if term.nil? # Skip nil terms
+            result[:terms] << term
+            result[:stem_derived_terms] << term # All are stem-derived in this case
+            result[:dialects][term] = dialects if dialects && !dialects.empty?
+          end
         end
       end
 

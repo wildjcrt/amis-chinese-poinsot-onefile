@@ -213,3 +213,26 @@ term="kasaco'edco'ed"
 stem="co'ed"
 description=["屋脊", "頂", "侮個角落"]
 example={:amis=>"Miti'er ko tamdaw no kasafinawlan 'i, kasaco'eco'ed no hkal ato riyar i Tisowanan", :zh=>"(詩 64,5 和 詩 71,8)世上萬民和天涯海角的人都信靠你"}
+================================================
+Processing: "caocao - micaocao (micawcaw )：弄污水；不直飲用的水；撥弄水；洗澡"
+---
+term="micaocao"
+stem="caocao"
+description=["弄污水", "不直飲用的水", "撥弄水", "洗澡"]
+synonym=["micawcaw"]
+---
+term="micawcaw"
+description=["弄污水", "不直飲用的水", "撥弄水", "洗澡"]
+synonym=["micaocao"]
+================================================
+Processing: "ai - (ay)：後綴: 表示現在分詞或經常形容詞"
+---
+term="ai"
+stem="ay"
+description="後綴: 表示現在分詞或經常形容詞"
+================================================
+Processing: "cacipa' - (cipa')：小道的夜叉；十字路口；交叉口"
+---
+term="cacipa'"
+stem="cipa'"
+description=["小道的夜叉", "十字路口", "交叉口"]
