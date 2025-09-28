@@ -14,7 +14,7 @@ def process_file(filename)
   # Handles: (), （）, （), (）
   # Looks for: opening paren + any chars + colon + numbers + comma + numbers + closing paren
   # Will NOT match colons in dictionary definitions like 'arini：經常排尿
-  pattern = /[(\（][^)\）]*：\d+[,，]\d+[)\）]/
+  pattern = /[(\（][^)\）]*[：；]\d+[,，]\d+[)\）]/
 
   # Create temporary file for output
   temp_filename = "#{filename}.tmp"
@@ -27,6 +27,7 @@ def process_file(filename)
         changes_made += 1
         puts "Line changed: #{line.strip}" if changes_made <= 5  # Show first 5 changes
         match.gsub('：', ' ')
+        match.gsub('；', ' ')
       end
 
       output_file.write(modified_line)

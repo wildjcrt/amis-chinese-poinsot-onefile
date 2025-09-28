@@ -1076,7 +1076,7 @@ cacorakan：江蟻
 cacos - {S} = tireg：身體；骨骼
 cacoy - micacoy = tatig：吊；掛
 cada - caay ka cada：沒有人按電話；接
-cada - macada：伸手接；收到的；帶；接到 - “A macada no kamay no coyoh kiso”(詩；90,12) - “Cadaen no coyoh to kamay kiso”：“天使要用手托住你”；承接
+cada - macada：伸手接；收到的；帶；接到 - “A macada no kamay no coyoh kiso”(詩 90,12) - “Cadaen no coyoh to kamay kiso”：“天使要用手托住你”；承接
 cada - micada：用雙手拿；按東西；帶；伸出手
 cada'an - {S}：呻吟；訢苦
 cadaay：助手；參加者
@@ -1280,7 +1280,7 @@ calcal = cakcak：斧頭；小斧；切塊
 calcal-micalcal：切成很薄的薄片;劈開
 calcepay = calecepay：話多的
 cal'des - {N} = fa'det：妤熱；妤燙；炎熱的天氣
-caleg：松樹；松柏科；木麻黃 - “Padipog ko tolatolaw i caleg a kilag”(詩；03,17)“鳥兒在香柏樹(雪松樹)裏築巢”
+caleg：松樹；松柏科；木麻黃 - “Padipog ko tolatolaw i caleg a kilag”(詩 03,17)“鳥兒在香柏樹(雪松樹)裏築巢”
 caleged：想望；calegeden：盼望的
 calemcem：擔心，憂慮；害怕；恐怖的；載浮，載沈 - “Saca'owa'owaw sa ko lonan nagra, sacalemcem sa cagra, saka matoled nagra”(詩 107,26)“危舟被打上高空，又下沈到深淵；驚險使他們喪失了勇氣”
 calemceman - kacalemcemlan = kacacemceman：公令人驚恐的；可怕的；心悸
@@ -1317,7 +1317,7 @@ calok no cka：刺的冠：= ckaay a calok = cickaay a tamorog
 calok - pacalokay：冠形的花束 (葬禮)
 calokacokay = taor ： 小灌木
 calolay = cicalolay：套馬具
-caloway = rahoday：容易的，順手的，便利 - “Caloway somowal kiso to tatiihay, caloway kiso a misamagah a somowal”(詩；50,19)“你的嘴巴隨時說壞話，你的舌頭隨地撒謊”；幫助，週意，方便 - “Nanay！o kacalowayan ako kiso a milogoc to mipadama iso”(詩 119,173)“求你隨時幫助我，因為我遵從你的命令” - ；大；重要；才能；靈巧
+caloway = rahoday：容易的，順手的，便利 - “Caloway somowal kiso to tatiihay, caloway kiso a misamagah a somowal”(詩 50,19)“你的嘴巴隨時說壞話，你的舌頭隨地撒謊”；幫助，週意，方便 - “Nanay！o kacalowayan ako kiso a milogoc to mipadama iso”(詩 119,173)“求你隨時幫助我，因為我遵從你的命令” - ；大；重要；才能；靈巧
 caloway - caay ka caloway：難的
 caloway - micaloway：抓住機會 - calowayay：很利害的人
 camahaw - micamahaw - pacamahaw：太辛勤工作；勤勞
@@ -1467,7 +1467,7 @@ ccay - sakaccay：第一，首先
 ccay - tadaccay：只；僅；才；(不過)
 ccayay：唯一的；擉一的 - ccayay ko tadec ko 'orip：孤兒，孤女
 cda'ah - micda'ah：呻吟；呻呼；嘆氣 - “Micda'ahay ko tamdaw”(詩 125,6)“那些人流淚”
-cda'ah - {S} = hodiyak：嘆息；深吸口氣，受外在之剌激梭呼吸，急促 - “Cagaw sa ci Yiso a pasakakarayan cda'ah sa”(可；7,34)“耶穌抬頭望天，深深地軟了一口氣”
+cda'ah - {S} = hodiyak：嘆息；深吸口氣，受外在之剌激梭呼吸，急促 - “Cagaw sa ci Yiso a pasakakarayan cda'ah sa”(可 7,34)“耶穌抬頭望天，深深地軟了一口氣”
 cdah - {F} kacdahay：鹹的 - {S}：辣的
 cdamay - {N} = sidamay：鹹魚的氣味
 cdan - cicdan {Z}：甜的
@@ -1500,7 +1500,7 @@ cekcek - micekcek {N}：一直看
 cekcek - sacekeck {F}：鳥嘴；喙
 Cekigan：花蓮縣光復鄕太巴塱(富田)八鄰
 'cel - {S}：擠
-cel - micel：刺繡織 - “Micelan to tada'kim ko riko' nira”(詩；44,13)“她的衣裳用金繡成”
+cel - micel：刺繡織 - “Micelan to tada'kim ko riko' nira”(詩 44,13)“她的衣裳用金繡成”
 celcel - cacelcel：擁擠
 celcel - macelcel：局促地；狹窄地；擠來擠去
 celcel - micelcel：壓緊；鑽進人群；長高，長大；長出；大家擠緊
@@ -10790,7 +10790,7 @@ m’ras = ’amlas：放蕩，荒淫；調情
 mras - {S}：細雨，毛毛雨
 mrec - mimrec to fitoka {N} = moric：消化
 mris = pamotek：瞪眼；注視
-mro = mamro：吞食(如同一條蛇吞一個雞蛋)；互相毀滅 - “Ano masasokalat kamo, ano masasocfil, pinaon kamo to saka’caka mamro”(加 5,15)“如果你們像禽獸一樣相咬，相吞，你們一定同歸於盡”；吸收，吸取 - “Onini i, to sapimroaw no ’orip to mamapatay”(林後；5,4)“好使那必朽的被生命取代”
+mro = mamro：吞食(如同一條蛇吞一個雞蛋)；互相毀滅 - “Ano masasokalat kamo, ano masasocfil, pinaon kamo to saka’caka mamro”(加 5,15)“如果你們像禽獸一樣相咬，相吞，你們一定同歸於盡”；吸收，吸取 - “Onini i, to sapimroaw no ’orip to mamapatay”(林後 5,4)“好使那必朽的被生命取代”
 mro = mimro：吮吞，吞食
 mtek - samtek mitgil {N}：慧心的，持重的人 na：前綴 (它是介系詞和連接詞的用法)， na 和後綴 to 加全動詞，表示：過去，以往， - …to 表示與其一個行動的完成，倒不如在時間的前後連結關係； - 可以同時用 na 和 to - Na 也表示動詞的前後連結關係和後面的動詞，例 - “Na maroray ci Yiso a romakat ’i, maro’ cigra”(若 6,6)“耶穌因為趕路疲倦，就坐在這裡”
 na anini = anini ko tka：從今以後
